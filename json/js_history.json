@@ -1,8 +1,8 @@
 [
 {
 "id":"js_history",
-"title":"A little history of JavaScript",
-"description":"<p>Javascript emerged in a specific context: the fast-paced development of Netscape's browser. When he was hired at Netscape, Brendan Eich was told that it would be \"Scheme for the browser\", but he was later told to make it more like C and Java. The first iteration of JS, created over a 10 day period, was a super-flexible, but also highly flawed child of the internet age.</p>",
+"title":"Michigan History as Told Through Archaeology",
+"description":"<p>People have been living in Michigan for 14,000 years. Since the retreat of the glaciers, people have inhabited Michigan's rich landscapes and used its may resources. Here, you will find a brief, annotated, timeline of what we know about the history of Michigan from archaeology.</p>",
 "focus_date":"1995-06-20 12:00:00",
 "initial_zoom":"39",
 "image_lane_height":50,
