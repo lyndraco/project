@@ -11,10 +11,10 @@
     
     {
         "id": "1393",
-        "title": "Louisiana Purchase",
-        "startdate": "1803-07-01 12:00",
+        "title": "Archaic Period",
+        "startdate": "-100-07-01 12:00",
         "enddate": "1803-07-01 12:00",
-        "description": "The United States purchases Louisiana Territory.",
+        "description": "People were here.",
 "icon": "triangle_green.png",
         "low_threshold": "1",
         "high_threshold": "60",
