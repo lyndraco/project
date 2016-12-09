@@ -10,9 +10,9 @@
 
 
 {
-"id":"jshist-Lambda",
+"id":"thumb-mastodon",
 "title": "Early Humans",
-"description":"The lambda calculus (also written as λ-calculus) is a formal system in mathematical logic for expressing computation by way of variable binding and substitution. It was first formulated by Alonzo Church as a way to formalize mathematics through the notion of functions, in contrast to the field of set theory. Although not very successful in that respect, the lambda calculus found early successes in the area of computability theory, such as a negative answer to Hilbert's Entscheidungsproblem.<br><br>Because of the importance of the notion of variable binding and substitution, there is not just one system of lambda calculus. Historically, the most important system was the untyped lambda calculus. In the untyped lambda calculus, function application has no restrictions (so the notion of the domain of a function is not built into the system). In the Church–Turing Thesis, the untyped lambda calculus is claimed to be capable of computing all effectively calculable functions. The typed lambda calculus is a variety that restricts function application, so that functions can only be applied if they are capable of accepting the given input's \"type\" of data.",
+"description":"This mastodon, found in Tuscola County, is one of the most complete found to date.",
 "startdate": "-14000",
 "high_threshold":50,
 "importance":"50",
