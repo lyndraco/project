@@ -16,7 +16,7 @@
 "startdate": "-14000-01-01 12:00:00",
 "high_threshold":50,
 "importance":"50",
-"image": /img/mastodon_thumb.jpg,
+"image": src=/img/mastodon_thumb.jpg,
 "link":"http://www.detroitnews.com/story/news/local/michigan/2016/10/17/mastodon-bones-michigan-thumb/92317446/",
 "date_display":"ye",
 "icon":"trowel.png"
