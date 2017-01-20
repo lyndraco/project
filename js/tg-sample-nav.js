@@ -11,8 +11,6 @@ $(function() {
 	+ "<li><a href='custom_tags.html'>More information</a></li>"
 	+ "<li><a href='inverted.html'>top-down (inverted) timeline</a></li>"
 	+ "<li><a href='load_object.html'>load data from object</a></li>"
-	+ "<li><a href='lanes.html'>topical lanes</a></li>"
-	+ "<li><a href='full_window.html'>full-window</a></li>"
 	+ "</ul></div>");
 
 
