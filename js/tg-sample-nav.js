@@ -7,8 +7,8 @@ $(function() {
 	+ "<ul>"
 	+ "<li><a href='basic.html'>Introduction</a></li>"
 	+ "<li><a href='glossary.html'>Glossary</a></li>"
-	+ "<li><a href='presentation.html'>References</a></li>"
-	+ "<li><a href='custom_tags.html'>More information</a></li>"
+	+ "<li><a href='references.html'>References</a></li>"
+	+ "<li><a href='more_info.html'>More information</a></li>"
 + "</ul></div>");
 
 
