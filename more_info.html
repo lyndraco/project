@@ -70,44 +70,8 @@
 </div>
 
 
-
-
-<div id='placement'></div>
-<div class='controls group'>
-<h4>Tags:</h4>
-<ul class='tags-list group' id='tags'></ul>
- 
-</div>
-
-
-<p>Take a look at <a target='_blank' href='json/tags.json'>the JSON for this presentation</a>. You'll see most events having a "tags" property with a simple comma-separated list of string values</p>
-<p>The widget has a "loaded" property &mdash; a function callback that can be defined as it's own function, or it can refer to a separate function. Here we've created a "timelineLoaded" function that accepts the Timeglider Mediator as an argument; the mediator can be used to get a list of existing tags with the getTagList() function.
-<pre>
-function timelineReady(mediator) {
-
-	var tags = mediator.getTagList();
-	
-	// CREATE TAG BUTTONS
-	var $tags = $("#tags");
-	_.each(tags, function(t) {
-		$tags.append("&lt;li data-tag_name='" + t.name  + "'>" + t.name + " (" + t.count + ")&lt;/li>");
-	});
-
-	$("#tags li").on("click", function() {
-		
-		var tags_arr = [], tags_str = "";
-		$(this).toggleClass("selected");
-		$("#tags li").each(function(li) {
-			var tname = $(this).data("tag_name");
-			if ($(this).hasClass("selected")) {
-				tags_arr.push(tname)
-			}
-		});
-		tags_str = tags_arr.join(",");	
-		mediator.setFilters({origin:"tags", tags: tags_str});
-	});	
-}
-</pre> 
+<p> Here is source number 1. 
+	Source number 2.
 
 </p>
 
@@ -147,81 +111,6 @@ function timelineReady(mediator) {
 	<!-- TESTING -->
 
   <script type='text/javascript'>
-  
-  /*
-  	window.namespacer = {
-		clickCallback:function(obj) {
-			alert("hello");
-		}
-	}
-	*/
-	var tg_actor = {};
-	var selected_tags = [];
-	
-	$(function () { 
-		
-		
-		var tg1 = $("#placement").timeline({
-				"timezone":"-07:00",
-				"min_zoom":1, 
-				"max_zoom":60, 
-				"show_centerline":true,
-				"data_source":"json/tags.json",
-				"show_footer":true,
-				"icon_folder":"timeglider/icons/",
-				"display_zoom_level":true,
-				"loaded":function(timelines, med) {
-					timelineReady(med);
-				}
-				
-						
-		}).resizable({
-			stop:function(){ 
-				$(this).data("timeline").resize();
-			}
-		});
-	
-	
-		tg_actor = tg1.data("timeline");
-		
-		
-		
-		function timelineReady(mediator) {
-		
-			var tags = mediator.getTagList();
-			
-			// CREATE TAG BUTTONS
-			var $tags = $("#tags");
-			_.each(tags, function(t) {
-				$tags.append("<li data-tag_name='" + t.name  + "'>" + t.name + " (" + t.count + ")</li>");
-			});
-	
-			$("#tags li").on("click", function() {
-				
-				var tags_arr = [], tags_str = "";
-				$(this).toggleClass("selected");
-				$("#tags li").each(function(li) {
-					var tname = $(this).data("tag_name");
-					if ($(this).hasClass("selected")) {
-						tags_arr.push(tname)
-					}
-				});
-				tags_str = tags_arr.join(",");	
-				mediator.setFilters({origin:"tags", tags: tags_str});
-			});	
-		}
-		
-		
-		
-		
-		
-		
-		
-				
-		}); // end document-ready
-    
-    
- 
 	
 </script>
 <script src='js/tg-sample-nav.js' type='text/javascript'></script>
