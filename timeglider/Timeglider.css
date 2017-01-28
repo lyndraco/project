@@ -993,7 +993,7 @@
 
 .timeglider-logo {
     float:left;
-    width:180px;
+    width:100%;
     height:24px;
     background-image:url("img/trowel.png");  /*("img/timeglider.png");*/
     background-repeat:no-repeat;
