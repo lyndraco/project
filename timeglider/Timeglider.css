@@ -28,7 +28,7 @@
 	overflow:hidden;
 	border:2px solid black;
 	/*background-color:#fefbf4;*/
-	background-image:url(img/Spruce Parkland2.jpg);
+	background-image:url(img/gradient.jpg);
   }
   
 
@@ -507,7 +507,7 @@
 	color:#fefbf4;
 	height:22px;
 	width:150px;
-	background-color:#42383D;
+	background-color:#228B22; /*#42383D*/
 	
 	-webkit-border-top-left-radius: 4px;
 	-webkit-border-top-right-radius: 4px;
@@ -532,7 +532,7 @@
 	border-left: 8px solid transparent;
 	border-right: 8px solid transparent;
 	/* needs to be same as bg of date-display */
-	border-bottom: 8px solid #42383D;
+	border-bottom: 8px solid #228B22; /*#42383D*/
 	opacity:.9;
 	
 }
