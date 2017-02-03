@@ -228,39 +228,46 @@
 
 {
 "id":"jshist-algol",
-"title": "ALGOL",
-"description":"Wikipedia:<br>ALGOL (short for ALGOrithmic Language) is a family of imperative computer programming languages originally developed in the mid 1950s which greatly influenced many other languages and was the standard method for algorithm description used by the ACM, in textbooks, and academic works for the next 30 years and more. In the sense that most modern languages are \"algol-like\", it was arguably the most successful of the four high level programming languages with which it was roughly contemporary, Fortran, Lisp, and COBOL.",
-"startdate": "1958-06-01 12:00:00",
+"title": "Naomikong Point",
+"description":"The site is largely a Middle Woodland period fishing camp.  Ceramics are plentiful, as well as fishing gear and copper items.  A smaller Late Woodland component is also present. Features present include post molds, refuse pits, and middens.",
+"startdate": "100",
+"enddate": "900",
 "importance":"35",
+"link": "https://en.wikipedia.org/wiki/Naomikong_Point_Site",
 "date_display":"ye",
 "high_threshold":50,
-"icon":"circle_green.png"
+"icon":"campfire.png"
 },
 
 
 
 {
 "id":"jshist-unix",
-"title": "UNIX",
-"description":"Wikipedia:<br>Unix (officially trademarked as UNIX, sometimes also written as Unix) is a multitasking, multi-user computer operating system originally developed in 1969 by a group of AT&T employees at Bell Labs, including Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McIlroy, and Joe Ossanna. The Unix operating system was first developed in assembly language, but by 1973 had been almost entirely recoded in C, greatly facilitating its further development and porting to other hardware.",
-"startdate": "1969-06-01 12:00:00",
+"title": "Old Fort Brady",
+"description":"Old Fort Brady was constructed in 1822 near the site of the previous French Fort Repentigny.  The fort was a military outpost to protect the straits.  Artifacts have been recovered from the fort.",
+"startdate": "1822",
+"enddate": "1892",
 "importance":"45",
+"LINK": "https://en.wikipedia.org/wiki/Fort_Brady",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fort_Brady_map.png",
 "date_display":"ye",
 "high_threshold":50,
-"icon":"circle_green.png"
+"icon":"fort.png"
 },
 
 
 {
 "id":"jshist-c",
-"title": "C",
-"description":"Wikipedia:<br>The initial development of C occurred at AT&T Bell Labs between 1969 and 1973; according to Ritchie, the most creative period occurred in 1972. It was named \"C\" because its features were derived from an earlier language called \"B\", which according to Ken Thompson was a stripped-down version of the BCPL programming language.",
-"startdate": "1972-06-01 12:00:00",
+"title": "Fort Drummond",
+"description":"The fort was established by the British garrison in 1815, after the evacuation of Fort Mackinac at the end fo the War of 1812.  The military post and adjacent settlement functioned as the center of British trade until 1828 when Drummond Island became part of the United States. <br> Archaeologists have identified seventy-four fort and village features, including stone foundaitnos, structural depressions, standing stone chimneys, wharves, wells, trash pits, privies ,and a semi-subterranean hut.  Excavations in the officers' quarters, store, mess, and a residence located white clay pipes, ceramics, beads, shot and gun parts, military buttons and insignia, bottles, and trade goods.",
+"startdate": "1815",
+"enddate": "1828",
 "importance":"55",
 "high_threshold":50,
-"image":"http://timeglider.com/widget/_js_history/ritchie_thompson.jpg",
+"image":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Fort_Drummond_Illustration.jpg",
+"link": "https://en.wikipedia.org/wiki/Fort_Drummond_(Drummond_Island,_Michigan)",
 "date_display":"ye",
-"icon":"circle_green.png"
+"icon":"fort.png"
 },
 
 
