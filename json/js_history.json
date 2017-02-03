@@ -77,7 +77,7 @@
 "startdate": "1869",
 "enddate": "1877",
 "high_threshold":50,
-"importance":"60",
+"importance":"50",
 "link":"https://www.fs.usda.gov/recarea/hiawatha/recarea/?recid=13325",
 "date_display":"ye",
 "modal_type":"full",
@@ -95,7 +95,7 @@
 "low_threshold":51,
 "high_threshold":52,
 "link":"https://www.nps.gov/piro/learn/historyculture/upload/schoolcraftblastfurnace.pdf",
-"importance":"60",
+"importance":"50",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchoolcraftFurnace-MunisingMI3.jpg/1024px-SchoolcraftFurnace-MunisingMI3.jpg",
 "date_display":"ye",
 "y_position":200,
@@ -183,7 +183,7 @@
 "description":"The site has been continuously occupied since the Late Archaic period, however the most well known component is from the late eighteenth century, when a cemetery was found.",
 "startdate": "-2000",
 "enddate": "1780",
-"importance":"35",
+"importance":"40",
 "date_display":"ye",
 "high_threshold":50,
 "icon":"village.png"
@@ -215,7 +215,7 @@
 "description":"Construction on the light began in 1854, though it was not in use until 1858.  The complex includes the lighthouse, keeper's house, and several outbuildings.",
 "startdate": "1854",
 "enddate": "1983",
-"importance":"35",
+"importance":"40",
 "date_display":"ye",
 "link": "http://www.pointbetsie.org/",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Point_Betsie_Lighthouse_2.jpg/800px-Point_Betsie_Lighthouse_2.jpg",
@@ -232,7 +232,7 @@
 "description":"The site is largely a Middle Woodland period fishing camp.  Ceramics are plentiful, as well as fishing gear and copper items.  A smaller Late Woodland component is also present. Features present include post molds, refuse pits, and middens.",
 "startdate": "100",
 "enddate": "900",
-"importance":"35",
+"importance":"40",
 "link": "https://en.wikipedia.org/wiki/Naomikong_Point_Site",
 "date_display":"ye",
 "high_threshold":50,
@@ -262,7 +262,7 @@
 "description":"The fort was established by the British garrison in 1815, after the evacuation of Fort Mackinac at the end fo the War of 1812.  The military post and adjacent settlement functioned as the center of British trade until 1828 when Drummond Island became part of the United States. <br> Archaeologists have identified seventy-four fort and village features, including stone foundaitnos, structural depressions, standing stone chimneys, wharves, wells, trash pits, privies ,and a semi-subterranean hut.  Excavations in the officers' quarters, store, mess, and a residence located white clay pipes, ceramics, beads, shot and gun parts, military buttons and insignia, bottles, and trade goods.",
 "startdate": "1815",
 "enddate": "1828",
-"importance":"55",
+"importance":"40",
 "high_threshold":50,
 "image":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Fort_Drummond_Illustration.jpg",
 "link": "https://en.wikipedia.org/wiki/Fort_Drummond_(Drummond_Island,_Michigan)",
@@ -279,7 +279,7 @@
 "startdate": "-10500",
 "enddate": "-7771",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "date_display":"ye",
 "icon":"campfire.png"
 },
@@ -323,7 +323,7 @@
 "startdate": "1893",
 "enddate": "1944",
 "high_threshold":50,
-"importance":"35",
+"importance":"40",
 "date_display":"ye",
 "link":"http://www.fortwiki.com/New_Fort_Brady",
 "icon":"fort.png"
@@ -337,7 +337,7 @@
 "startdate": "1827",
 "enddate": "1850",
 "high_threshold":50,
-"importance":"30",
+"importance":"40",
 "date_display":"ye",
 "icon":"house.png"
 },
@@ -350,7 +350,7 @@
 "startdate": "1794",
 "enddate": "1822",
 "high_threshold":50,
-"importance":"30",
+"importance":"40",
 "date_display":"ye",
 "icon":"house.png"
 },
@@ -365,7 +365,7 @@
 "startdate": "600",
 "enddate": "1839",
 "high_threshold":50,
-"importance":"35",
+"importance":"40",
 "date_display":"ye",
 "link":"http://www.mackinacparks.com/more-info/history/individual-site-histories/historic-mill-creek-discovery-park-history/",
 "icon":"industrial.png"
@@ -420,14 +420,14 @@
 
 {
 "id":"jshist-ie1",
-"title": "Internet Explorer v1.0",
-"description":"The first version of Internet Explorer (later referred to as Internet Explorer 1) made its debut on August 16, 1995. It was a reworked version of Spyglass Mosaic, which Microsoft had licensed, like many other companies initiating browser development, from Spyglass Inc. It came with Microsoft Plus! for Windows 95 and the OEM release of Windows 95, and was installed as part of the Internet Jumpstart Kit in Plus!",
-"startdate": "1995-08-16 12:00:00",
-"date_display":"da",
+"title": "Fritz Trail",
+"description":"This site is the location of several outcroppings of Norwood chert.  Some limestone quarrrying has been done here as well.  Evidence of stone tool manufacture is also evident.",
+"startdate": "-8000",
+"enddate": "1000",
+"date_display":"ye",
 "high_threshold":50,
-"importance":"30",
-"link":"http://en.wikipedia.org/wiki/Internet_Explorer#Internet_Explorer_1",
-"icon":"circle_purple.png"
+"importance":"40",
+"icon":"quarry.png"
 },
 
 
@@ -435,25 +435,25 @@
 
 {
 "id":"jshist-whatwg",
-"title": "WHATWG Founded",
-"description":"The Web Hypertext Application Technology Working Group (WHATWG) is a community of people interested in evolving HTML and related technologies. The WHATWG was founded by individuals from Apple, the Mozilla Foundation and Opera Software in 2004.",
-"startdate": "2004-06-04 12:00:00",
+"title": "Whiskey Creek",
+"description":"This site is located near a Norwood chert quarry, and shows evidence of stone tool mnufacture.",
+"startdate": "-8000",
+"enddate": "1000",
 "high_threshold":50,
-"importance":"25",
-"link":"http://www.whatwg.org/",
-"icon":"circle_purple.png"
+"importance":"40",
+"icon":"quarry.png"
 },
 
 
 {
 "id":"jshist-jscript",
-"title": "jScript in IE3",
-"description":"",
-"startdate": "1996-08-01 12:00:00",
+"title": "Mt. McSauba",
+"description":"This seasonal Late Woodland camp has had a series of excavations. An OSL date from the site came to 740 +/-70.",
+"startdate": "670",
+"enddate": "710",
 "high_threshold":50,
-"importance":"30",
-"link":"http://www.whatwg.org/",
-"icon":"circle_purple.png"
+"importance":"40",
+"icon":"campfire.png"
 },
 
 
