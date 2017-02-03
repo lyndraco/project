@@ -459,27 +459,26 @@
 
 {
 "id":"jshist-dhtml",
-"title": "DHTML!!",
-"description":"Rollovers! Animated Text! So cool. Basic DHTML support was introduced with Internet Explorer 4.0, although there was a basic dynamic system with Netscape Navigator 4.0. When it originally became widespread DHTML style techniques were difficult to develop and debug due to varying degrees of support among web browsers of the technologies involved.",
-"startdate": "1997-09-01 12:00:00",
+"title": "Inwood Creek I",
+"description":"This Late Archaic site has distinct soil layers and has been tested.",
+"startdate": "-2500",
+"enddate": "-1000",
 "high_threshold":50,
 "importance":"45",
-"link":"http://www.whatwg.org/",
-"icon":"circle_purple.png"
+"icon":"campfire.png"
 },
 
 
 
 {
 "id":"jshist-mochi_kit",
-"title": "mochikit",
-"description":"Mochikit was one of the earliest comprehensive JS DOM manipulation libraries. Wikipedia:<br>Ispired by the Python networking framework, Twisted, it uses the concept of deferred execution to allow asynchronous behaviour. This has made it useful in the development of interactive web pages which maintain a dialog with the web server, sometimes called Ajax applications.",
-"startdate": "2005-05-01 12:00:00",
+"title": "Inwood Creek II",
+"description":"This Late Archaic site has distinct soil layers and has been tested.",
+"startdate": "-2500",
+"enddate": "-1000",
 "high_threshold":50,
 "importance":"30",
-"link":"http://en.wikipedia.org/wiki/MochiKit",
-
-"icon":"triangle_orange.png"
+"icon":"campfire.png"
 },
 
 
@@ -488,14 +487,13 @@
 
 {
 "id":"jshist-qoox",
-"title": "qooxdo",
-"description":"qoxdoo, pronounced 'cooks do' was introduced in 2006. Wikipedia:<br>qooxdoo is entirely class-based and tries to leverage the features of object-oriented JavaScript. It is based on namespaces and does not modify or extend native JavaScript types",
-"startdate": "2006-06-01 12:00:00",
+"title": "Charlevoix City Park",
+"description":"This is a Late Woodland period site that has been excavated.",
+"startdate": "600",
+"enddate": "1600",
 "high_threshold":50,
 "importance":"30",
-"link":"http://en.wikipedia.org/wiki/qooxdoo",
-
-"icon":"triangle_orange.png"
+"icon":"campfire.png"
 },
 
 
@@ -503,38 +501,39 @@
 
 {
 "id":"jshist-script.aculo.us",
-"title": "script.aculo.us",
-"description":"Wikipedia:<br>script.aculo.us was extracted by Thomas Fuchs from his work on fluxiom, a web based digital asset management tool by the design company wollzelle. It was first released to the public in June 2005.",
-"startdate": "2005-06-01 12:00:00",
+"title": "Wood",
+"description":"This is a Late Woodland fishing camp that has been excavated.",
+"startdate": "600",
+"enddate": "1600",
 "high_threshold":50,
-"importance":"30",
-
-"icon":"triangle_orange.png"
+"importance":"40",
+"icon":"campfire.png"
 },
 
 
 {
 "id":"jshist-livewire",
-"title": "Netscape LiveWire",
-"description":"<img src='_js_history/livewire_cover.jpg' style='float:left'>LiveWire was a first attempt by Netscape to create a super-framework that included their Java back-end and database connectivity and front-end scripting. This was ostensibly to go head-to-head with Microsoft's new ASP framework. But also, Javascript could be included in the compile-time file to interpret server-side data (a .web file), much like today's PHP. It is uncanny how similar their system was to the later Flash compiled-bytecode system. It was a complete flop.",
-"startdate": "1997-06-01 12:00:00",
+"title": "Greensky Hill Mission",
+"description":"A small mission was built here in 1839 by Peter Greensky. A log building was constructed in 1861.",
+"startdate": "1839",
+"enddate": "1861",
 "high_threshold":50,
-"importance":"35",
-"modal_type":"full",
-
-"icon":"square_orange.png",
-"tags":"java,flop,netscape, aol"
+"importance":"40",
+"icon":"mission.png",
 },
 
 
 {
 "id":"jshist-coffee",
-"title": "CoffeeScript",
-"description":"Wikipedia:<br>On December 13, 2009, Jeremy Ashkenas made the first Git commit of CoffeeScript with the comment: \"initial commit of the mystery language.\" CoffeeScript was created after reading the \"Create Your Own Programming Language\" ebook.",
-"startdate": "2009-12-13 12:00:00",
+"title": "Feodar Protar House",
+"description":"Feodar Protar was a healer on Beaver Island.",
+"startdate": "1880",
+"enddate": "1925",
 "high_threshold":50,
-"importance":"30",
-"icon":"circle_green.png"
+"importance":"40",
+"image": "http://www.beaverisland.net/beaver-island-history/Historic_Sites/Protar_s_House/protarhouse2.jpg",
+"icon":"house.png"
+
 },
 
 
