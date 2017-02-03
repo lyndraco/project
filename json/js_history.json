@@ -140,8 +140,8 @@
 "startdate": "1691",
 "enddate": "1781",
 "importance":"40",
-"link"="http://wmich.edu/fortstjoseph",
-"image"="http://wmich.edu/sites/default/files/styles/720p/public/images/u816/2016/slide1.jpg?itok=v3AmM2_a",
+"link":"http://wmich.edu/fortstjoseph",
+"image":"http://wmich.edu/sites/default/files/styles/720p/public/images/u816/2016/slide1.jpg?itok=v3AmM2_a",
 "high_threshold":50,
 "date_display":"ye",
 "icon":"fort.png"
