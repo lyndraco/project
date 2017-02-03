@@ -150,13 +150,16 @@
 
 {
 "id":"jshist-perl",
-"title": "Perl",
-"description":"Wikipedia:<br>Perl is a high-level, general-purpose, interpreted, dynamic programming language. Perl was originally developed by Larry Wall in 1987 as a general-purpose Unix scripting language to make report processing easier.",
-"startdate": "1987-06-01 12:00:00",
+"title": "Assinins",
+"description":"This is the site of a mission, orphanage, and Native American settlement founded by Frederic Baraga.  Originally, the complex covered 497 acres and included over 15 log houses.  The grounds now house the Keweenaw Bay Indian Tribal Center.",
+"startdate": "1843",
+"enddate": "1873",
 "importance":"45",
 "high_threshold":50,
+"link": "https://en.wikipedia.org/wiki/Assinins,_Michigan", 
+"image": "http://www.baragacountyhistoricalmuseum.com/photohistory/picture_assinins_1900s_1.JPG",
 "date_display":"ye",
-"icon":"circle_green.png"
+"icon":"mission.png"
 },
 
 
