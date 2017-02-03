@@ -441,7 +441,7 @@
 "enddate": "1000",
 "high_threshold":50,
 "importance":"40",
-	"date_display":"ye",
+"date_display":"ye",
 "icon":"quarry.png"
 },
 
@@ -452,7 +452,7 @@
 "description":"This seasonal Late Woodland camp has had a series of excavations. An OSL date from the site came to 740 +/-70.",
 "startdate": "670",
 "enddate": "710",
-	"date_display":"ye",
+"date_display":"ye",
 "high_threshold":50,
 "importance":"40",
 "icon":"campfire.png"
@@ -533,7 +533,7 @@
 {
 "id":"jshist-coffee",
 "title": "Feodar Protar House",
-"description":"Feodar Protar was a healer on Beaver Island.",
+"description":"Feodar Protar was a healer from Russia on Beaver Island.",
 "startdate": "1880",
 "enddate": "1925",
 "high_threshold":50,
