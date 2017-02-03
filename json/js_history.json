@@ -332,7 +332,7 @@
 
 {
 "id":"Schoolcraft House",
-"title": "AOL 1.0",
+"title": "Schoolcraft House",
 "description":"This was once the home of Henry Schoolcraft (Indian agent and author). Archaeological work located many atifacts related to this early occupation, as well as evidence for prehistoric occupation.",
 "startdate": "1827",
 "enddate": "1850",
@@ -392,30 +392,29 @@
 
 {
 "id":"jshist-nnavigator",
-"title": "Netscape Navigator v1.0",
-"description":"Wikipedia:<br>Netscape Navigator was a proprietary web browser that was popular in the 1990s. It was the flagship product of the Netscape Communications Corporation and the dominant web browser in terms of usage share, although by 2002 its usage had almost disappeared.",
-"startdate": "1994-12-15 12:00:00",
-"click_callback":"pizzaShack.clicker",
+"title": "Pine River Channel",
+"description":"This small camp contains a Late Woodland assemblage of triangular points, stemmed and side-notche dpoints, drills, knives, bifaces, end scrapers, and gravers.",
+"startdate": "800",
+"enddate": "1000",
 "high_threshold":50,
 "importance":"40",
-"date_display":"da",
-"link":"http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29",
-"icon":"triangle_yellow.png"
+"date_display":"ye",
+"icon":"campfire.png"
 },
 
 
 
 {
 "id":"jshist-jvms",
-"title": "Eich and Hickman work on JVMs",
-"description":"Eich and Kipp Hickman work on Java Virtual Machines, create Netscape Portable Runtime (NSPR). This becomes the basis for creating Mocha.<br><br>Says Eich: Kipp Hickman and I had been studying Java in April and May 1995, and Kipp had started writing his own JVM. Kipp and I wrote the first version of NSPR as a portability layer underlying his JVM, and I used it for the same purpose when prototyping “Mocha” in early-to-mid-May.",
-"startdate": "1995-04-01 12:00:00",
-"enddate": "1995-05-15 12:00:00",
+"title": "Pi-wan-go-ning Quarry",
+"description":"This site includes the main outcrop of Norwood chert.  It has been utilized by people since the Archaic period, and there is evidence on site of quarrying and stone tool manufacture.",
+"startdate": "800",
+"enddate": "1000",
 "high_threshold":50,
-"importance":"20",
-"link":"http://brendaneich.com/2008/04/popularity/",
-"date_display":"da",
-"icon":"circle_gray.png"
+"importance":"45",
+"image":"https://archaeology.uiowa.edu/sites/archaeology.uiowa.edu/files/0MI-00-02Norwood.jpg",
+"date_display":"ye",
+"icon":"quarry.png"
 },
 
 
