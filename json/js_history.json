@@ -271,8 +271,6 @@
 },
 
 
-
-
 {
 "id":"jshist-php",
 "title": "New Fort Brady",
@@ -320,7 +318,6 @@
 
 
 
-
 {
 "id":"jshist-python",
 "title": "Campbell Farm",
@@ -358,8 +355,8 @@
 "id":"jshist-macwww",
 "title": "Leavitt",
 "description":"The Leavitt site consists of a Paleo-Indian occupation. A single feature has been identified by archaeologists, a shallow pit filled with lithic debitage.  Other artifacts include side and end scrapers, cores, and a fluted point base.  Several bifaces from the Early Archaic period were also recovered.",
-"startdate": "10500",
-"enddate": "7771",
+"startdate": "-10500",
+"enddate": "-7771",
 "high_threshold":50,
 "importance":"30",
 "date_display":"ye",
