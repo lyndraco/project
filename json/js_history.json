@@ -358,7 +358,7 @@
 "startdate": "-10500",
 "enddate": "-7771",
 "high_threshold":50,
-"importance":"30",
+"importance":"50",
 "date_display":"ye",
 "icon":"campfire.png"
 },
