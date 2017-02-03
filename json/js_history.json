@@ -441,6 +441,7 @@
 "enddate": "1000",
 "high_threshold":50,
 "importance":"40",
+	"date_display":"ye",
 "icon":"quarry.png"
 },
 
@@ -451,6 +452,7 @@
 "description":"This seasonal Late Woodland camp has had a series of excavations. An OSL date from the site came to 740 +/-70.",
 "startdate": "670",
 "enddate": "710",
+	"date_display":"ye",
 "high_threshold":50,
 "importance":"40",
 "icon":"campfire.png"
@@ -465,6 +467,7 @@
 "enddate": "-1000",
 "high_threshold":50,
 "importance":"45",
+"date_display":"ye",
 "icon":"campfire.png"
 },
 
@@ -477,6 +480,7 @@
 "startdate": "-2500",
 "enddate": "-1000",
 "high_threshold":50,
+"date_display":"ye",
 "importance":"30",
 "icon":"campfire.png"
 },
@@ -492,6 +496,7 @@
 "startdate": "600",
 "enddate": "1600",
 "high_threshold":50,
+"date_display":"ye",
 "importance":"30",
 "icon":"campfire.png"
 },
@@ -506,6 +511,7 @@
 "startdate": "600",
 "enddate": "1600",
 "high_threshold":50,
+"date_display":"ye",
 "importance":"40",
 "icon":"campfire.png"
 },
@@ -517,6 +523,7 @@
 "description":"A small mission was built here in 1839 by Peter Greensky. A log building was constructed in 1861.",
 "startdate": "1839",
 "enddate": "1861",
+"date_display":"ye",
 "high_threshold":50,
 "importance":"40",
 "icon":"mission.png",
@@ -531,6 +538,7 @@
 "enddate": "1925",
 "high_threshold":50,
 "importance":"40",
+"date_display":"ye",
 "image": "http://www.beaverisland.net/beaver-island-history/Historic_Sites/Protar_s_House/protarhouse2.jpg",
 "icon":"house.png"
 
