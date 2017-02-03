@@ -49,7 +49,6 @@
 "high_threshold":50,
 "importance":"40",
 "date_display":"ye",
-"click_callback":"timeglider.foo.boo",
 "icon":"village.png"
 },
 
@@ -123,13 +122,14 @@
 
 {
 "id":"jshist-self",
-"title": "Self",
-"description":"Self, one of the inspirations for Javascript's simplicity, and for its prototype-based object system (and therefore the system of delegation), was created at Xerox PARC ",
-"startdate": "1986-01-01 12:00:00",
+"title": "Moccasin Bluff",
+"description":"This multicomponent site has been occupied for many thousands of years.  The site includes camps, earthworks, and one of the most significant Upper Mississippian sites in Michigan.",
+"startdate": "-8000",
+"enddate": "1600",
 "importance":"40",
 "high_threshold":50,
 "date_display":"ye",
-"icon":"circle_green.png"
+"icon":"village.png"
 },
 
 
