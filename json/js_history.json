@@ -18,7 +18,7 @@
 "importance":"50",
 "image": "http://www.gannett-cdn.com/-mm-/e9f002cbb0a4fe7004f94522e8956058a4a8cc80/c=304-0-5168-3648&r=x404&c=534x401/local/-/media/2016/10/17/DetroitNews/B99453676Z.1_20161017182022_000_GRH16G9CK.1-0.jpg",
 "link":"http://www.detroitnews.com/story/news/local/michigan/2016/10/17/mastodon-bones-michigan-thumb/92317446/",
-"date_display":"ye",
+"date_display":"no",
 "icon":"trowel.png"
 },         
  
@@ -82,23 +82,25 @@
 "link":"https://www.fs.usda.gov/recarea/hiawatha/recarea/?recid=13325",
 "date_display":"ye",
 "modal_type":"full",
-"image":"https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5119901.jpg",
+"image":{src="https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5119901.jpg", height="50", width="50"},
 "icon":"industrial.png"
 },
 
 
 {
 "id":"jshist-nojs",
-"title": "There was no Javascript",
-"description":"Amazingly, until Brendan Eich created Javascript in 1995, there was none.",
-"startdate": "1936-01-01 12:00:00",
-"enddate": "1994-06-01 12:00:00",
+"title": "Schoolcraft Furnace",
+"description":"The Schoolcraft Furnace complex begain in 1868, processing ore from the Marquette Range.  It operated until 1877 when it was abandoned. Archaeological features include the furnace, a complex of charcoal kilns, two charcoal pits, and scatters of slag and charcoal.",
+"startdate": "1868",
+"enddate": "1877",
 "low_threshold":51,
 "high_threshold":52,
+"link":"https://www.nps.gov/piro/learn/historyculture/upload/schoolcraftblastfurnace.pdf",
 "importance":"60",
-"date_display":"no",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchoolcraftFurnace-MunisingMI3.jpg/1024px-SchoolcraftFurnace-MunisingMI3.jpg",
+"date_display":"ye",
 "y_position":200,
-"icon":"none"
+"icon":"industrial.png"
 },
 
 
