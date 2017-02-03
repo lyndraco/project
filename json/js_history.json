@@ -41,15 +41,16 @@
 
 {
 "id":"jshist-collossus",
-"title": "Colossus",
-"description":"Wikipedia:<br>Colossus was the world's first electronic, digital, programmable computer. Colossus and its successors were used by British codebreakers to help read encrypted German messages during World War II. They used thermionic valves (vacuum tubes) to perform the calculations.",
-"startdate": "1943-12-01 12:00:00",
+"title": "Hacklander",
+"description":"The Hacklander site consists of a small Archaic component (radiocarbon dated to 3664-3504 and 3427-2281 BC), Middle Woodland component, along with a larger Late Woodland component. Radiocarbon dates from this later component place the site at AD 1020 +/- 110 and AD 1070 +/-100.",
+"startdate": "-3644",
+"enddate": "1170"
 "high_threshold":50,
 "importance":"40",
 "link":"http://en.wikipedia.org/wiki/Colossus_computer",
 "date_display":"ye",
 "click_callback":"timeglider.foo.boo",
-"icon":"square_black.png"
+"icon":"village.png"
 },
 
 
@@ -57,29 +58,32 @@
 
 {
 "id":"jshist-lisp",
-"title": "Lisp",
-"description":"Created by the man who coined the term 'Artificial Intelligence', John McCarthy, Lisp was initially only described in an academic paper: It applies the lambda calculus, with potential heavy use of currying, to computer processes. The langauge was first implemented in hardware in March of 1960 on an IBM 704.",
-"startdate": "1958-01-01 12:00:00",
+"title": "Holtz",
+"description":"This Native American camp was occupied for a single time period during the Middle Woodland.",
+"startdate": "-600",
+"enddate": "600",
 "high_threshold":50,
 "importance":"40",
 "link":"http://en.wikipedia.org/wiki/Lisp_(programming_language)",
 "date_display":"ye",
-"icon":"circle_green.png"
+"icon":"campfire.png"
 },
 
 
 
 {
 "id":"jshist-www",
-"title": "WWW",
-"description":"",
-"startdate": "1990-12-01 12:00:00",
+"title": "Bay Furnace",
+"description":"The Bay Furnace was run by the Bay Furnace Iron Company who smelted iron here.  It was constructed in 1869 and destroyed by fire in 1877.  The town of Onota grew up around the furnace, and became the county seat of Schoolcraft County.  Archaeological survey of the property has identified nine structures, three charcoal kilns, a lime kiln, and two furnaces.",
+"startdate": "1869",
+"enddate": "1877",
 "high_threshold":50,
 "importance":"60",
+"link":"https://www.fs.usda.gov/recarea/hiawatha/recarea/?recid=13325",
 "date_display":"ye",
 "modal_type":"full",
-"image":{"src":"http://timeglider.com/widget/_js_history/berners-lee.jpg","display_class":"inline"},
-"icon":"flag_yellow.png"
+"image":{"src":"https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5119901.jpg","display_class":"inline"},
+"icon":"industrial.png"
 },
 
 
