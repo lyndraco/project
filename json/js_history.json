@@ -165,26 +165,28 @@
 
 {
 "id":"jshist-assem",
-"title": "Assembly Languages",
-"description":"Wikipedia:<br>Assembly languages date to the introduction of the stored-program computer. The EDSAC computer (1949) had an assembler called initial orders featuring one-letter mnemonics.",
-"startdate": "1949-06-01 12:00:00",
+"title": "Sand Point",
+"description":"This site contains a large village and several earthworks. Radiocarbon dates from the site include A.D. 1055, A.D. 1220, and A.D. 330.  Western Michigan University conducted excavations at the site in the 1970s and located a large variety of copper tools, including a crescent, necklace, flat spiral bead, tinkling cone, and 15 rolled beads. Copper tools included awls, barbs, twist drill, hook, harpoon fragment, and projectile points.  Many ceramic vessels have also been found on the site, both grit-tempered and shell-tempered.",
+"startdate": "300",
+"enddate": "1220",
 "importance":"48",
-"link":"http://en.wikipedia.org/wiki/Assembly_language",
+"link":"https://en.wikipedia.org/wiki/Sand_Point_Site",
 "date_display":"ye",
 "high_threshold":50,
-"icon":"circle_green.png"
+"icon":"village.png"
 },
 
 
 {
 "id":"jshist-cobol",
-"title": "COBOL",
-"description":"Wikipedia:<br>COBOL is one of the oldest programming languages. Its name is an acronym for COmmon Business-Oriented Language, defining its primary domain in business, finance, and administrative systems for companies and governments.",
-"startdate": "1959-06-01 12:00:00",
+"title": "Fletcher",
+"description":"The site has been continuously occupied since the Late Archaic period, however the most well known component is from the late eighteenth century, when a cemetery was found.",
+"startdate": "-2000",
+"enddate": "1780",
 "importance":"35",
 "date_display":"ye",
 "high_threshold":50,
-"icon":"circle_green.png"
+"icon":"village.png"
 },
 
 
