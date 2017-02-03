@@ -25,14 +25,15 @@
 
 {
 "id":"jshist-z3",
-"title": "Z3",
-"description":"Wikipedia:<br>The Z3 was an electromechanical computer designed by Konrad Zuse. It was the world's first working programmable, fully automatic computing machine.",
-"startdate": "1938-01-01 12:00:00",
+"title": "Sturgeon Point Lighthouse",
+"description":"This lighthouse was constructed in 1869, and was in operation until 1941.",
+"startdate": "1869",
+"enddate": "1941",
 "high_threshold":50,
 "importance":"40",
 "link":"http://en.wikipedia.org/wiki/Zuse_Z3",
 "date_display":"ye",
-"icon":"square_black.png"
+"icon":"lighthouse.png"
 },
 
 
