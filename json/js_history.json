@@ -192,15 +192,16 @@
 
 {
 "id":"jshist-flowmatic",
-"title": "FLOW-MATIC",
-"description":"Wikipedia:<br>FLOW-MATIC, originally known as B-0, was the first English-like data processing language. It was developed for the UNIVAC I at Remington Rand under Grace Hopper. Hopper had found that business data processing customers were uncomfortable with mathematical notation....The FLOW-MATIC compiler became publicly available in early 1958 and was substantially complete in 1959.",
-"startdate": "1955-06-01 12:00:00",
+"title": "Platte River",
+"description":"The site consists of a hearth, scatter of artifacts and much later homestead foundations.  A radiocarbon date came out to AD 260 +/- 80.  Floral and faunal remains (grape, cranberry, nannyberry, fish, and turtle) indicate that the site was occupied during warm weather.  A smaller Late Woodland camp was also located.",
+"startdate": "180",
+"enddate": "1269",
 "importance":"41",
 "date_display":"ye",
 "high_threshold":50,
-"link":"http://en.wikipedia.org/wiki/Grace_Hopper",
-"image":"http://timeglider.com/widget/_js_history/grace_hopper.jpg",
-"icon":"circle_green.png"
+"link":"https://en.wikipedia.org/wiki/Platte_River_Campground_Site",
+"image":"https://upload.wikimedia.org/wikipedia/commons/3/3b/PlatteRiverCampground2.jpg",
+"icon":"camp.png"
 },
 
 
@@ -210,13 +211,16 @@
 
 {
 "id":"jshist-fortran",
-"title": "Fortran",
-"description":"Wikipedia:<br>Fortran (previously FORTRAN) is a general-purpose, procedural, imperative programming language that is especially suited to numeric computation and scientific computing. Originally developed by IBM at their campus in south San Jose, California in the 1950s for scientific and engineering applications, Fortran came to dominate this area of programming early on and has been in continual use for over half a century in computationally intensive areas such as numerical weather prediction, finite element analysis, computational fluid dynamics, computational physics and computational chemistry.",
-"startdate": "1957-06-01 12:00:00",
+"title": "Point Betsie Lighthouse",
+"description":"Construction on the light began in 1854, though it was not in use until 1858.  The complex includes the lighthouse, keeper's house, and several outbuildings.",
+"startdate": "1854",
+"enddate": "1983",
 "importance":"35",
 "date_display":"ye",
+"link": "http://www.pointbetsie.org/",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Point_Betsie_Lighthouse_2.jpg/800px-Point_Betsie_Lighthouse_2.jpg",
 "high_threshold":50,
-"icon":"circle_green.png"
+"icon":"lighthouse2.png"
 },
 
 
