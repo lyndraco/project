@@ -271,85 +271,6 @@
 },
 
 
-{
-"id":"jshist-php",
-"title": "New Fort Brady",
-"description":"This fort was constructed to replace Old Fort Brady. It was located on a rise of ground, overlooking the city. Many of the fort's original buildings still stand, and have been incorporated into Lake Superior State University's campus.",
-"startdate": "1893",
-"enddate": "1944",
-"importance":"48",
-"link": "http://www.fortwiki.com/New_Fort_Brady",
-"high_threshold":50,
-"low_threshold":46,
-"date_display":"ye",
-"icon":"fort.png"
-},
-
-
-
-{
-"id":"jshist-csharp",
-"title": "Schoolcraft House",
-"description":"This was once the home of Henry Schoolcraft (Indian agent and author). Archaeological work located many atifacts related to this early occupation, as well as evidence for prehistoric occupation.",
-"startdate": "1827",
-"enddate": "1850",
-"low_threshold":46,
-"high_threshold":50,
-"importance":"45",
-"date_display":"ye",
-"icon":"house.png"
-},
-
-
-
-{
-"id":"jshist-cpp",
-"title": "Johnston House",
-"description":"This was John Johnston's house. He married a Chippewa woman and became a central figure in the region.",
-"startdate": "1794",
-"enddate": "1822",
-"low_threshold":46,
-"importance":"52",
-"high_threshold":50,
-"date_display":"ye",
-"icon":"house.png"
-},
-
-
-
-
-{
-"id":"jshist-python",
-"title": "Campbell Farm",
-"description":"Originally purchased by Robert Campbell in 1790, a mill complex was stablished at the site.  The Campbells also had a farm complex here.  The farm was sold to Michael Dousman in 1819, and mill operations ceased in 1839.",
-"startdate": "600",
-"enddate": "1839",
-"low_threshold":46,
-"high_threshold":50,
-"link": "http://www.mackinacparks.com/more-info/history/individual-site-histories/historic-mill-creek-discovery-park-history/",
-"importance":"45",
-"date_display":"ye",
-"icon":"industrial.png"
-},
-
-
-{
-"id":"jshist-ror",
-"title": "Old Mackinac Point Light Station",
-"description":"In 1889, Congress appropriated funds for the construction of a steam-powered fog signal here, which went into operation in 1890.  A light tower and keeper's dwelling were finished in 1892.  The light was in operation until 1958.",
-"startdate": "1889",
-"enddate": "1958",
-"low_threshold":46,
-"high_threshold":50,
-"link": "www.mackinacparks.com/parks-and-attractions/old-mackinac-point-lighthouse/",
-"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MackinawPoint.jpg",
-"importance":"45",
-"date_display":"ye",
-"icon":"lighthouse2.png"
-},
-
-
-
 
 {
 "id":"jshist-macwww",
@@ -392,6 +313,82 @@
 "icon":"campfire.png"
 },
 
+
+{
+"id":"jshist-php",
+"title":"New Fort Brady",
+"description":"This fort was constructed to replace Old Fort Brady. It was located on a rise of ground, overlooking the city. Many of the fort's original buildings still stand, and have been incorporated into Lake Superior State University's campus.",
+"startdate":"1893",
+"enddate":"1944",
+"importance":"48",
+"link":"http://www.fortwiki.com/New_Fort_Brady",
+"high_threshold":50,
+"low_threshold":46,
+"date_display":"ye",
+"icon":"fort.png"
+},
+
+
+
+{
+"id":"jshist-csharp",
+"title":"Schoolcraft House",
+"description":"This was once the home of Henry Schoolcraft (Indian agent and author). Archaeological work located many atifacts related to this early occupation, as well as evidence for prehistoric occupation.",
+"startdate":"1827",
+"enddate":"1850",
+"low_threshold":46,
+"high_threshold":50,
+"importance":"45",
+"date_display":"ye",
+"icon":"house.png"
+},
+
+
+
+{
+"id":"jshist-cpp",
+"title":"Johnston House",
+"description":"This was John Johnston's house. He married a Chippewa woman and became a central figure in the region.",
+"startdate":"1794",
+"enddate":"1822",
+"low_threshold":46,
+"importance":"52",
+"high_threshold":50,
+"date_display":"ye",
+"icon":"house.png"
+},
+
+
+
+{
+"id":"jshist-python",
+"title":"Campbell Farm",
+"description":"Originally purchased by Robert Campbell in 1790, a mill complex was stablished at the site.  The Campbells also had a farm complex here.  The farm was sold to Michael Dousman in 1819, and mill operations ceased in 1839.",
+"startdate":"600",
+"enddate":"1839",
+"low_threshold":46,
+"high_threshold":50,
+"link":"http://www.mackinacparks.com/more-info/history/individual-site-histories/historic-mill-creek-discovery-park-history/",
+"importance":"45",
+"date_display":"ye",
+"icon":"industrial.png"
+},
+
+
+{
+"id":"jshist-ror",
+"title":"Old Mackinac Point Light Station",
+"description":"In 1889, Congress appropriated funds for the construction of a steam-powered fog signal here, which went into operation in 1890.  A light tower and keeper's dwelling were finished in 1892.  The light was in operation until 1958.",
+"startdate":"1889",
+"enddate":"1958",
+"low_threshold":46,
+"high_threshold":50,
+"link":"www.mackinacparks.com/parks-and-attractions/old-mackinac-point-lighthouse/",
+"image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/MackinawPoint.jpg",
+"importance":"45",
+"date_display":"ye",
+"icon":"lighthouse2.png"
+},
 
 
 {
