@@ -82,7 +82,7 @@
 "link":"https://www.fs.usda.gov/recarea/hiawatha/recarea/?recid=13325",
 "date_display":"ye",
 "modal_type":"full",
-"image":{src="https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5119901.jpg", height="50", width="50"},
+"image":"https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5119901.jpg",
 "icon":"industrial.png"
 },
 
@@ -106,15 +106,17 @@
 
 {
 "id":"jshist-scheme",
-"title": "Scheme",
-"description":"Guy L. Steele and Gerald Jay Sussman created the Lambda Papers, part of a series of papers on AI (the 'AI Memos'), and described Scheme as a dialect of Lisp. Says Wikipedia:<br><em>The development of Scheme was heavily influenced by two predecessors that were quite different from one another: Lisp provided its general semantics and syntax, and ALGOL provided its lexical scope and block structure.</em><br><br>When Netscape hired Brendan Eich, he was apparently told that they wanted \"Scheme in the browser\". This was not to be.",
-"startdate": "1975-01-01 12:00:00",
+"title": "Au Sable Point Lightstation",
+"description":"The lightstation was completed in 1874 and automated in 1958. The original site features include a light-tower connected to a two-story keeper's house, and oil house, and a privy.  By 1909, another two-story dwelling, fog signal building, boat house, and metal storage building were added.",
+"startdate": "1873",
+"enddate": "1958",
 "importance":"40",
 "high_threshold":50,
-"link":"http://en.wikipedia.org/wiki/Scheme_(programming_language)",
+"link":"https://www.nps.gov/piro/learn/historyculture/ausablelightstation.htm",
+"image":"https://www.nps.gov/piro/learn/historyculture/images/Au-Sable-fromwater-668x285.jpg",
 "date_display":"ye",
 "modal_type":"full",
-"icon":"circle_green.png"
+"icon":"lighthouse2.png"
 },
 
 
