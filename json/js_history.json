@@ -31,7 +31,8 @@
 "enddate": "1941",
 "high_threshold":50,
 "importance":"40",
-"link":"http://en.wikipedia.org/wiki/Zuse_Z3",
+"image": "http://www.alconahistoricalsociety.com/pics/sm-lh.jpg", 
+"link":"http://www.michigan.org/property/sturgeon-point-lighthouse",
 "date_display":"ye",
 "icon":"lighthouse2.png"
 },
@@ -44,10 +45,9 @@
 "title": "Hacklander",
 "description":"The Hacklander site consists of a small Archaic component (radiocarbon dated to 3664-3504 and 3427-2281 BC), Middle Woodland component, along with a larger Late Woodland component. Radiocarbon dates from this later component place the site at AD 1020 +/- 110 and AD 1070 +/-100.",
 "startdate": "-3644",
-"enddate": "1170"
+"enddate": "1170",
 "high_threshold":50,
 "importance":"40",
-"link":"http://en.wikipedia.org/wiki/Colossus_computer",
 "date_display":"ye",
 "click_callback":"timeglider.foo.boo",
 "icon":"village.png"
@@ -64,7 +64,7 @@
 "enddate": "600",
 "high_threshold":50,
 "importance":"40",
-"link":"http://en.wikipedia.org/wiki/Lisp_(programming_language)",
+"link":"https://en.wikipedia.org/wiki/Holtz_Site",
 "date_display":"ye",
 "icon":"campfire.png"
 },
