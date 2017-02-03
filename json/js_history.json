@@ -356,14 +356,14 @@
 
 {
 "id":"jshist-macwww",
-"title": "MacWWW",
-"description":"Wikipedia:<br>MacWWW, also known as Samba, is an early minimalist web browser from 1992 meant to run on Macintosh computers. It was the first web browser for the Mac OS platform, and the first for any non-Unix operating system.",
-"startdate": "1992-12-23 12:00:00",
+"title": "Leavitt",
+"description":"The Leavitt site consists of a Paleo-Indian occupation. A single feature has been identified by archaeologists, a shallow pit filled with lithic debitage.  Other artifacts include side and end scrapers, cores, and a fluted point base.  Several bifaces from the Early Archaic period were also recovered.",
+"startdate": "10500",
+"enddate": "7771",
 "high_threshold":50,
 "importance":"30",
-"date_display":"da",
-"link":"http://en.wikipedia.org/wiki/MacWWW",
-"icon":"triangle_yellow.png"
+"date_display":"ye",
+"icon":"campfire.png"
 },
 
 
