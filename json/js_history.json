@@ -135,13 +135,16 @@
 
 {
 "id":"jshist-smalltalk",
-"title": "Smalltalk",
-"description":"Wikipedia<br>Smalltalk is an object-oriented, dynamically typed, reflective programming language. Smalltalk was created as the language to underpin the \"new world\" of computing exemplified by \"human–computer symbiosis.\" It was designed and created in part for educational use, more so for constructionist learning, at the Learning Research Group (LRG) of Xerox PARC.",
-"startdate": "1972-01-01 12:00:00",
+"title": "Fort St. Joseph",
+"description":"Initially the site of a French mission, a fort and trading post grew up in the location during the early part of the eighteenth century.  In 1761, the Briitsh took ove the fort. The fort was looted in a raid by the Spanish in 1781, who held it for a day.  Archaeological work at the site has been ongoing since 1998, through field schools conducted by Western Michigan University.",
+"startdate": "1691",
+"enddate": "1781",
 "importance":"40",
+"link"="http://wmich.edu/fortstjoseph",
+"image"="http://wmich.edu/sites/default/files/styles/720p/public/images/u816/2016/slide1.jpg?itok=v3AmM2_a",
 "high_threshold":50,
 "date_display":"ye",
-"icon":"circle_green.png"
+"icon":"fort.png"
 },
 
 
