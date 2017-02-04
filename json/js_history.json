@@ -585,24 +585,13 @@
 "image": "http://www.michigan.gov/images/mhc/fayette-historic-townsite_534355_7.jpg",
 "link": "http://www.michigan.gov/mhc/0,4726,7-282-61080_62654---,00.html",
 "high_threshold":50,
+"date_display":"ye",
 "importance":"45",
 "icon":"industrial.png"
 },
 
 
-{
-"id":"jshist-01",
-"title": "Spider Cave",
-"description": "This series of wave cut niches contain the only known pictographs in the state of Michigan.",
-"startdate": "-600",
-"enddate": "600",
-"date_display":"ye",
-"link":"https://en.wikipedia.org/wiki/Spider_Cave",
-"high_threshold":50,
-"importance":"50",
-"icon":"rock art.png",
-},
-
+	
 {
 "id":"jshist-nnav2",
 "title": "Pt Peninsula Light",
@@ -620,18 +609,15 @@
 
 {
 "id":"jshist-02",
-"title": "JavaScript",
-"description": "<p>LiveScript is renamed JavaScript in a joint announcement with Netscape and Sun Microsystems.On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.<br><br>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>",
-"startdate": "1995-12-04 12:00:00",
-"enddate": "1995-12-04 12:00:00",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/JavaScript",
+"title": "Spider Cave",
+"description": "This series of wave cut niches contain the only known pictographs in the state of Michigan.",
+"startdate": "-600",
+"enddate": "600",
+"date_display":"ye",
+"link":"https://en.wikipedia.org/wiki/Spider_Cave",
 "high_threshold":50,
 "importance":"55",
-"date_display":"da",
-"icon":"circle_green.png",
-"image":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BEich.jpg/220px-BEich.jpg",
-"video":"http://www.youtube.com/embed/c-kav7Tf834?rel=0"
+"icon":"rock art.png"
 },
 
 
