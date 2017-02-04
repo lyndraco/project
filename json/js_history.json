@@ -504,47 +504,6 @@
 
 
 
-{
-"id":"jshist-script.aculo.us",
-"title": "Wood",
-"description":"This is a Late Woodland fishing camp that has been excavated.",
-"startdate": "600",
-"enddate": "1600",
-"high_threshold":50,
-"date_display":"ye",
-"importance":"40",
-"icon":"campfire.png"
-},
-
-
-{
-"id":"jshist-livewire",
-"title": "Greensky Hill Mission",
-"description":"A small mission was built here in 1839 by Peter Greensky. A log building was constructed in 1861.",
-"startdate": "1839",
-"enddate": "1861",
-"date_display":"ye",
-"high_threshold":50,
-"importance":"40",
-"icon":"mission.png",
-},
-
-
-{
-"id":"jshist-coffee",
-"title": "Feodar Protar House",
-"description":"Feodar Protar was a healer from Russia on Beaver Island.",
-"startdate": "1880",
-"enddate": "1925",
-"high_threshold":50,
-"importance":"40",
-"date_display":"ye",
-"image": "http://www.beaverisland.net/beaver-island-history/Historic_Sites/Protar_s_House/protarhouse2.jpg",
-"icon":"house.png"
-
-},
-
-
 
 
 {
