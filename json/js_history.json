@@ -550,23 +550,27 @@
 
 {
 "id":"jshist-lightbox",
-"title": "Lightbox",
-"description":"Lightbox",
-"startdate": "2006-06-01 12:00:00",
+"title": "Summer Island",
+"description":"This warm season camp contained at least four oval houses approximately 8 meters long and 5 meters wide.  Hearths, drying racks, storage pits, and refuse areas were also present.  Archaeologists have found a variety of tools for fishing and netmaking, as well as a variety of copper tools.  Radiocarbon dates place occupation at the site from the Early Woodland through the Late Woodland (320 BC to AD 1500).",
+"startdate": "-320",
+"enddate": "1500",
 "high_threshold":50,
-"importance":"25",
-"icon":"triangle_orange.png"
+"date_display":"ye",
+"importance":"40",
+"icon":"camp.png"
 },
 
 
 {
 "id":"jshist-thickbox",
-"title": "ThickBox",
-"description":"Created by Boise's own Cody Lindley",
-"startdate": "2007-01-01 12:00:00",
+"title": "Winter",
+"description":"This site was occupied during warm weather during the Middle Woodland period, about 2000 years ago.  A clay lined pit was found by archaeologists, as well as flakes of exotic cherts (Knife River and obsidian), hammerstones, anvils, end scrapers, bipolar cores, pigments, copper tools, and ceramics.",
+"startdate": "-100",
+"enddate": "130",
 "high_threshold":50,
-"importance":"25",
-"icon":"triangle_orange.png"
+"date_display":"ye",
+"importance":"40",
+"icon":"village.png"
 },
 
 
