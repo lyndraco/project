@@ -537,12 +537,14 @@
 
 {
 "id":"jshist-require",
-"title": "Require.js",
-"description":"JR Burke puts his first Github commit of Require.js",
-"startdate": "2009-09-27 12:00:00",
+"title": "Feodar Protar House",
+"description":"Feodar Protar was a healer from Russia on Beaver Island.",
+"startdate": "1880",
+"enddate": "1925",
 "high_threshold":50,
+"date_display":"ye",
 "importance":"35",
-"icon":"triangle_orange.png"
+"icon":"house.png"
 },
 
 
