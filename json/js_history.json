@@ -652,42 +652,37 @@
 
 {
 "id":"jshist-14rhino",
-"title": "Mozilla Rhino Engine",
-"description": "Fast, but flawed Java engine introduced",
-"startdate": "1997-10-01 12:00:00",
-"enddate": "1997-10-01 12:00:00",
-"date_display":"mo",
-"link":"http://www.mozilla.org/rhino/history.html",
+"title": "Sliding Stump",
+"description": "This Woodland camp contains several hearth features and a vareity of lithic and ceramic artifacts.",
+"startdate": "900",
+"enddate": "1600",
 "high_threshold":50,
 "importance":"35",
-"icon":"square_gray.png"
+"icon":"campfire.png"
 },
 
 
 {
 "id":"jshist-squirrelfish",
-"title": "Webkit Squirrelfish",
-"description": "Wikipedia:<br>On June 2, 2008, the WebKit project announced they rewrote JavaScriptCore as \"SquirrelFish\", a bytecode interpreter. The project evolved into SquirrelFish Extreme (abbreviated SFX), announced on September 18, 2008, which compiles JavaScript into native machine code, eliminating the need for a bytecode interpreter and thus speeding up JavaScript execution.",
-"startdate": "2008-06-02",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/WebKit#Further_development",
+"title": "Up Stream Put-In Site",
+"description": "This Woodland camp contains several intact features including hearths with the posssibility of other deeply buried features.",
+"startdate": "900",
+"enddate": "1600",
 "high_threshold":50,
 "importance":"35",
-"icon":"square_gray.png"
+"icon":"campfire.png"
 },
 
 
 {
 "id":"deathofflash",
-"title": "Slow death of Flash",
-"description": "Flash begins its slow death. Many factors led to this: The rise of Javascript as a viable rich-application framework. Being a compiled, proprietary system reliant on IDEs, Flash never got developers <em>truly</em> excited; Integrating events in Flash with the DOM is headache defined; Even on Android mobile systems that allowed Flash, Adobe couldn't get a bug-free, non-gluttonous version. Apple's refusal to include it in iOS is a coup de grace, and Adobe finally (sort of) admits defeat.",
-"startdate": "2009-06-01",
-"enddate": "today",
-"date_display":"ho",
+"title": "Bike Trail",
+"description": "This small Woodland camp contains several features and a variety of lithic artifacts.",
+"startdate": "600",
+"enddate": "1700",
 "high_threshold":50,
 "importance":"35",
-"icon":"flag_black.png",
-"keepCurrent": "end"
+"icon":"campfire.png"
 },
 
 
