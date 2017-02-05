@@ -623,35 +623,30 @@
 
 {
 "id":"jshist-bibliocene",
-"title": "The Bibliocene",
-"description": "The primordial forests of Javascript were rich with life, but until Prototype, dominant species of cross-browser helper-library had emerged. Then there was Dojo.",
-"startdate": "2004-06-01 12:00:00",
-"enddate": "today",
-"date_display":"mo",
+"title": "Graved Rock",
+"description": "Graved Rock is a series of petroglyph of unknown age.",
+"startdate": "-1000",
+"enddate": "1000",
 "low_threshold":41,
 "high_threshold":45,
-"importance":"60",
+"importance":"50",
 "date_display":"ye",
-"css_class":"bibliocene",
-"icon":"none"
+"icon":"rock art.png"
 },
 
 
 
 {
 "id":"jshist-js-era",
-"title": "Javascript Era",
-"description": "There was Javascript.",
-"startdate": "1995-05-01 12:00:00",
-"enddate": "today",
-"date_display":"mo",
+"title": "River Park",
+"description": "This small Woodland camp contains a basalt cobble with faint decorative markings that may depict a stylized animal.",
+"startdate": "600",
+"enddate": "1600",
 "low_threshold":41,
 "high_threshold":52,
-"importance":"60",
+"importance":"50",
 "date_display":"ye",
-"y_position":200,
-"css_class":"js-era",
-"icon":"none"
+"icon":"campfire.png"
 },
 
 
