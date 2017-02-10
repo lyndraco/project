@@ -741,7 +741,7 @@
 {
 "id":"jshist-browserwars",
 "title": "Fort Michilimackinac",
-"description": "The fort was initially established by the French around 1715 by the French to protect and facilitate trade with the various Native groups in the region. The French surrendered the fort to the British in 1760. The British moved the fort to Mackinac Island in 1780.<p> <embed width="420" height="315" src="https://www.youtube.com/watch?time_continue=29&v=iQC-V50dBSk" > </p>",
+"description": "The fort was initially established by the French around 1715 by the French to protect and facilitate trade with the various Native groups in the region. The French surrendered the fort to the British in 1760. The British moved the fort to Mackinac Island in 1780.<p><iframe width="560" height="315" src="https://www.youtube.com/embed/iQC-V50dBSk" frameborder="0" allowfullscreen></iframe> </p>",
 "startdate": "1715",
 "enddate": "1780",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fort_Michilimackinac_backyards.jpg/220px-Fort_Michilimackinac_backyards.jpg",
@@ -749,62 +749,6 @@
 "high_threshold":45,
 "importance":50,
 "icon":"fort.png"
-},
-
-
-
-
-{
-"id":"jshist-shadow-years",
-"title": "Copper Peak",
-"description": "This is an old mining location.",
-"startdate": "1846",
-"enddate": "1900",
-"high_threshold":45,
-"importance":40,
-"icon":"industrial.png"
-},
-
-
-{
-"id":"jshist-ajax-age",
-"title": "Brown",
-"description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics.",
-"startdate": "600",
-"enddate": "1500",
-"date_display":"ye",
-"low_threshold":41,
-"high_threshold":45,
-"importance":40,
-"icon":"campfire.png"
-},
-
-
-
-{
-"id":"jshist-hawt",
-"title": "Pine River Park",
-"description": "Subsurface features and scatter",
-"startdate": "-2900",
-"enddate": "-2370",
-"low_threshold":41,
-"high_threshold":45,
-"importance":50,
-"icon":"campfire.png"
-},
-
-
-
-
-{
-"id":"jshist-aolscape",
-"title": "Holiday Park",
-"description": "Excavations here located undisturbed features, along with a large pottery assemblage.",
-"startdate": "570",
-"enddate": "650",
-"high_threshold":50,
-"importance":"45",
-"icon":"campfire.png",
 },
 
 
