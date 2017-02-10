@@ -981,28 +981,26 @@
 
 {
 "id":"jshist-18",
-"title": "Google Web Toolkit",
-"description": "Google Web Toolkit is an open source set of tools that allows web developers to create and maintain complex JavaScript front-end applications in Java. Other than a few native libraries, everything is Java source that can be built on any supported platform with the included GWT Ant build files.",
-"startdate": "2006-05-17 12:00:00",
-"enddate": "2006-05-17 12:00:00",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/Google_Web_Toolkit",
+"title": "Aetna Earthworks",
+"description": "These circular earthworks consist of a bank and ditch. Numerous ceramic vessels have been recovered from around the enclosures.",
+"startdate": "1200",
 "high_threshold":50,
-"importance":"35",
-"icon":"triangle_orange.png"
+"link": "https://en.wikipedia.org/wiki/Aetna_Earthworks",
+"importance":"40",
+"icon":"mound2.png"
 },
 
 
 {
 "id":"jshist-googclosure",
-"title": "Google Closure Tools",
-"description": "Google Closure Tools is a set of tools to help developers build rich web applications with JavaScript. It was developed by Google for use in their web applications such as Gmail, Google Docs and Google Maps.",
-"startdate": "2009-11-01 12:00:00",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/Google_Web_Toolkit",
+"title": "Boven Earthworks",
+"description": "This circular enclosure with a ditch also contains evidence for a stockade.",
+"startdate": "1370",
+"enddate": "1570",
+"link":"https://en.wikipedia.org/wiki/Boven_Earthwork",
 "high_threshold":50,
-"importance":"35",
-"icon":"triangle_orange.png"
+"importance":"40",
+"icon":"mound2.png"
 },
 
 
