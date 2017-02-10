@@ -1027,34 +1027,32 @@
 "startdate": "-600",
 "enddate": "1200",
 "high_threshold":50,
-"importance":"25",
+"importance":"35",
 "icon":"mound2.png"
 },
 
 
 {
 "id":"jshist-14",
-"title": "Google Chrome V8",
-"description": "Very fast Javascript engine introduced",
-"startdate": "2008-12-01 12:00:00",
-"enddate": "2008-12-01 12:00:00",
-"date_display":"mo",
-"link":"http://code.google.com/p/v8/",
+"title": "Riverside",
+"description": "This is a large multicomponent village and cemetery complex. Features include middens, burials, and postmolds. Artifacts from the site include bifaces, obsidian, bone tools, and a variety of copper atifacts.",
+"startdate": "-1100",
+"enddate": "600",
 "high_threshold":50,
-"importance":"35",
-"icon":"square_gray.png"
+"importance":"40",
+"icon":"cemetery.png"
 },
 
 {
 "id":"jshist-10",
-"title": "CommonJS project",
-"description": "The official JavaScript spec does not define a standard library that is useful for building a broader range of applications. The CommonJS API will fill that gap by defining APIs that handle many common application needs, ultimately providing a standard library as rich as those of Python, Ruby and Java.",
-"startdate": "2009-01-01 12:00:00",
-"enddate": "2009-01-01 12:00:00",
+"title": "Juntunen",
+"description": "This Woodland camp site includes hearth features, refuse pits, a long house, animal burials, and human burials. Burials include two ossuaries.",
+"startdate": "760",
+"enddate": "1400",
 "link":"http://www.commonjs.org/",
 "high_threshold":50,
-"importance":"25",
-"icon":"square_blue.png"
+"importance":"40",
+"icon":"campfire.png"
 },
 
 {
