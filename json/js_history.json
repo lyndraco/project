@@ -740,16 +740,16 @@
 
 {
 "id":"jshist-browserwars",
-"title": "Browserwars",
-"description": "Wikipedia:<br>In 1996, Netscape's share of the browser market reached 86%; but then Microsoft began integrating its browser with its operating system and bundling deals with OEMs, and within two years the balance had reversed.",
-"startdate": "1996-01-01 12:00:00",
-"enddate": "1998-12-01 12:00:00",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/JavaScript",
+"title": "Fort Michilimackinac",
+"description": "The fort was initially established by the French around 1715 by the French to protect and facilitate trade with the various Native groups in the region. The French surrendered the fort to the British in 1760. The British moved the fort to Mackinac Island in 1780.",
+"startdate": "1715",
+"enddate": "1780",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fort_Michilimackinac_backyards.jpg/220px-Fort_Michilimackinac_backyards.jpg",
+"link":"http://www.mackinacparks.com/more-info/history/individual-site-histories/colonial-michilimackinac-history/",
+"video": "https://www.youtube.com/watch?time_continue=29&v=iQC-V50dBSk",
 "high_threshold":45,
-"importance":60,
-"css_class":"browserwars",
-"icon":"none"
+"importance":50,
+"icon":"fort.png"
 },
 
 
