@@ -757,48 +757,42 @@
 
 {
 "id":"jshist-shadow-years",
-"title": "THE DHTML DOLDRUMS",
-"description": "In these first years, JS seems like a necessary evil that had been avoidable but which was now entrenched. Of Javascript's initial insinuation into browsers, WWW founder Robert Cailliau said, 'the programming-vacuum filled itself with the most horrible kluge in the history of computing: Javascript.'",
-"startdate": "1998-01-01 12:00:00",
-"enddate": "2004-01-01 12:00:00",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/JavaScript",
+"title": "Copper Peak",
+"description": "This is an old mining location.",
+"startdate": "1846",
+"enddate": "1900",
 "high_threshold":45,
-"importance":60,
-"css_class":"shadow-years",
-"icon":"none"
+"importance":40,
+"icon":"industrial.png"
 },
 
 
 {
 "id":"jshist-ajax-age",
-"title": "The Ajax'aissance",
-"description": "Ajax, seeded by the XMLHttpRequest object, is born.",
-"startdate": "2005-01-01 12:00:00",
-"enddate": "today",
+"title": "Brown",
+"description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics.",
+"startdate": "600",
+"enddate": "1500",
 "date_display":"ye",
-"link":"http://en.wikipedia.org/wiki/Ajax_%28programming%29",
 "low_threshold":41,
 "high_threshold":45,
-"importance":60,
+"importance":40,
 "span_color":"#FFFFFF",
-"icon":"none"
+"icon":"campfire.png"
 },
 
 
 
 {
 "id":"jshist-hawt",
-"title": "\"Hawt\"!",
+"title": "Pine River Park",
 "description": "The JS community is on fire! Libraries, widgets, evangelists, arguments, and the spread of the 'good bacteria' of JS.",
-"startdate": "2010-01-01 12:00:00",
-"enddate": "today",
-"date_display":"mo",
+"startdate": "-2900",
+"enddate": "-2370",
 "low_threshold":41,
 "high_threshold":45,
-"importance":60,
-"css_class":"hawt",
-"icon":"none"
+"importance":50,
+"icon":"campfire.png"
 },
 
 
@@ -806,15 +800,13 @@
 
 {
 "id":"jshist-aolscape",
-"title": "Netscape sold to AOL for $4.2 billion",
-"description": "O'Reilly publishes the first comprehensive book on Javascript.",
-"startdate": "1998-11-24 12:00:00",
-"date_display":"mo",
-"link":"http://news.cnet.com/2100-1023-218360.html",
+"title": "Holiday Park",
+"description": "Excavations here located undisturbed features, along with a large pottery assemblage.",
+"startdate": "570",
+"enddate": "650",
 "high_threshold":50,
 "importance":"45",
-"icon":"flag_black.png",
-"tags":"billion,book, netscape, aol"
+"icon":"campfire.png",
 },
 
 
