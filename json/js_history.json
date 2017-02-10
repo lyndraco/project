@@ -913,28 +913,27 @@
 
 {
 "id":"jshist-16",
-"title": "MooTools",
-"description": "Valerio Proietti first authored the framework, taking as his inspiration Prototype and Dean Edward's base2. MooTools originated from Moo.fx, a popular plug-in Proietti produced for Prototype in October 2005, which is still maintained and used",
-"startdate": "2006-09-01 12:00:00",
-"enddate": "2006-09-01 12:00:00",
-"date_display":"mo",
-"link":"http://mootools.net/",
+"title": "Norton Mounds",
+"description": "The Norton Mound Group is a National Historic Landmark, and is one of the best preserved Hopewellian burial centers in the country. Once a part of an extensive system of over 30 mounds, 11 still retain their basic form.  The University of Michigan undertook excavations in the 1960s. The information gathered demonstrated these people had a massive trade network, with artifacts like pearls, copper beads, and marine shells.",
+"startdate": "-500",
+"enddate": "-200",
+"link":"http://www.michigan.gov/som/0,4669,7-192-29938_68915-54607--,00.html",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Norton_Mound_Group_9.jpg/1024px-Norton_Mound_Group_9.jpg",
 "high_threshold":50,
-"importance":"35",
-"icon":"triangle_orange.png"
+"importance":"40",
+"icon":"mound.png"
 },
 
 {
 "id":"jshist-17",
-"title": "YUI",
-"description": "Development on YUI began in 2005 and Yahoo! properties such as My Yahoo! and the Yahoo! front page began using YUI in the summer of that year. YUI was released for public use in February 2006.",
-"startdate": "2006-02-01 12:00:00",
-"enddate": "2006-02-01 12:00:00",
-"date_display":"mo",
-"link":"http://developer.yahoo.com/yui/",
+"title": "Bronson Park Mound",
+"description": "Excavated in 1850, this is recorded as containing burials with beads and projectile points. The site is now a public park.",
+"startdate": "-600",
+"enddate": "600",
+"link":"http://www.kpl.gov/local-history/parks/bronson.aspx",
 "high_threshold":50,
-"importance":"35",
-"icon":"triangle_orange.png"
+"importance":"40",
+"icon":"mound.png"
 },
 
 
