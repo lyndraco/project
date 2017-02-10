@@ -885,26 +885,28 @@
 
 {
 "id":"jshist-as1",
-"title": "Actionscript 1",
-"description": "With the release of Flash 5 in September 2000, the \"actions\" from Flash 4 were enhanced once more and named \"ActionScript\" for the first time. This was the first version of ActionScript with influences from JavaScript.",
-"startdate": "2000-09-01 12:00:00",
-"link":"http://en.wikipedia.org/wiki/ActionScript",
+"title": "Clark-Stringham",
+"description": "Plowzone site with artifacts from Archaic and Woodland periods.",
+"startdate": "-8000",
+"enddate": "-1000",
 "high_threshold":50,
 "importance":"35",
-"icon":"square_red.png"
+"icon":"campfire.png"
 },
 
 
 
 {
 "id":"jshist-as2",
-"title": "Actionscript 2",
-"description": "In response to user demand for a language better equipped for larger and more complex applications, ActionScript 2.0 featured compile-time type checking and class-based syntax, such as the keywords class and extends.",
-"startdate": "2003-09-01 12:00:00",
-"link":"http://en.wikipedia.org/wiki/ActionScript",
+"title": "Fort Wilkins",
+"description": "Fort Wilkins was constructed to police and protect the copper miners and prospectors in the Keweenaw.The army abandoned the fort in 1870.",
+"startdate": "1844",
+"enddate": "1870",
+"link":"http://www.michigan.gov/mhc/0,4726,7-282-61080_62655---,00.html",
+"image": "http://www.michigan.org/sites/default/files/blog/wp-content/uploads/Fort-Wilkins-300x196.jpg", 
 "high_threshold":50,
 "importance":"40",
-"icon":"square_red.png"
+"icon":"fort.png"
 },
 
 
