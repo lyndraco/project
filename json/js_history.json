@@ -693,10 +693,6 @@
 "description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component.",
 "startdate": "510",
 "enddate": "750",
-"startdate": "1110",
-"enddate": "1330",
-"startdate": "1550",
-"enddate": "1750",
 "high_threshold":50,
 "importance":"50",
 "icon":"campfire.png"
@@ -706,45 +702,37 @@
 
 {
 "id":"jshist-resig-post",
-"title": "Resig: ECMAScript Harmony",
-"description": "There's been some turmoil in the world of ECMAScript.<br><br>While many are – even, at least, vaguely – familiar with the development of ECMAScript 4 the devil is in the details. I’ve blogged about ES4 extensively in the past – and even did a speaking tour last fall educating developers about its details and implementations, however, a lot has happened since that time.",
-"startdate": "2008-08-14 12:00:00",
-"enddate": "2008-08-14 12:00:00",
-"date_display":"da",
-"link":"http://ejohn.org/blog/ecmascript-harmony/",
+"title": "Wycamp Creek",
+"description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component.",
+"startdate": "1110",
+"enddate": "1330",
 "high_threshold":50,
-"importance":"30",
-"icon":"inf_blue.png"
+"importance":"50",
+"icon":"campfire.png"
 },
 
 {
 "id":"jshist-jj-garrett",
-"title": "Ajax: A New Approach to Web Applications",
-"description": "Jesse James Garrett publishes his seminal essay and coins the term \"ajax\". Said Garrett 'An Ajax application eliminates the start-stop-start-stop nature of interaction on the Web by introducing an intermediary—an Ajax engine—between the user and the server. It seems like adding a layer to the application would make it less responsive, but the opposite is true.'",
-"startdate": "2005-02-18 12:00:00",
-"enddate": "2005-02-18 12:00:00",
-"date_display":"da",
-"link":"http://www.adaptivepath.com/ideas/e000385",
+"title": "Wycamp Creek",
+"description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component.",
+"startdate": "1550",
+"enddate": "1750",
 "high_threshold":50,
-"importance":"42",
-"image":"http://timeglider.com/widget/_js_history/garrett.jpg",
-"icon":"inf_blue.png"
+"importance":"50",
+"icon":"campfire.png"
 },
 
 
 {
 "id":"jshist-inception",
-"title": "JS Inception",
-"description": "...",
-"startdate": "1995-05-15 06:00:00",
-"enddate": "1997-11-01 12:00:00",
-"date_display":"mo",
-"link":"http://en.wikipedia.org/wiki/JavaScript",
+"title": "Ponshewaing Point",
+"description": "This Middle Woodland/Late Woodland camp contains a variety of projectile points, drills, wedges, bifaces, scrapers, and other lithics.",
+"startdate": "950",
+"enddate": "1200",
 "low_threshold":41,
 "high_threshold":45,
-"importance":60,
-"css_class":"inception",
-"icon":"none"
+"importance":40,
+"icon":"campfire.png"
 },
 
 
