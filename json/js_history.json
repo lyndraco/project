@@ -765,6 +765,18 @@
 },
 
 
+{
+"id":"jshist-ajax-age",
+"title": "Brown",
+"description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics.",
+"startdate": "600",
+"enddate": "1500",
+"low_threshold":41,
+"high_threshold":45,
+"importance":40,
+"icon":"campfire.png"
+},
+
 
 
 {
