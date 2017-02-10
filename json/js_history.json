@@ -955,28 +955,26 @@
 
 {
 "id":"jshist-node",
-"title": "Node.js",
-"description": "Wikipedia:<br>Node.js was created by Ryan Dahl starting in 2009, and its growth is sponsored by Joyent, his employer.",
-"startdate": "2009-02-01 12:00:00",
-"date_display":"mo",
-"link":"http://nodejs.org/",
+"title": "Younge",
+"description": "This site includes the remains of longhouses with pits and hearths.  Pottery, projectile points, and elbow pipes were all recovered.  A large cemetery was also found at the site.",
+"startdate": "1100",
+"link":"https://en.wikipedia.org/wiki/Younge_Site",
 "high_threshold":50,
 "importance":"45",
-"icon":"square_orange.png"
+"icon":"village.png"
 },
 
 
 
 {
 "id":"10things",
-"title": "Ten Things I Learned About the jQuery Source",
-"description": "Ten Things I Learned About the jQuery Source",
-"startdate": "2010-06-13 11:39:00",
-"link":"http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/",
-"video":"http://player.vimeo.com/video/12529436",
+"title": "Glen Haven Sawmill",
+"description": "The Glen Haven sawmill was constructed along with a horse-drawn tramway as part of the village of Glen Haven.  Several features remain including stone features, piers, collapsed brick structures, and metal causeways.",
+"startdate": "1864",
+"enddate": "1920",
 "high_threshold":50,
 "importance":"20",
-"icon":"triangle_orange.png"
+"icon":"industrial.png"
 },
 
 
