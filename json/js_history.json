@@ -765,43 +765,16 @@
 },
 
 
+
 {
-"id":"jshist-ajax-age",
+"id":"jshist-flan",
 "title": "Brown",
 "description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics.",
 "startdate": "600",
 "enddate": "1500",
-"low_threshold":41,
-"high_threshold":45,
-"importance":40,
+"high_threshold":50,
+"importance":"40",
 "icon":"campfire.png"
-},
-
-
-{
-"id":"jshist-hawt",
-"title": "Pine River Park",
-"description": "Subsurface features and scatter",
-"startdate": "-2900",
-"enddate": "-2370",
-"low_threshold":41,
-"high_threshold":45,
-"importance":50,
-"icon":"campfire.png"
-},
-
-
-{
-"id":"jshist-flan",
-"title": "JS The Definitive Guide",
-"description": "O'Reilly publishes the first comprehensive book on Javascript.",
-"startdate": "1996-06-01 12:00:00",
-"date_display":"mo",
-"link":"http://www.davidflanagan.com/",
-"image":"http://timeglider.com/widget/_js_history/flanagan.jpg",
-"high_threshold":100,
-"importance":"35",
-"icon":"triangle_green.png"
 },
 
 
@@ -809,14 +782,13 @@
 
 {
 "id":"jshist-ecma1",
-"title": "ECMA-262 Edition 1",
-"description": "ECMA standards body formally announces first standardized version of Javascript:ECMA-262 Edition 1",
-"startdate": "1997-06-01 12:00:00",
-"date_display":"mo",
-"link":"http://www.ecmascript.org/",
+"title": "Pine River Park",
+"description": "Subsurface features and scatter",
+"startdate": "-2900",
+"enddate": "-2370",
 "high_threshold":50,
-"importance":"35",
-"icon":"triangle_green.png"
+"importance":"40",
+"icon":"campfire.png"
 },
 
 
