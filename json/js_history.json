@@ -765,61 +765,6 @@
 },
 
 
-{
-"id":"jshist-ajax-age",
-"title": "Brown",
-"description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics.",
-"startdate": "600",
-"enddate": "1500",
-"date_display":"ye",
-"low_threshold":41,
-"high_threshold":45,
-"importance":40,
-"icon":"campfire.png"
-},
-
-
-
-{
-"id":"jshist-hawt",
-"title": "Pine River Park",
-"description": "Subsurface features and scatter",
-"startdate": "-2900",
-"enddate": "-2370",
-"low_threshold":41,
-"high_threshold":45,
-"importance":50,
-"icon":"campfire.png"
-},
-
-
-
-
-{
-"id":"jshist-aolscape",
-"title": "Holiday Park",
-"description": "Excavations here located undisturbed features, along with a large pottery assemblage.",
-"startdate": "570",
-"enddate": "650",
-"high_threshold":50,
-"importance":"45",
-"icon":"campfire.png",
-},
-
-
-
-{
-"id":"jshist-04",
-"title": "Skegemog Point",
-"description": "This large site includes several distinct Late Woodland occupations.  Artifacts include ceramics, triangular points, end scrapers, bifaces, and debitage.",
-"startdate": "780",
-"enddate": "1420",
-"link":"http://www.ecmascript.org/",
-"high_threshold":50,
-"importance":"50",
-"icon":"village.png"
-},
-
 
 
 {
