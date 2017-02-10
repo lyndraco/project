@@ -849,32 +849,28 @@
 
 {
 "id":"jshist-05",
-"title": "Dojo Toolkit",
-"description": "Dojo Released",
-"startdate": "2004-06-01 12:00:00",
-"enddate": "2004-06-01 12:00:00",
-"link":"http://dojotoolkit.org/",
-"video":"http://www.youtube.com/embed/RYlCVwxoL_g",
-"image":"http://timeglider.com/widget/img/dojo.jpg",
-
+"title": "Camp Gibbs",
+"description": "Camb Gibbs is a former Civilian Conservation Corps Camp.  Many of the original buildings are still standing..",
+"startdate": "1935",
+"enddate": "1941",
 "high_threshold":50,
-"importance":"35",
-"icon":"triangle_orange.png"
+"importance":"40",
+"icon":"government.png"
 },
+	
+	
 {
 "id":"jshist-08",
-"title": "JSON is introduced",
-"description": "Wikipedia:<br>Douglas Crockford was the first to specify and popularize the JSON format. JSON was used at State Software, a company co-founded by Crockford, starting around 2001. The JSON.org website was launched in 2002. In December 2005, Yahoo! began offering some of its web services in JSON.  Google started offering JSON feeds for its GData web protocol in December 2006.",
-"startdate": "2002-07-01 12:00:00",
-"enddate": "2002-07-01 12:00:00",
-"date_display":"mo",
-"link":"http://json.org",
-"image":"http://timeglider.com/widget/_js_history/crockford.jpg",
+"title": "McCargoe Cove",
+"description": "The town of Cove served the Minong Mine.  It is represented by foundations, surface scatter, and underwater remains around the dock.",
+"startdate": "1875",
+"enddate": "1885",
 "high_threshold":50,
 "importance":"45",
-"icon":"circle_orange.png"
+"icon":"industrial.png"
 },
 
+	
 {
 "id":"jshist-09",
 "title": "jQuery",
