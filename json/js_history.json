@@ -921,7 +921,7 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Norton_Mound_Group_9.jpg/1024px-Norton_Mound_Group_9.jpg",
 "high_threshold":50,
 "importance":"40",
-"icon":"mound.png"
+"icon":"mound2.png"
 },
 
 {
@@ -933,20 +933,21 @@
 "link":"http://www.kpl.gov/local-history/parks/bronson.aspx",
 "high_threshold":50,
 "importance":"40",
-"icon":"mound.png"
+"icon":"mound2.png"
 },
 
 
 {
 "id":"jshist-infscroll",
-"title": "Infinite Scroll",
-"description": "Said Irish: Essentially infinite scroll is using ajax to pre-fetch content from a subsequent page and add it directly to the user's current page. If you have no idea what I'm talking about, you should scroll down to the bottom of aurgasm.us, roflcon.org, or blog.molecular.com.",
-"startdate": "2008-09-25 12:00:00",
-"date_display":"mo",
-"link":"http://paulirish.com/2008/release-infinite-scroll-com-jquery-and-wordpress-plugins/",
+"title": "Walker Tavern",
+"description": "Walker Tavern was built in 1843 where it served as a stop for the statecoach route from Chicago to Detroit. After it closed in 1865, it was privately run as a tourist attraction. The site was acquired by DNR in the 1960s.  Archaeological work at the site has illuminated the lifestyle of the Walkers as well as the Hewitt family.",
+"startdate": "1843",
+"enddate": "1865",
+"link":"http://www.michigan.gov/mhc/0,4726,7-282-61080_61873---,00.html",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Walker_Tavern_Michigan.jpg/258px-Walker_Tavern_Michigan.jpg",
 "high_threshold":50,
-"importance":"25",
-"icon":"triangle_orange.png"
+"importance":"40",
+"icon":"trade.png"
 },
 
 
