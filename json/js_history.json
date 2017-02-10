@@ -792,17 +792,6 @@
 },
 
 	
-{
-"id":"jshist-aolscape",
-"title": "Holiday Park",
-"description": "Excavations here located undisturbed features, along with a large pottery assemblage.",
-"startdate": "570",
-"enddate": "650",
-"high_threshold":50,
-"importance":"45",
-"icon":"campfire.png",
-},
-
 
 {
 "id":"jshist-04",
@@ -818,14 +807,13 @@
 	
 {
 "id":"jshist-ecma2",
-"title": "ECMA-262 Edition 2",
-"description": "Editorial changes to keep the specification fully aligned with ISO/IEC 16262 international standard",
-"startdate": "1998-06-01 12:00:00",
-"date_display":"mo",
-"link":"http://www.ecmascript.org/",
+"title": "Holiday Park",
+"description": "Excavations here located undisturbed features, along with a large pottery assemblage.",
+"startdate": "570",
+"enddate": "650",
 "high_threshold":50,
-"importance":"30",
-"icon":"triangle_green.png"
+"importance":"40",
+"icon":"campfire.png"
 },
 
 
