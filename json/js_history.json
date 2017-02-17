@@ -1145,7 +1145,48 @@
 "high_threshold":45,
 "importance":"40",
 "icon":"campfire.png"
+},
+
+	
+{
+"id":"jshist-carp",
+"title": "Carp River Forge",
+"description": "The Jackson Mining Company began construction of a forge complex in 1846, soon after the discovery of iron in the Upper Peninsula.  It first produced in 1848, but was never financially successful and was abandoned in 1855. The complex consists of a dam and waterwheel, forge, two cold-blast bloomeries, four hot blast furnaces, sawmill, store, and houses.",
+"startdate": "1846",
+"enddate": "1855",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jackson_Iron_Company_SiteNegaunee_MI_A.jpg/1024px-Jackson_Iron_Company_SiteNegaunee_MI_A.jpg",
+"link":"https://www.michigan.gov/documents/hal_mhc_mhm_carpriverforge_09-11-2002_92637_7.pdf",
+"high_threshold":45,
+"importance":"50",
+"icon":"industrial.png"
+},
+
+{
+"id":"jshist-maumee",
+"title": "North Maumee Bay Archaeological District",
+"description": "This district includes numerous archaeological sites representative of the Late Woodland people residing along Lake Huron.  Villages, camps, and other features demonstrate a complex series of habitations. Numerous radiocarbon dates have been obtained for these sites.  The people living here fished, gathered, and left behind a variety of ceramic vessels.",
+"startdate": "615",
+"enddate": "1338",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/NMaumeeBay.jpg/1024px-NMaumeeBay.jpg",
+“link”: "https://en.wikipedia.org/wiki/North_Maumee_Bay_Archeological_District”,
+"high_threshold":45,
+"importance":"50",
+"icon":"village.png"
+},
+
+{
+"id":"jshist-raisin",
+"title": "River Raisin Battlefield",
+"description": "The Battle of the River Raisin was fought in January of 1813. British and Native American allies attached the settlement of Frenchtown, along with their Kentucky militia allies.  This is the best known battle ever fought on Michigan soil.",
+"startdate": "1780",
+"enddate": "1813",
+"image": "https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/265D7DE7-1DD8-B71B-0B22CE9194EA9885.jpg",
+"link": "https://www.nps.gov/rira/index.html",
+"high_threshold":45,
+"importance":"50",
+"icon":"village.png"
 }
+
 
 
 
