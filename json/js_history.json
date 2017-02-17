@@ -1319,7 +1319,42 @@
 "high_threshold":45,
 "importance":"40",
 "icon": "lighthouse2.png"
+},	
+
+{
+"id": "jshist-greenpoint",
+"title": "Green Point",
+"description": "This Early Woodland period site contains evidence for early domesticate use.",
+"startdate": "-500",
+"enddate": "600",
+"high_threshold":45,
+"importance":"40",
+"icon": "village.png"
+},	
+
+{
+"id": "jshist-schultz",
+"title": "Schultz",
+"description": "This is the type site for Early and Middle Woodland sites in the Saginaw region.  The site contains evidence for squash.",
+"startdate": "-500",
+"enddate": "1700",
+"high_threshold":45,
+"importance":"40",
+"icon": "campfire.png"
+},	
+	
+
+{
+"id": "jshist-fosters",
+"title": "Fosters",
+"description": "Hearths and storage pits were found at this seasonal camp site, along with deer bone and nutshell.",
+"startdate": "600",
+"enddate": "1600",
+"high_threshold":45,
+"importance":"40",
+"icon": "campfire.png"
 }	
+	
 	
 ],
 "legend": [
