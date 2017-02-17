@@ -1141,14 +1141,20 @@
 ],
 "tags":{"mardigras":2,"chris":2,"arizona":2,"netscape":2,"flop":1},
 "legend": [
-   {"title":"libs &amp; frameworks", "icon":"triangle_orange.png"},
-   {"title":"engines", "icon":"square_gray.png"},
-   {"title":"browsers", "icon":"triangle_yellow.png"},
-   {"title":"JS evolution", "icon":"triangle_green.png"},
-   {"title":"languages", "icon":"circle_green.png"},
-   {"title":"standards", "icon":"square_blue.png"},
-   {"title":"conferences", "icon":"circle_blue.png"},
-   {"title":"milestones", "icon":"circle_purple.png"}
+   {"title":"Camp", "icon":"campfire.png"},
+   {"title":"Cemetery", "icon":"cemetery.png"},
+   {"title":"Earthwork", "icon":"mound2.png"},
+   {"title":"Fort", "icon":"fort.png"},
+   {"title":"Government", "icon":"government.png"},
+   {"title":"Homestead", "icon":"house.png"},
+   {"title":"Industrial", "icon":"industrial.png"},
+   {"title":"Lighthouse", "icon":"lighthouse2.png"},
+   {"title":"Military", "icon":"military.png"},
+   {"title":"Mission", "icon":"mission.png"},
+   {"title":"Quarry", "icon":"quarry.png"},
+   {"title":"Rock Art", "icon":"rock art.png"},
+   {"title":"Trade/Tavern", "icon":"trade.png"},
+   {"title":"Village", "icon":"village.png"}
 ]
          
 }
