@@ -1134,6 +1134,17 @@
 "high_threshold":100,
 "importance":"40",
 "icon":"village.png"
+},
+	
+{
+"id":"jshist-notapekagon",
+"title": "Not-A-Pe-Ka-Gon",
+"description": "This Middle and Late Woodland surface scatter has provided evidence for cultural dynamics during this time period.",
+"startdate": "-600",
+"enddate": "1400",
+"high_threshold":45,
+"importance":"40",
+"icon":"campfire.png"
 }
 
 
