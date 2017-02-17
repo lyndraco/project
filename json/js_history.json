@@ -1126,16 +1126,14 @@
 
 {
 "id":"_now",
-"title": "nowEvent",
-"date_display":"ho",
-"description": "You can set a date to a \"floating\" current date by using either \"7777-12-31\" as the startdate, or \"now\". In an event span, either the start date or the end-date can be set this way to create living lifespans, or timespans with decreasing lengths (from the present) as time moves forward, such as a deal or a time-remaining episode.",
-"startdate": "now",
+"title": "Marquette Street Archaeological District",
+"description": "The Marquette Street Archaeological District includes the village of Te Oskonchiae and the Marquette Miasion site.  The village includes the archaeological remains of long houses and a palisade for a 17th/18th century Native American village. The mission is generally associated to Father Marquette and French missionaries. Numerous artifacts have been found that demonstrate Native American groups were incorporating European trade goods into their culture.",
+"startdate": "1671",
+"enddate": "1704",
+"image": "http://www.stignace.com/backend/uploads/cms/images/Museum-of-Ojibay-Culture-St-Ignace.jpg",
 "high_threshold":100,
 "importance":"40",
-"css_class":"foo",
-"icon":"triangle_red.png",
-"keepCurrent": "start",
-"tags":"mardigras"
+"icon":"village.png"
 }
 
 
