@@ -1386,7 +1386,45 @@
 "high_threshold":45,
 "importance":"40",
 "icon": "cemetery.png"
+},
+
+{
+"id": "jshist-gratiot",
+"title": "Fort Gratiot",
+"description": "Fort Gratiot was constructed in 1814, during the War of 1812, to control Great Lakes shipping.  It was abandoned in 1821 and then a second fort built on the ruins in 1828. This fort was used until 1879. Archaeological work has been done at the site.",
+"startdate": "1814",
+"enddate": "1879",
+"link": "https://en.wikipedia.org/wiki/Fort_Gratiot",
+"image": "http://www.midwestconnection.org/Lighthouses/lk_huronLT/images/fortgratiotcg1.jpg",
+"high_threshold":45,
+"importance":"40",
+"icon": "fort.png"
+},
+
+{
+"id": "jshist-landoffice",
+"title": "US Land Office",
+"description": "This former United States Land Office Building housed the US land office, which was responsible for the slae of 328,000 acres of governemnt lands.  The privy at the site was excavated by bottle hunters; no information is known about how this related to the occupation of the structure.",
+"startdate": "1828",
+"enddate": "present",
+"high_threshold":45,
+"importance":"40",
+"icon": "government.png"
+},
+
+{
+"id": "jshist-sanilac",
+"title": "Sanilac Petroglyphs",
+"description": "This sandstone outcrop is covered in carved petroglyphs in a variety of images.  Archaeological work around the rock has located flakes, pottery, and fire-cracked rock.",
+"startdate": "600",
+"enddate": "1600",
+"link": "http://www.michigan.gov/mhc/0,4726,7-282-61080_62660---,00.html",
+"image": "http://www.michigan.gov/images/mhc/sanilac-petroglyphs_534574_7.jpg",
+"high_threshold":45,
+"importance":"50",
+"icon": "rock art.png"
 }
+	
 	
 ],
 "legend": [
