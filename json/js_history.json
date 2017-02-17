@@ -1231,7 +1231,45 @@
 "high_threshold":45,
 "importance":"40",
 "icon": "village.png"
-}
+},
+
+	
+{
+"id": "jshist-dumaw",
+"title": "Dumaw Creek",
+"description": "This village and cemetery site is unique in that it dates to the cusp of contact with Europeans.",
+"startdate": "1600",
+"enddate": "1620",
+"link": "https://en.wikipedia.org/wiki/Dumaw_Creek_Site",
+"high_threshold":45,
+"importance":"40",
+"icon": "village.png"
+},
+	
+{
+"id": "jshist-green",
+"title": "Green Quarry",
+"description": "This quarry contains over 100 quarry pits and a surface scatter covering over 40 acres.  This quarry is a source of Lambrix chert. The chert occurs as glacial cobbles, there is no outcrop here.",
+"startdate": "-14000",
+"enddate": "1600",
+"link": "https://en.wikipedia.org/wiki/Green_Quarry_Site",
+"high_threshold":45,
+"importance":"40",
+"icon": "quarry.png"
+},
+	
+{
+"id": "jshist-sable",
+"title": "Little Point Sable Lighthouse",
+"description": "This lighthouse contains several features and a surface scatter of artifacts.",
+"startdate": "1874",
+"enddate": "1950",
+"link": "https://en.wikipedia.org/wiki/Little_Sable_Point_Light",
+"image": "https://s-media-cache-ak0.pinimg.com/originals/ec/f1/43/ecf1433a4c9f5386a6526568f73011b0.jpg",
+"high_threshold":45,
+"importance":"40",
+"icon": "lighthouse2.png"
+},
 
 ],
 "legend": [
