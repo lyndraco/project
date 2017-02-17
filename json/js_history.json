@@ -1089,66 +1089,39 @@
 
 {
 "id":"jsconf2010",
-"title": "JS Conf 2010",
-"description": "The theme for JSConf US 2010 is 'Pirates' and we do intend on taking that to the limit. Already we have buried some treasure(.js) for a few lucky land lubbers. Everything you have seen, heard, or come to know of about JSConf is about to change once again. Prepare to cast away for an amazing time as the JavaScript community comes together once again in Washington, DC.",
-"startdate": "2010-04-17 08:00:00",
-"enddate": "2010-04-18 18:00:00",
-"link":"http://jsconf.us/2010/",
+"title": "Lasanen",
+"description": "This late 17th century ossuary was disturbed by construction, prompting salvage excavations.  These excavations have revealed much about continuity of burial practices in the straits, as well as life during this time period.",
+"startdate": "1670",
+"enddate": "1715",
+"link":"https://en.wikipedia.org/wiki/Lasanen_Site",
 "high_threshold":50,
 "importance":"40",
-"icon":"circle_blue.png",
-"map":{
-	"label":"JSConf 2010", 
-	"latlong":"38.8969007, -77.0724308",
-	"markers":[
-		{
-		"latlong":"38.8969007, -77.0724308",
-		"icon":"http://timeglider.com/jquery/img/jsconf.png",
-		"title":"JS Conf 2010, in Arlington/Washington DC",
-		"zIndex":99
-		 }
-		]
-	}
+"icon":"cemetery.png"
 },
 
 
 {
 "id":"jsconf2011",
-"title": "JS Conf 2011",
-"description": "Portland, Oregon, at the Portland Art Museum. Highlights included Andrew Dupont's talk, 'Everything is Permitted: Extending Built-ins', doughnuts, and more.",
-"startdate": "2011-05-02 08:00:00",
-"enddate": "2011-05-03 18:00:00",
-"link":"http://2011.jsconf.us/",
+"title": "Scott Point",
+"description": "This camp/village site includes numerous hearth and storage pits, a large variety of ceramics, bone tools, and copper implements.  Three radiocarbon dates have been done on the site, 860 +/-40, 870+/-40, and 1240+/-40.",
+"startdate": "820",
+"enddate": "1280",
+"link":"https://en.wikipedia.org/wiki/Scott_Point_Site",
 "high_threshold":50,
 "importance":"40",
-"icon":"circle_blue.png",
-"tags":"conference,arizona,chris",
-"map":{
-	"label":"JSConf 2011", 
-	"latlong":"45.51655690309638,-122.68299579620361",
-	"markers":[
-		{
-		"latlong":"45.51655690309638, -122.68299579620361",
-		"icon":"http://timeglider.com/jquery/img/jsconf.png",
-		"title":"Portland Art Museum",
-		"zIndex":99
-		 }
-		]
-	}
+"icon":"campfire.png"
 },
 
 
 {
 "id":"jsconf2012",
-"title": "JSConf 2012",
-"description": "JSConf is one of the most exciting and cutting edge technical conferences ever and it's all about JS - what could be better? This year we put on our boots, saddle up our horses, and head out to that crazy little town with the epic western feel and perfect JSConf vibe, Scottsdale, Arizona! Come prepared as your curators Chris and Laura Williams pull out all the stops in the fourth edition of JSConf US.",
-"startdate": "2012-04-01 08:00:00",
-"enddate": "2012-04-04 18:00:00",
-"link":"http://2012.jsconf.us",
+"title": "Gyftakis",
+"description": "Excavations at this camp have revealed a variety of pottery, some with food residue.",
+"startdate": "-75",
+"enddate": "145",
 "high_threshold":50,
 "importance":"40",
-"icon":"circle_blue.png",
-"tags":"conference,arizona,chris, mardigras"
+"icon":"campfire.png"
 },
 
 {
