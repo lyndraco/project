@@ -1353,8 +1353,40 @@
 "high_threshold":45,
 "importance":"40",
 "icon": "campfire.png"
-}	
-	
+},	
+
+{
+"id": "jshist-schmidt",
+"title": "Schmidt",
+"description": "An excavated Middle Archaic site with a series of radiocarbon dates. Faunal remains suggest a fall occupation.",
+"startdate": "-8000",
+"enddate": "-5000",
+"high_threshold":45,
+"importance":"40",
+"icon": "campfire.png"
+},
+
+{
+"id": "jshist-mahoney",
+"title": "Mahoney",
+"description": "This stratified site contains multiple features.",
+"startdate": "-2000",
+"enddate": "600",
+"high_threshold":45,
+"importance":"40",
+"icon": "campfire.png"
+},
+
+{
+"id": "jshist-bugai",
+"title": "Bugai",
+"description": "Salvage excavations were conducted here, revealing a Wayne Mortuary Tradition site.",
+"startdate": "600",
+"enddate": "1000",
+"high_threshold":45,
+"importance":"40",
+"icon": "cemetery.png"
+}
 	
 ],
 "legend": [
