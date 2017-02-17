@@ -627,10 +627,8 @@
 "description": "Graved Rock is a series of petroglyph of unknown age.",
 "startdate": "-1000",
 "enddate": "1000",
-"low_threshold":41,
 "high_threshold":45,
 "importance":"50",
-"date_display":"ye",
 "icon":"rock art.png"
 },
 
@@ -1423,6 +1421,46 @@
 "high_threshold":45,
 "importance":"50",
 "icon": "rock art.png"
+},
+	
+{
+"id": "jshist-seulchoix",
+"title": "Seul Choix",
+"description": "This site has been excavated, and OSL dates have been done on the ceramics.",
+"startdate": "600",
+"enddate": "1000",
+"high_threshold":45,
+"importance":"50",
+"icon": "campfire.png"
+},	
+	
+
+{
+"id": "jshist-detroit",
+"title": "Detroit Dry Dock Co. complex",
+"description": "The Detroit Dry Dock Company complex once included two dry docks, a shipyard, associated support structures, sawmill, loft and office.  THe first dry dock was built to service schooners, while the second to service larger steam vessels.",
+"startdate": "1860",
+"enddate": "1915",
+"link": "https://en.wikipedia.org/wiki/Dry_Dock_Complex_(Detroit,_Michigan)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Detroit_Dry_Dock_c_1884.jpg/1024px-Detroit_Dry_Dock_c_1884.jpg",
+"high_threshold":45,
+"importance":"50",
+"icon": "industrial.png"
+},	
+	
+	
+
+{
+"id": "jshist-hullstrace",
+"title": "Hull's Trace",
+"description": "This is a portion of the corduroy road that was once part of the military and early territorial road running from Maumee, Ohio to Detroit.",
+"startdate": "1812",
+"enddate": "1828",
+"link": "https://en.wikipedia.org/wiki/Hull's_Trace_North_Huron_River_Corduroy_Segment",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hulls_Trace_Wayne_County_MI_A.JPG/800px-Hulls_Trace_Wayne_County_MI_A.JPG",
+"high_threshold":45,
+"importance":"50",
+"icon": "military.png"
 }
 	
 	
