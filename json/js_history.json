@@ -1073,13 +1073,15 @@
 
 {
 "id":"jshist-ffconf",
-"title": "Full Frontal Conference",
-"description": "Released at the Boston JQuery Conference",
-"startdate": "2009-11-20 12:00:00",
-"link":"http://2009.full-frontal.org/",
+"title": "Fort Mackinac",
+"description": "Fort Mackinac was constructed when the British decided to move their base of operations from the straits to Mackinac Island. Fort Michilimackinac was disassembled and reassembled at the new location. The fort was turned over to the United States in 1796, but retaken by the British in 1812.  It was reoccupied by the US in 1815, where it operated as a military post until 1895. Excavations at the fort have revealed information about daily life, as well as infomation on early trash disposal and drainage systems at the fort.",
+"startdate": "1780",
+"enddate": "1895",
+"link":"www.mackinacparks.com/parks-and-attractions/fort-mackinac/",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fort_Mackinack_I.jpg/1024px-Fort_Mackinack_I.jpg",
 "high_threshold":50,
-"importance":"30",
-"icon":"circle_blue.png"
+"importance":"40",
+"icon":"fort.png"
 },
 
 
