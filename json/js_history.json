@@ -1269,8 +1269,57 @@
 "high_threshold":45,
 "importance":"40",
 "icon": "lighthouse2.png"
-}
+},
 
+{
+"id": "jshist-vanhoosen",
+"title": "Van Hoosen Farm",
+"description": "This nineteenth century farm complex started as a double log cabin in 1823.  A Greek Revival style frame house was constructed in 1840.  Archaeology on the site has revealed numerous kinds of artifacts.",
+"startdate": "1823",
+"enddate": "1952",
+"link": "http://www.rochesterhills.org/museum",
+"image": "https://s-media-cache-ak0.pinimg.com/originals/f6/b6/d3/f6b6d370b5c01f2d16958c8813e0e723.jpg",
+"high_threshold":45,
+"importance":"40",
+"icon": "house.png"
+},	
+	
+{
+"id": "jshist-spoon",
+"title": "Spoonville",
+"description": "This extensive, multicomponent site represents one of the most intact Hopewell site ocmplexes in Michigan.  The Middle to early Late Woodland mound and habitation site has had many excavations.",
+"startdate": "600",
+"enddate": "1000",
+"link": "https://en.wikipedia.org/wiki/Spoonville_site",
+"high_threshold":45,
+"importance":"40",
+"icon": "village.png"
+},
+
+{
+"id": "jshist-battle",
+"title": "Battle Point",
+"description": "A 19th century Ottawa cemetery that was identified from erosion, efforts have been made to stabilize the site.",
+"startdate": "1760",
+"enddate": "1820",
+"link": "https://www.jstor.org/stable/40316093",
+"high_threshold":45,
+"importance":"40",
+"icon": "cemetery.png"
+},
+
+{
+"id": "jshist-forty",
+"title": "Forty Mile Point Lighthouse",
+"description": "This lighthouse complex consists of a double Keeper's Dwelling with a brick light tower. There are also two brick privies, a brick oil house, and fog signal building.",
+"startdate": "1894",
+"enddate": "1944",
+"link": "http://www.40milepointlighthouse.org/",
+"high_threshold":45,
+"importance":"40",
+"icon": "lighthouse2.png"
+}	
+	
 ],
 "legend": [
    {"title":"Camp", "icon":"campfire.png"},
