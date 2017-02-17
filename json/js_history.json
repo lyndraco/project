@@ -1057,14 +1057,15 @@
 
 {
 "id":"jshist-11",
-"title": "jQuery Mobile / 1.4.3",
-"description": "Released at the Boston JQuery Conference",
-"startdate": "2010-10-16 12:00:00",
-"enddate": "2010-10-16 12:00:00",
-"link":"http://www.jquerymobile.com",
+"title": "Gros Cap Archaeological District",
+"description": "This village and associated cemetery contain many discrete features dating to the 17th and 18th centuries. There is evidence for cache pits at the site as well.  The site provides good evidence for how life changed with the influx of Europeans during the late 17th century.",
+"startdate": "1600",
+"enddate": "1700",
+"link":"https://en.wikipedia.org/wiki/Gros_Cap_Archaeological_District",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gros_Cap_Archaeological_District.jpg/1024px-Gros_Cap_Archaeological_District.jpg",
 "high_threshold":50,
-"importance":"30",
-"icon":"triangle_orange.png"
+"importance":"50",
+"icon":"village.png"
 },
 
 
