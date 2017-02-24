@@ -282,6 +282,7 @@
 "high_threshold":50,
 "importance":"40",
 "date_display":"ye",
+"modal_type": "full",
 "icon":"campfire.png"
 },
 
@@ -1015,6 +1016,7 @@
 "image": "http://www.projectilepoints.net/Points/Pointphotos/Holcombe.jpg",
 "high_threshold":50,
 "importance":"50",
+"modal_type": "full",
 "icon":"campfire.png"
 },
 
@@ -1252,7 +1254,8 @@
 "startdate": "-11000",
 "link":[{"url":"https://en.wikipedia.org/wiki/Green_Quarry_Site", "label":"Wikipedia"}, {"url":"glossary.html#chert", "label":"What's Chert?"}],
 "high_threshold":45,
-"importance":"40",
+"importance":"50",
+"modal_type": "full",
 "icon": "quarry.png"
 },
 	
