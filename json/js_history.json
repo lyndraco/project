@@ -6,11 +6,6 @@
 "focus_date":"-14000",
 "initial_zoom":"39",
 "image_lane_height":50,
-"lanes" : [
-	{"id":"environment","title":"Environmental Changes"},
-	{"id":"tech","title":"Technology Changes"},
-	{"id":"sites","title":"Archaeological Sites"}
-	],
 "events":[
 
 
@@ -26,8 +21,7 @@
 "video": "https://www.youtube.com/embed/BteVBLfQCEs",
 "link":"Mastodon.pdf",
 "icon":"campfire.png",
-"tags": "mastodon, mammoth",
-"lane":"sites"
+"tags": "mastodon, mammoth"
 },         
  
 
@@ -42,8 +36,7 @@
 "image": "http://www.alconahistoricalsociety.com/pics/sm-lh.jpg", 
 "link":"http://www.michigan.org/property/sturgeon-point-lighthouse",
 "date_display":"ye",
-"icon":"lighthouse2.png",
-"lane":"sites"
+"icon":"lighthouse2.png"
 },
 
 
@@ -58,8 +51,7 @@
 "high_threshold":50,
 "importance":"40",
 "date_display":"ye",
-"icon":"village.png",
-"lane":"sites"
+"icon":"village.png"
 },
 
 
