@@ -1015,7 +1015,7 @@
 "title": "Holcombe",
 "description": "This single component site contained evidence for a Paleo-Indian camp.  This site has provided the only direct evidence of diet during this time period for Michigan, a single caribou bone.",
 "startdate": "-10400",
-"link":[{"url":"https://en.wikipedia.org/wiki/Holcombe_Site", "label":"Wikipedia"}],
+"link":[{"url":"https://en.wikipedia.org/wiki/Holcombe_Site", "label":"Wikipedia"}, {"url": "glossary.html#component", "label":"What's a component?"}],
 "image": "http://www.projectilepoints.net/Points/Pointphotos/Holcombe.jpg",
 "high_threshold":50,
 "importance":"50",
