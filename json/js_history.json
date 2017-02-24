@@ -19,7 +19,7 @@
 "importance":"50",
 "modal_type": "full",
 "video": "https://www.youtube.com/embed/BteVBLfQCEs",
-"image": "img/skull2.jpg, height=50% width=50%",
+"image": "img/skull3.jpg",
 "link":[{"url":"Mastodon.pdf", "label":"News Article on Find"}, {"url":"glossary.html#mastodon", "label":"What's a Mastodon"}],
 "icon":"campfire.png"
 },         
