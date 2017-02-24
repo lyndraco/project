@@ -3,7 +3,7 @@
 "id":"js_history",
 "title":"Michigan History as Told Through Archaeology",
 "description":"<p>People have been living in Michigan for 14,000 years. Since the retreat of the glaciers, people have inhabited Michigan's rich landscapes and used its may resources. Here, you will find a brief, annotated, timeline of what we know about the history of Michigan from archaeology.</p>",
-"focus_date":"-14000",
+"focus_date":"-13000",
 "initial_zoom":"39",
 "image_lane_height":50,
 "events":[
@@ -17,6 +17,7 @@
 "enddate": "-11000",
 "high_threshold":50,
 "importance":"50",
+"modal_type": "full",
 "image": "http://www.gannett-cdn.com/-mm-/e9f002cbb0a4fe7004f94522e8956058a4a8cc80/c=304-0-5168-3648&r=x404&c=534x401/local/-/media/2016/10/17/DetroitNews/B99453676Z.1_20161017182022_000_GRH16G9CK.1-0.jpg",
 "video": "https://www.youtube.com/embed/BteVBLfQCEs",
 "link":[{"url":"Mastodon.pdf", "label":"News Article on Find"}, {"url":"glossary.html#mastodon", "label":"What's a Mastodon"}],
@@ -34,6 +35,7 @@
 "importance":"40",
 "image": "http://www.alconahistoricalsociety.com/pics/sm-lh.jpg", 
 "link":"http://www.michigan.org/property/sturgeon-point-lighthouse",
+"modal_type": "full",
 "date_display":"ye",
 "icon":"lighthouse2.png"
 },
@@ -280,7 +282,7 @@
 "startdate": "-10500",
 "enddate": "-7771",
 "high_threshold":50,
-"importance":"40",
+"importance":"50",
 "date_display":"ye",
 "modal_type": "full",
 "icon":"campfire.png"
@@ -1012,7 +1014,7 @@
 "title": "Holcombe",
 "description": "This single component site contained evidence for a Paleo-Indian camp.  This site has provided the only direct evidence of diet during this time period for Michigan, a single caribou bone.",
 "startdate": "-10400",
-"link":"https://en.wikipedia.org/wiki/Holcombe_Site",
+"link":[{"url":"https://en.wikipedia.org/wiki/Holcombe_Site", "label":"Wikipedia"}],
 "image": "http://www.projectilepoints.net/Points/Pointphotos/Holcombe.jpg",
 "high_threshold":50,
 "importance":"50",
