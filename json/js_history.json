@@ -12,7 +12,7 @@
 {
 "id":"jshist-Lambda",
 "title": "Tuscola County Mastodon",
-"description":"This <a href="project/glossary"> mastodon</a>, found in Tuscola County, is one of the most complete found to date. More than 75 complete bones, or 60-70% of the animal's skeletal mass, has been recovered. It probably lived between 13,000 and 11,000 years ago.  According to Dr. Dan Fisher, there is a good chance that people were involved with this site.  If so, this site will add to the growing body of evidence for interaction between humans and mammoths and mastodons.",
+"description":"This <a href="#mastodon"> mastodon</a>, found in Tuscola County, is one of the most complete found to date. More than 75 complete bones, or 60-70% of the animal's skeletal mass, has been recovered. It probably lived between 13,000 and 11,000 years ago.  According to Dr. Dan Fisher, there is a good chance that people were involved with this site.  If so, this site will add to the growing body of evidence for interaction between humans and mammoths and mastodons.",
 "startdate": "-13000",
 "enddate": "-11000",
 "high_threshold":50,
