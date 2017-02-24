@@ -285,7 +285,7 @@
 "importance":"50",
 "date_display":"ye",
 "modal_type": "full",
-"link":[{"url":"glossary.html#paleo-indian", "label":"What's a Paleo-Indian?"}],
+"link":[{"url":"glossary.html#paleo-indian", "label":"What's a Paleo-Indian?"}, {"url":"glossary.html#debitage", "label": "What's debitage?"}],
 "icon":"campfire.png"
 },
 
