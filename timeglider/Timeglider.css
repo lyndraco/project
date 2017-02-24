@@ -1607,6 +1607,7 @@ background-color:#717171;
 }
 
 .tg-modal-video iframe {
+	position:relative;
 	float:left;
 	width:100%;
 }
