@@ -598,11 +598,12 @@
 {
 "id":"jshist-02",
 "title": "Spider Cave",
-"description": "This series of wave cut niches contain the only known pictographs in the state of Michigan.",
+"description": "This series of wave cut niches contain the only known pictographs in the state of Michigan, or painted images. Image copyright Jessica Yann.",
 "startdate": "-600",
 "enddate": "600",
 "date_display":"ye",
-"link":"https://en.wikipedia.org/wiki/Spider_Cave",
+"link":[{"url":"https://en.wikipedia.org/wiki/Spider_Cave", "label": "Wikipedia"}, {"url": "glossary.html#pictograph", "label":"What is a pictograph?"}],
+"image" "img/burntbluff3.jpg",
 "high_threshold":50,
 "importance":"55",
 "icon":"rock art.png"
