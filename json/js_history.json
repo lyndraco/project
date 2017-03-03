@@ -1340,11 +1340,13 @@
 {
 "id": "jshist-schmidt",
 "title": "Schmidt",
-"description": "An excavated Middle Archaic site with a series of radiocarbon dates. Deer and bird bones found at the site suggest a fall occupation.",
-"startdate": "-8000",
-"enddate": "-5000",
+"description": "Excavations at this Middle Archaic site revealed several features, including an undisturbed midden feature. Radiocarbon dates were done from several of the features, providing dates between 6900 and 5200 years before present. Artifacts include a variety of stone tools, a bone awl, animal bone, and nuts and seeds.  Deer and bird bones found at the site suggest a fall occupation, though muskrat and fish remains suggest people also lived here in the spring and summer. Given this evidence, people probably used this location all year round.",
+"startdate": "-6900",
+"enddate": "-5200",
 "high_threshold":45,
 "importance":"60",
+"modal_type"="full",
+"link"="link":[{"url":"glossary.html#midden", "label":"What's a midden?"}, {"url":"glossary.html#middlearchaic", "label":"What's Middle Archaic mean?"}],
 "icon": "campfire.png"
 },
 
