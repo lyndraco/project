@@ -52,6 +52,7 @@
 "high_threshold":50,
 "modal_type": "full",
 "importance":"60",
+"link":[{"url":"glossary.html#middlewoodland", "label":"What does Middle Woodland mean?"}, {"url":"glossary.html#latewoodland", "label":"What does Late Woodland mean?"}],	
 "date_display":"ye",
 "icon":"village.png"
 },
