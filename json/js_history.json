@@ -432,8 +432,9 @@
 "enddate": "1000",
 "date_display":"ye",
 "high_threshold":50,
-"image": "https://archaeology.uiowa.edu/mi-cx-01-norwood-chert",
+"image": "https://archaeology.uiowa.edu/sites/archaeology.uiowa.edu/files/12MI-CX-01Norwood.jpg",
 "importance":"50",
+"modal_type": "full",
 "link":[{"url":"glossary.html#core", "label":"What's a core?"}, {"url":"glossary.html#chipped", "label":"What are chipped stone tools?"}],
 "icon":"quarry.png"
 },
