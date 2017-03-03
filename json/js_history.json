@@ -68,7 +68,7 @@
 "enddate": "600",
 "high_threshold":50,
 "importance":"50",
-"link":[{"url":"https://en.wikipedia.org/wiki/Holtz_Site","label":"Wikipedia"}],
+"link":[{"url":"https://en.wikipedia.org/wiki/Holtz_Site","label":"Wikipedia"}, {"url":"glossary.htl#sherd", "label":"What's a sherd?"}],
 "modal_type": "full",
 "image": "img/holtz.jpg",
 "icon":"campfire.png"
