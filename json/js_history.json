@@ -185,11 +185,13 @@
 {
 "id":"jshist-cobol",
 "title": "Fletcher",
-"description":"The site has been continuously occupied since the Late Archaic period, however the most well known component is from the late eighteenth century, when a cemetery was found.",
+"description":"The site has been continuously occupied since the Late Archaic period, however the most well known component is from the late eighteenth century, when a cemetery was found. The Late Archaic/Early Woodland component of the site is known from a buried paleosol that contained multiple pit and hearth features. Artifacts found here included Satchell points, bifaces, cores, drills, scrapers, and other chipped stone tools. This period of occupation has been interpreted as a seasonal camp.",
 "startdate": "-2000",
-"enddate": "1780",
-"importance":"40",
+"enddate": "-200",
+"importance":"50",
 "date_display":"ye",
+"modal_type": "full",
+"link":{"url":"glossary.html#paleosol", "label":"What is a paleosol?"},
 "high_threshold":50,
 "icon":"village.png"
 },
@@ -1349,7 +1351,9 @@
 "startdate": "-2000",
 "enddate": "600",
 "high_threshold":45,
-"importance":"40",
+"modal_type": "full",
+"link": {"url":"glossary.html#stratified", "label":"What does stratified mean?"}
+"importance":"50",
 "icon": "campfire.png"
 },
 
