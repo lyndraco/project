@@ -1353,8 +1353,7 @@
 "enddate": "600",
 "high_threshold":45,
 "modal_type": "full",
-"link": "glossary.html#stratified", 
-"label":"What does stratified mean?",
+"link": [{"url":"glossary.html#stratified", "label":"What does stratified mean?"}],
 "importance":"50",
 "icon": "campfire.png"
 },
