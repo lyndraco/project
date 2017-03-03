@@ -16,7 +16,7 @@
 "startdate": "-13000",
 "enddate": "-11000",
 "high_threshold":50,
-"importance":"50",
+"importance":"100",
 "modal_type": "full",
 "video": "https://www.youtube.com/embed/BteVBLfQCEs",
 "image": "img/skull3.jpg",
@@ -129,7 +129,7 @@
 "description":"This multicomponent site has been occupied for many thousands of years.  The site includes camps, earthworks, and one of the most significant Upper Mississippian sites in Michigan.",
 "startdate": "-8000",
 "enddate": "1600",
-"importance":"30",
+"importance":"50",
 "high_threshold":50,
 "date_display":"ye",
 "icon":"village.png"
@@ -282,7 +282,7 @@
 "startdate": "-10500",
 "enddate": "-7771",
 "high_threshold":50,
-"importance":"50",
+"importance":"100",
 "date_display":"ye",
 "modal_type": "full",
 "image": "img/leavitt.jpg",
@@ -433,7 +433,7 @@
 "date_display":"ye",
 "high_threshold":50,
 "image": "https://archaeology.uiowa.edu/sites/archaeology.uiowa.edu/files/12MI-CX-01Norwood.jpg",
-"importance":"50",
+"importance":"75",
 "modal_type": "full",
 "link":[{"url":"glossary.html#core", "label":"What's a core?"}, {"url":"glossary.html#chipped", "label":"What are chipped stone tools?"}],
 "icon":"quarry.png"
@@ -996,7 +996,7 @@
 "link":[{"url":"https://en.wikipedia.org/wiki/Holcombe_Site", "label":"Wikipedia"}, {"url": "glossary.html#component", "label":"What's a component?"}],
 "image": "http://www.projectilepoints.net/Points/Pointphotos/Holcombe.jpg",
 "high_threshold":50,
-"importance":"50",
+"importance":"100",
 "modal_type": "full",
 "icon":"campfire.png"
 },
@@ -1235,7 +1235,7 @@
 "startdate": "-11000",
 "link":[{"url":"https://en.wikipedia.org/wiki/Green_Quarry_Site", "label":"Wikipedia"}, {"url":"glossary.html#chert", "label":"What's Chert?"}],
 "high_threshold":45,
-"importance":"50",
+"importance":"100",
 "modal_type": "full",
 "icon": "quarry.png"
 },
@@ -1344,7 +1344,7 @@
 "startdate": "-8000",
 "enddate": "-5000",
 "high_threshold":45,
-"importance":"40",
+"importance":"60",
 "icon": "campfire.png"
 },
 
