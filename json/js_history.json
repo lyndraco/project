@@ -602,7 +602,7 @@
 "startdate": "-600",
 "enddate": "600",
 "date_display":"ye",
-"link":[{"url":"https://en.wikipedia.org/wiki/Spider_Cave", "label": "Wikipedia"}, {"url": "glossary.html#pictograph", "label":"What is a pictograph?"}],
+"link":[{"url":"https://en.wikipedia.org/wiki/Spider_Cave","label":"Wikipedia"}, {"url": "glossary.html#pictograph", "label":"What is a pictograph?"}],
 "image" "img/burntbluff3.jpg",
 "high_threshold":50,
 "importance":"55",
