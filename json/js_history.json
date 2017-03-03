@@ -1346,7 +1346,7 @@
 "high_threshold":45,
 "importance":"60",
 "modal_type"="full",
-"link"="link":[{"url":"glossary.html#midden", "label":"What's a midden?"}, {"url":"glossary.html#middlearchaic", "label":"What's Middle Archaic mean?"}],
+"link"=[{"url":"glossary.html#midden", "label":"What's a midden?"}, {"url":"glossary.html#middlearchaic", "label":"What's Middle Archaic mean?"}],
 "icon": "campfire.png"
 },
 
