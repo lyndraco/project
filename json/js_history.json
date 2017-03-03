@@ -191,6 +191,7 @@
 "importance":"50",
 "date_display":"ye",
 "modal_type": "full",
+"image": "http://www.archaeowiki.com/images/thumb/e/e5/Genesee.jpg/350px-Genesee.jpg",
 "link":{"url":"glossary.html#paleosol", "label":"What is a paleosol?"},
 "high_threshold":50,
 "icon":"village.png"
