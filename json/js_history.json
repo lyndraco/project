@@ -63,13 +63,14 @@
 {
 "id":"jshist-lisp",
 "title": "Holtz",
-"description":"This Native American camp was occupied for a single time period during the Middle Woodland.",
+"description":"This Native American camp was occupied for a single time period during the Middle Woodland. Excavations at the site in the 1960s located almost 2000 pottery sherds in at least two concentrations, representing 11 vessels.  A hearth was also present.  A variety of lithic artifacts were also found, along with evidence for elk and clams.",
 "startdate": "-600",
 "enddate": "600",
 "high_threshold":50,
 "importance":"40",
-"link":"https://en.wikipedia.org/wiki/Holtz_Site",
-"date_display":"ye",
+"link":[{"https://en.wikipedia.org/wiki/Holtz_Site", "label":"Wikipedia"}],
+"modal_type": "full",
+"image": "img/holtz.jpg",
 "icon":"campfire.png"
 },
 
