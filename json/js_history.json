@@ -603,7 +603,7 @@
 "enddate": "600",
 "modal_type": "full",
 "link":[{"url":"https://en.wikipedia.org/wiki/Spider_Cave", "label":"Wikipedia"}, {"url":"glossary.html#pictograph", "label":"What's a pictograph?"}],
-"image":"img/burntbluff3.jpg",
+"image":"img/burntbluff.jpg",
 "high_threshold":50,
 "importance":"55",
 "icon":"rock art.png"
