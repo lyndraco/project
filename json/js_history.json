@@ -129,7 +129,7 @@
 "description":"This multicomponent site has been occupied for many thousands of years.  The site includes camps, earthworks, and one of the most significant Upper Mississippian sites in Michigan.",
 "startdate": "-8000",
 "enddate": "1600",
-"importance":"40",
+"importance":"30",
 "high_threshold":50,
 "date_display":"ye",
 "icon":"village.png"
@@ -426,30 +426,18 @@
 
 {
 "id":"jshist-ie1",
-"title": "Fritz Trail",
-"description":"This site is the location of several outcroppings of Norwood chert.  Some limestone quarrrying has been done here as well.  Evidence of stone tool manufacture is also evident.",
+"title": "Fritz Trail & Whiskey Creek",
+"description":"These sites are the location of several outcroppings of Norwood chert.  Some limestone quarrrying has been done here as well.  Evidence of stone tool manufacture is also evident, including debitage, cores, and core fragments. Ground stone tools, necessary for producing chipped stone artifacts, have also been found here.  This was an early site of raw material collection.",
 "startdate": "-8000",
 "enddate": "1000",
 "date_display":"ye",
 "high_threshold":50,
-"importance":"40",
+"image": "https://archaeology.uiowa.edu/mi-cx-01-norwood-chert",
+"importance":"50",
+"link":[{"url":"glossary.html#core", "label":"What's a core?"}, {"url":"glossary.html#chipped", "label":"What are chipped stone tools?"}],
 "icon":"quarry.png"
 },
 
-
-
-
-{
-"id":"jshist-whatwg",
-"title": "Whiskey Creek",
-"description":"This site is located near a Norwood chert quarry, and shows evidence of stone tool mnufacture.",
-"startdate": "-8000",
-"enddate": "1000",
-"high_threshold":50,
-"importance":"40",
-"date_display":"ye",
-"icon":"quarry.png"
-},
 
 
 {
@@ -884,18 +872,6 @@
 "high_threshold":50,
 "importance":"45",
 "icon":"industrial.png"
-},
-
-
-{
-"id":"jshist-as1",
-"title": "Clark-Stringham",
-"description": "Plowzone site with artifacts from Archaic and Woodland periods.",
-"startdate": "-8000",
-"enddate": "-1000",
-"high_threshold":50,
-"importance":"35",
-"icon":"campfire.png"
 },
 
 
@@ -1363,7 +1339,7 @@
 {
 "id": "jshist-schmidt",
 "title": "Schmidt",
-"description": "An excavated Middle Archaic site with a series of radiocarbon dates. Faunal remains suggest a fall occupation.",
+"description": "An excavated Middle Archaic site with a series of radiocarbon dates. Deer and bird bones found at the site suggest a fall occupation.",
 "startdate": "-8000",
 "enddate": "-5000",
 "high_threshold":45,
