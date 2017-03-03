@@ -1012,11 +1012,13 @@
 {
 "id":"jshist-14",
 "title": "Riverside",
-"description": "This is a large multicomponent village and cemetery complex. Features include middens, burials, and postmolds. Artifacts from the site include bifaces, obsidian, bone tools, and a variety of copper atifacts.",
+"description": "This is a large multicomponent village and cemetery complex. Features include middens, burials, and postmolds. Artifacts from the site include bifaces, obsidian, bone tools, and a variety of copper atifacts. Perhaps the most interesting artifact from the site is a piece of copper, that through radiographic and metallurgic analysis, has been found to be of cast copper.",
 "startdate": "-1100",
 "enddate": "600",
 "high_threshold":50,
-"importance":"40",
+"modal_type": "full",
+"image": "http://myplace.frontier.com/~nostberg/archeology/rs_3.jpg",
+"importance":"55",
 "icon":"cemetery.png"
 },
 
