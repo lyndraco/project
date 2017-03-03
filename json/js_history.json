@@ -242,7 +242,7 @@
 "startdate": "100",
 "enddate": "900",
 "importance":"40",
-"link": "https://en.wikipedia.org/wiki/Naomikong_Point_Site",
+"link": [{"url":"https://en.wikipedia.org/wiki/Naomikong_Point_Site", "label":"Wikipedia"}, {"url":"glossary.html#postmold", "label": "What's a post mold?"}],
 "date_display":"ye",
 "high_threshold":50,
 "icon":"campfire.png"
@@ -552,13 +552,13 @@
 
 
 {
-"id":"jshist-thickbox",
+"id":"jshist-winter",
 "title": "Winter",
-"description":"This site was occupied during warm weather during the Middle Woodland period, about 2000 years ago.  A clay lined pit was found by archaeologists, as well as flakes of exotic cherts (Knife River and obsidian), hammerstones, anvils, end scrapers, bipolar cores, pigments, copper tools, and ceramics.",
+"description":"This site was occupied during warm weather during the Middle Woodland period.  A clay lined pit was found by archaeologists, as well as flakes of exotic cherts (Knife River and obsidian), hammerstones, anvils, end scrapers, bipolar cores, pigments, copper tools, and ceramics.",
 "startdate": "-100",
 "enddate": "130",
 "high_threshold":50,
-"date_display":"ye",
+"modal_type": "full",
 "importance":"40",
 "icon":"village.png"
 },
