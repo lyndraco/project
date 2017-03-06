@@ -1400,7 +1400,7 @@
 	border-radius:8px;
 	background:#FFF;
 	border:1px solid #333;
-	width:400px;
+	width:200px;
 	padding:8px;
 	position:absolute;
 	top:50px;
@@ -1410,12 +1410,12 @@
 
 
 .tg-iframe-modal {
-	width:600px;
-	height:400px;
+	width:400px;
+	height:200px;
 }
 
 .tg-iframe-modal iframe {
-	width:100%;
+	width:50%;
 	height:350px;
 	border:none;
 }
@@ -1598,7 +1598,7 @@ background-color:#717171;
 	margin:16px;
 }
 .tg-modal-video, .tg-modal_map {
-	width:100%;
+	width:50%;
 }
 
 .tg-modal_map {
@@ -1610,7 +1610,7 @@ background-color:#717171;
 .tg-modal-video iframe {
 	position:absolute;
 	float:left;
-	width:100%;
+	width:50%;
 }
 
 
