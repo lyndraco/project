@@ -1411,12 +1411,12 @@
 
 .tg-iframe-modal {
 	width:400px;
-	height:200px;
+	height:400px;
 }
 
 .tg-iframe-modal iframe {
 	width:50%;
-	height:50%;
+	height:100%;
 	border:none;
 }
 
