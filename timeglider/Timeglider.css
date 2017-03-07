@@ -1401,7 +1401,6 @@
 	background:#FFF;
 	border:1px solid #333;
 	width:200px;
-	height:400px;
 	padding:8px;
 	position:absolute;
 	top:50px;
@@ -1412,12 +1411,10 @@
 
 .tg-iframe-modal {
 	width:400px;
-	height:100%;
 }
 
 .tg-iframe-modal iframe {
 	width:50%;
-	height:100%;
 	border:none;
 }
 
