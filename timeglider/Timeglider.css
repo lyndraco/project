@@ -1401,6 +1401,7 @@
 	background:#FFF;
 	border:1px solid #333;
 	width:200px;
+	height:200px;
 	padding:8px;
 	position:absolute;
 	top:50px;
@@ -1612,7 +1613,7 @@ background-color:#717171;
 	position:absolute;
 	float:left;
 	width:50%;
-	height: 50%;
+	height:50%;
 }
 
 
