@@ -1401,7 +1401,7 @@
 	background:#FFF;
 	border:1px solid #333;
 	width:200px;
-	height:200px;
+	height:400px;
 	padding:8px;
 	position:absolute;
 	top:50px;
@@ -1412,7 +1412,7 @@
 
 .tg-iframe-modal {
 	width:400px;
-	height:400px;
+	height:100%;
 }
 
 .tg-iframe-modal iframe {
@@ -1588,7 +1588,7 @@ background-color:#717171;
 
 .tg-full_modal-vidimg {
 	width:50%;
-	height:50%;
+	height:100%;
 	float:right;
 	margin-right:2%;
 	margin-top:-2%;
