@@ -796,6 +796,7 @@
 "enddate": "1420",
 "high_threshold":50,
 "modal_type": "full",
+"link": [{"url":"img/madison.jpg", "label": "What is a triangular point?"}]
 "importance":"50",
 "icon":"village.png"
 },
