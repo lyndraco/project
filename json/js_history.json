@@ -163,7 +163,8 @@
 "enddate": "1873",
 "importance":"45",
 "high_threshold":50,
-"link": "https://en.wikipedia.org/wiki/Assinins,_Michigan", 
+"modal_type":"full",
+"link": [{"url":"https://en.wikipedia.org/wiki/Assinins,_Michigan", "label":"Wikipedia"}],
 "image": "http://www.baragacountyhistoricalmuseum.com/photohistory/picture_assinins_1900s_1.JPG",
 "date_display":"ye",
 "icon":"mission.png"
@@ -354,6 +355,7 @@
 "startdate": "1827",
 "enddate": "1850",
 "high_threshold":50,
+"modal_type":"full",
 "importance":"40",
 "date_display":"ye",
 "icon":"house.png"
@@ -527,6 +529,7 @@
 "startdate": "1839",
 "enddate": "1851",
 "high_threshold":50,
+"modal_type":"full",
 "date_display":"ye",
 "importance":"42",
 "icon":"mission.png"
@@ -541,6 +544,7 @@
 "startdate": "1880",
 "enddate": "1925",
 "high_threshold":50,
+"modal_type":"full",
 "date_display":"ye",
 "importance":"35",
 "icon":"house.png"
@@ -929,9 +933,10 @@
 "description": "Walker Tavern was built in 1843 where it served as a stop for the statecoach route from Chicago to Detroit. After it closed in 1865, it was privately run as a tourist attraction. The site was acquired by DNR in the 1960s.  Archaeological work at the site has illuminated the lifestyle of the Walkers as well as the Hewitt family.",
 "startdate": "1843",
 "enddate": "1865",
-"link":"http://www.michigan.gov/mhc/0,4726,7-282-61080_61873---,00.html",
+"link":[{"url":"http://www.michigan.gov/mhc/0,4726,7-282-61080_61873---,00.html","label":"Cambridge Junction State Park"}],
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Walker_Tavern_Michigan.jpg/258px-Walker_Tavern_Michigan.jpg",
 "high_threshold":50,
+"modal_type":"full",
 "importance":"40",
 "icon":"trade.png"
 },
