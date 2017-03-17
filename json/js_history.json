@@ -967,6 +967,7 @@
 "description": "These circular earthworks consist of a bank and ditch. Numerous ceramic vessels have been recovered from around the enclosures.",
 "startdate": "1200",
 "high_threshold":50,
+"modal_type":"full",
 "link": [{"url":"https://en.wikipedia.org/wiki/Aetna_Earthworks","label":"Wikipedia"}],
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/AetnaEarthworks1923.jpg/250px-AetnaEarthworks1923.jpg",
 "importance":"40",
