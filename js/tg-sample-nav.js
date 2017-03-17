@@ -3,7 +3,7 @@
 $(function() {
 
 
-	$("body").prepend("<div class='tg-sample-nav'><div class='tg-logo'><a href='index.html'> <img src='img/birdstone (2).jpg' style='width:100%; height:100px;'> </a></div>"
+	$("body").prepend("<div class='tg-sample-nav'><div class='tg-logo'><a href='index.html'> <img src='img/birdstone (2).jpg' style='width:100%; height:125px;'> </a></div>"
 	+ "<ul>"
 	+ "<li><a href='index.html'>Home</a></li>"	  
 	+ "<li><a href='intro.html'>Introduction</a></li>"
