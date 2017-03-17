@@ -903,8 +903,9 @@
 "description": "Fort Wilkins was constructed to police and protect the copper miners and prospectors in the Keweenaw.The army abandoned the fort in 1870.",
 "startdate": "1844",
 "enddate": "1870",
-"link":"http://www.michigan.gov/mhc/0,4726,7-282-61080_62655---,00.html",
+"link":[{"url":"http://www.michigan.gov/mhc/0,4726,7-282-61080_62655---,00.html","label":"Fort Wilkins State Park"}],
 "image": "http://www.michigan.org/sites/default/files/blog/wp-content/uploads/Fort-Wilkins-300x196.jpg", 
+"modal_type":"full",
 "high_threshold":50,
 "importance":"40",
 "icon":"fort.png"
@@ -1148,7 +1149,8 @@
 "startdate": "1846",
 "enddate": "1855",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jackson_Iron_Company_SiteNegaunee_MI_A.jpg/1024px-Jackson_Iron_Company_SiteNegaunee_MI_A.jpg",
-"link":"https://www.michigan.gov/documents/hal_mhc_mhm_carpriverforge_09-11-2002_92637_7.pdf",
+"link":[{"url":"https://www.michigan.gov/documents/hal_mhc_mhm_carpriverforge_09-11-2002_92637_7.pdf","label":"Carp River Forge"}],
+	"modal_type":"full",
 "high_threshold":45,
 "importance":"50",
 "icon":"industrial.png"
