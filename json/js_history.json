@@ -406,10 +406,11 @@
 {
 "id":"jshist-nnavigator",
 "title": "Pine River Channel",
-"description":"This small camp contains a Late Woodland assemblage of triangular points, stemmed and side-notche dpoints, drills, knives, bifaces, end scrapers, and gravers.",
+"description":"This small camp contains a Late Woodland assemblage of triangular points, stemmed and side-notched points, drills, knives, bifaces, end scrapers, and gravers.",
 "startdate": "800",
 "enddate": "1000",
 "high_threshold":50,
+"modal_type": "full",
 "importance":"40",
 "date_display":"ye",
 "icon":"campfire.png"
@@ -425,6 +426,7 @@
 "enddate": "1000",
 "high_threshold":50,
 "importance":"45",
+"modal_type": "full",
 "image":"https://archaeology.uiowa.edu/sites/archaeology.uiowa.edu/files/0MI-00-02Norwood.jpg",
 "date_display":"ye",
 "icon":"quarry.png"
