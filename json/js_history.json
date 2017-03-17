@@ -456,6 +456,7 @@
 "enddate": "710",
 "date_display":"ye",
 "high_threshold":50,
+"modal_type": "full",
 "importance":"40",
 "icon":"campfire.png"
 },
@@ -1024,8 +1025,9 @@
 "description": "This Woodland camp site includes hearth features, refuse pits, a long house, animal burials, and human burials. Burials include two ossuaries.",
 "startdate": "760",
 "enddate": "1400",
-"link":"http://www.commonjs.org/",
+"link":[{"url":"https://en.wikipedia.org/wiki/Juntunen_Site", "label":"Wikipedia"}, {"url":"glossary.html#ossuary", "label": "What is an ossuary?"}],
 "high_threshold":50,
+"modal_type": "full",
 "importance":"40",
 "icon":"campfire.png"
 },
@@ -1132,7 +1134,8 @@
 "startdate": "615",
 "enddate": "1338",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/NMaumeeBay.jpg/1024px-NMaumeeBay.jpg",
-"link": "https://en.wikipedia.org/wiki/North_Maumee_Bay_Archeological_District",
+"link": [{"url":"https://en.wikipedia.org/wiki/North_Maumee_Bay_Archeological_District","label":"Wikipedia"}],
+"modal_type": "full",
 "high_threshold":45,
 "importance":"50",
 "icon":"village.png"
