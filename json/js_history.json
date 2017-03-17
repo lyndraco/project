@@ -1236,7 +1236,7 @@
 "description": "This village and cemetery site is unique in that it dates to the cusp of contact with Europeans. Many unique copper items have been found at the site, including copper hair pipes and beads.",
 "startdate": "1600",
 "enddate": "1620",
-"link": [{"url":"https://en.wikipedia.org/wiki/Dumaw_Creek_Site","label":"Wikipedia"]},
+"link": [{"url":"https://en.wikipedia.org/wiki/Dumaw_Creek_Site","label":"Wikipedia"}],
 "modal_type":"full",
 "high_threshold":45,
 "importance":"40",
@@ -1285,7 +1285,7 @@
 {
 "id": "jshist-spoon",
 "title": "Spoonville",
-"description": "This extensive, multicomponent site represents one of the most intact Hopewell site ocmplexes in Michigan.  The Middle to early Late Woodland mound and habitation site has had many excavations.",
+"description": "This extensive, multicomponent site represents one of the most intact Hopewell site complexes in Michigan.  The Middle to early Late Woodland mound and habitation site has had many excavations.",
 "startdate": "600",
 "enddate": "1000",
 "link": "https://en.wikipedia.org/wiki/Spoonville_site",
