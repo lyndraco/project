@@ -345,7 +345,8 @@
 "high_threshold":50,
 "importance":"40",
 "date_display":"ye",
-"link":"http://www.fortwiki.com/New_Fort_Brady",
+"link":[{"url":"http://www.fortwiki.com/New_Fort_Brady","label":"Wikipedia"}],
+"modal_type":"full",
 "icon":"fort.png"
 },
 
@@ -404,8 +405,9 @@
 "high_threshold":50,
 "importance":"40",
 "date_display":"ye",
+"modal_type":"full",
 "image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/MackinawPoint.jpg",
-"link":"www.mackinacparks.com/parks-and-attractions/old-mackinac-point-lighthouse/",
+"link":[{"url":"www.mackinacparks.com/parks-and-attractions/old-mackinac-point-lighthouse/","label":"Mackinac State Historic Parks"}],
 "icon":"lighthouse2.png"
 },
 
@@ -860,6 +862,7 @@
 "description": "Camb Gibbs is a former Civilian Conservation Corps Camp.  Many of the original buildings are still standing..",
 "startdate": "1935",
 "enddate": "1941",
+"modal_type":"full",
 "high_threshold":50,
 "importance":"40",
 "icon":"government.png"
@@ -884,6 +887,7 @@
 "title": "Five Channels Dam Complex",
 "description": "This complex includes the structures erected to aid in the construction of the Five Channels Dam.  The buildings were in use into the 1960s. Multiple artifacts have been located that help illuminate life during this time in the worker camps.",
 "startdate": "1911",
+"modal_type":"full",
 "enddate": "1960",
 "high_threshold":50,
 "importance":"45",
@@ -1316,6 +1320,7 @@
 "description": "This lighthouse complex consists of a double Keeper's Dwelling with a brick light tower. There are also two brick privies, a brick oil house, and fog signal building.",
 "startdate": "1894",
 "enddate": "1944",
+"modal_type":"full",
 "link": "http://www.40milepointlighthouse.org/",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Forty_Mile_Point_Light_Station_-_Michigan.jpg/220px-Forty_Mile_Point_Light_Station_-_Michigan.jpg",
 "high_threshold":45,
