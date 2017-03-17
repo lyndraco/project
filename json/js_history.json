@@ -978,10 +978,11 @@
 {
 "id":"jshist-googclosure",
 "title": "Boven Earthworks",
-"description": "This circular enclosure with a ditch also contains evidence for a stockade.",
+"description": "This circular enclosure with a ditch also contains evidence for a stockade around the site.",
 "startdate": "1370",
 "enddate": "1570",
-"link":"https://en.wikipedia.org/wiki/Boven_Earthwork",
+"modal_type": "full",
+"link":[{"url":"https://en.wikipedia.org/wiki/Boven_Earthwork", "label":"Wikipedia"}],
 "high_threshold":50,
 "importance":"40",
 "icon":"mound2.png"
@@ -1049,7 +1050,8 @@
 "description": "This village and associated cemetery contain many discrete features dating to the 17th and 18th centuries. There is evidence for cache pits at the site as well.  The site provides good evidence for how life changed with the influx of Europeans during the late 17th century.",
 "startdate": "1600",
 "enddate": "1700",
-"link":"https://en.wikipedia.org/wiki/Gros_Cap_Archaeological_District",
+"modal_type": "full",
+"link":[{"url":"https://en.wikipedia.org/wiki/Gros_Cap_Archaeological_District","label":"Wikipedia"}],
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gros_Cap_Archaeological_District.jpg/1024px-Gros_Cap_Archaeological_District.jpg",
 "high_threshold":50,
 "importance":"50",
@@ -1081,7 +1083,8 @@
 "description": "This late 17th century ossuary was disturbed by construction, prompting salvage excavations.  These excavations have revealed much about continuity of burial practices in the straits, as well as life during this time period.",
 "startdate": "1670",
 "enddate": "1715",
-"link":"https://en.wikipedia.org/wiki/Lasanen_Site",
+"link":[{"url":"https://en.wikipedia.org/wiki/Lasanen_Site","label":"Wikipedia"}],
+"modal_type":"full",
 "high_threshold":50,
 "importance":"40",
 "icon":"cemetery.png"
@@ -1221,10 +1224,11 @@
 {
 "id": "jshist-dumaw",
 "title": "Dumaw Creek",
-"description": "This village and cemetery site is unique in that it dates to the cusp of contact with Europeans.",
+"description": "This village and cemetery site is unique in that it dates to the cusp of contact with Europeans. Many unique copper items have been found at the site, including copper hair pipes and beads.",
 "startdate": "1600",
 "enddate": "1620",
-"link": "https://en.wikipedia.org/wiki/Dumaw_Creek_Site",
+"link": [{"url":"https://en.wikipedia.org/wiki/Dumaw_Creek_Site","label":"Wikipedia"]},
+"modal_type":"full",
 "high_threshold":45,
 "importance":"40",
 "icon": "village.png"
