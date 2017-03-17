@@ -836,6 +836,7 @@
 "description": "Covering approximately 80 acres, the Quincy Mine complex includes many of the original buildings, including the water tower, engine house, and several boilerhouses.  Arhaeological work at the site has located a variety of artifacts indicative of life at the mine, including clay marbles, clay pipe stems, and a pocket knife.",
 "startdate": "1846",
 "enddate": "1945",
+"modal_type":"full",
 "link":"http://www.quincymine.com/",
 "image": "http://www.mg.mtu.edu/MINE_SHAFTS/qshaft4.jpg",
 "image_height": "50",
