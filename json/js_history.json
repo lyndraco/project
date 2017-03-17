@@ -176,8 +176,8 @@
 "startdate": "300",
 "enddate": "1220",
 "importance":"48",
-"link":[{"url":"https://en.wikipedia.org/wiki/Sand_Point_Site", "label""Wikipedia"}, {"url":"glossary.html#carbon", "label": "What is radiocarbon?"}],
-"modal_type":"full",
+"link":[{"url":"https://en.wikipedia.org/wiki/Sand_Point_Site", "label":"Wikipedia"}],
+"modal_type": "full",
 "high_threshold":50,
 "icon":"village.png"
 },
