@@ -229,6 +229,7 @@
 "enddate": "1983",
 "importance":"40",
 "date_display":"ye",
+"modal_type":"full",
 "link": "http://www.pointbetsie.org/",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Point_Betsie_Lighthouse_2.jpg/800px-Point_Betsie_Lighthouse_2.jpg",
 "high_threshold":50,
@@ -311,6 +312,7 @@
 "startdate": "1851",
 "enddate": "1935",
 "high_threshold":50,
+"modal_type":"full",
 "importance":"40",
 "date_display":"ye",
 "icon":"cemetery.png"
@@ -761,18 +763,6 @@
 },
 
 
-{
-"id":"jshist-shadow-years",
-"title": "Copper Peak",
-"description": "This is an old mining location.",
-"startdate": "1846",
-"enddate": "1900",
-"high_threshold":45,
-"importance":"40",
-"icon":"industrial.png"
-},
-
-
 
 {
 "id":"jshist-flan",
@@ -856,6 +846,7 @@
 "enddate": "1908",
 "link":"http://www.pointeauxbarqueslighthouse.org/",
 "image": "http://www.pointeauxbarqueslighthouse.org/files/homepage/visual2a.jpg",
+"modal_type":"full",
 "high_threshold":50,
 "importance":"45",
 "icon":"lighthouse2.png"
