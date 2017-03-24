@@ -432,7 +432,7 @@
 {
 "id":"jshist-jvms",
 "title": "Pi-wan-go-ning Quarry",
-"description":"This site includes the main outcrop of Norwood chert.  It has been utilized by people since the Archaic period, and there is evidence on site of quarrying and stone tool manufacture. <p> This site is significant for several reasons. It was a significant source of raw material for people for a long time. It has also revealed evidence about these people through the variety of point styles found at the site.</p>",
+"description":"This site includes the main outcrop of Norwood chert.  It has been utilized by people since the Archaic period, and there is evidence on site of quarrying and stone tool manufacture. <p> This site is significant for several reasons. It was a significant source of raw material for people for a long time. It has also revealed evidence about these people through the variety of point styles found at the site.</p><p> Image is provided courtesy of the Michigan State Historic Preservation Office.</p>",
 "startdate": "800",
 "enddate": "1000",
 "high_threshold":50,
@@ -447,9 +447,8 @@
 {
 "id":"jshist-ie1",
 "title": "Fritz Trail & Whiskey Creek",
-"description":"These sites are the location of several outcroppings of Norwood chert.  Some limestone quarrrying has been done here as well.  Evidence of stone tool manufacture is also evident, including debitage, cores, and core fragments. Ground stone tools, necessary for producing chipped stone artifacts, have also been found here.  This was an early site of raw material collection.",
+"description":"These sites are the location of several outcroppings of Norwood chert.  Some limestone quarrrying has been done here as well.  Evidence of stone tool manufacture is also evident, including debitage, cores, and core fragments. Ground stone tools, necessary for producing chipped stone artifacts, have also been found here.  This was an early site of raw material collection. <p> Image from the Office of the State Archaeologist, University of Iowa.</p>",
 "startdate": "-8000",
-"enddate": "1000",
 "date_display":"ye",
 "high_threshold":50,
 "image": "https://archaeology.uiowa.edu/sites/archaeology.uiowa.edu/files/12MI-CX-01Norwood.jpg",
