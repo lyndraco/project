@@ -1254,6 +1254,7 @@
 "title": "Green Quarry",
 "description": "This quarry contains over 100 quarry pits and a surface scatter covering over 40 acres.  This quarry is a source of Lambrix chert. The chert occurs as glacial cobbles, there are no apparent outcrops here.",
 "startdate": "-11000",
+"image": "img/Lambrix.jpg",
 "link":[{"url":"https://en.wikipedia.org/wiki/Green_Quarry_Site", "label":"Wikipedia"}, {"url":"glossary.html#chert", "label":"What's Chert?"}],
 "high_threshold":45,
 "importance":"80",
