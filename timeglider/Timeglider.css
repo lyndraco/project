@@ -1585,7 +1585,6 @@ background-color:#717171;
 
 .tg-full_modal-vidimg {
 	width:50%;
-	height:50%;
 	float:right;
 	margin-right:2%;
 	margin-top:-2%;
@@ -1597,7 +1596,6 @@ background-color:#717171;
 }
 .tg-modal-video, .tg-modal_map {
 	width:50%;
-	height:100%;
 }
 
 .tg-modal_map {
@@ -1610,7 +1608,6 @@ background-color:#717171;
 	position:absolute;
 	float:left;
 	width:50%;
-	height:100%;
 }
 
 
