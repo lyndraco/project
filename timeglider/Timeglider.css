@@ -898,17 +898,17 @@
   	
 }
 
-.timeglider-filter-bt {
+/*.timeglider-filter-bt {
 	margin-right:6px;
-	background-image:url(img/filter.png);
+	background-image:url(img/filter.png);*/
 }
 .timeglider-list-bt {
 	background-image:url(img/list.png);
 	opacity:.7;
 }
-.timeglider-settings-bt {
+/*.timeglider-settings-bt {
  	background-image:url(img/tools.png);
-}
+}*/
 
 
 .tg-filter-cbs {
