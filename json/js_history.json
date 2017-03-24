@@ -1257,7 +1257,7 @@
 "image": "img/Lambrix.jpg",
 "link":[{"url":"https://en.wikipedia.org/wiki/Green_Quarry_Site", "label":"Wikipedia"}, {"url":"glossary.html#chert", "label":"What's Chert?"}],
 "high_threshold":45,
-"importance":"80",
+"importance":"70",
 "modal_type": "full",
 "icon": "quarry.png"
 },
