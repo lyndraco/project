@@ -135,6 +135,7 @@
 "importance":"50",
 "high_threshold":50,
 "date_display":"ye",
+"modal_type": "full",
 "icon":"village.png"
 },
 
