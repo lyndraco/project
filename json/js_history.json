@@ -135,6 +135,7 @@
 "importance":"50",
 "high_threshold":50,
 "date_display":"ye",
+"link":[{"url":"glossary.html#hearth", "label":"What's a hearth?"}],
 "modal_type": "full",
 "icon":"village.png"
 },
