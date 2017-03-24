@@ -87,11 +87,11 @@ h4 {
 	list-style:none;
 	padding:0;
 	margin:0;
-	height:18px;
+	height:26px;
 }
 
 .tg-sample-nav ul li {
-	float:left;
+	float:none;
 	margin:0;
 	border-right:1px solid #ccc;
 	padding:4px 8px;
