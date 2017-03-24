@@ -72,7 +72,7 @@ h4 {
 
 .tg-sample-nav {
 	padding-bottom:14px;
-	font-size:26px;
+	font-size:18px;
 	color:#228B22;
 }
 
@@ -87,7 +87,7 @@ h4 {
 	list-style:none;
 	padding:0;
 	margin:0;
-	height:26px;
+	height:18px;
 }
 
 .tg-sample-nav ul li {
@@ -96,7 +96,7 @@ h4 {
 	border-right:1px solid #ccc;
 	padding:4px 8px;
 	background-color:#fff;
-	font-size:20px;
+	font-size:22px;
 	
 }
 
