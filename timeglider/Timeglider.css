@@ -1286,7 +1286,7 @@
 .tg-ev-modal-description {
 	height:auto;
 	max-height:120px;
-	overflow-x:hidden;
+	overflow-x:auto; /*hidden;*/
 	overflow-y:auto;
 }
 
