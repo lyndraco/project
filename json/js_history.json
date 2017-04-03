@@ -788,11 +788,12 @@
 {
 "id":"jshist-ecma1",
 "title": "Pine River Park",
-"description": "This site is sometimes also referred to as Conservation Park.  Excavations at this site have located several features, including two hearths.  These provided radiocarbon dates for this site of 2515 +/- 145 years before present and 2750+/- 150 years before present.",
+"description": "This site is sometimes also referred to as Conservation Park.  Excavations at this site have located several features, including two hearths.  These provided radiocarbon dates for this site of 2515 +/- 145 years before present and 2750+/- 150 years before present. This site marks the transition to new ways of life as agriculture was introduced into Michigan. Both organic remains and features at the site have the potential to offer more information on this time period.",
 "startdate": "-2900",
 "enddate": "-2370",
 "high_threshold":50,
 "modal_type": "full",
+"image": "img/pineriver.jpg",
 "link":[{"url":"glossary.html#hearth", "label":"What's a hearth?"}, {"url":"glossary.html#carbon", "label":"What is radiocarbon dating?"}],
 "importance":"50",
 "icon":"campfire.png"
