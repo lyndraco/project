@@ -1373,11 +1373,12 @@
 {
 "id": "jshist-schmidt",
 "title": "Schmidt",
-"description": "Excavations at this Middle Archaic site revealed several features, including an undisturbed midden feature. Radiocarbon dates were done from several of the features, providing dates between 6900 and 5200 years before present. Artifacts include a variety of stone tools, a bone awl, animal bone, and nuts and seeds.  Deer and bird bones found at the site suggest a fall occupation, though muskrat and fish remains suggest people also lived here in the spring and summer. Given this evidence, people probably used this location all year round. The site is considered significant as one of the few Archaic period sites from this time period.",
+"description": "Excavations at this Middle Archaic site revealed several features, including an undisturbed midden feature. Radiocarbon dates were done from several of the features, providing dates between 6900 and 5200 years before present. Artifacts include a variety of stone tools, a bone awl, animal bone, and nuts and seeds.  Deer and bird bones found at the site suggest a fall occupation, though muskrat and fish remains suggest people also lived here in the spring and summer. Given this evidence, people probably used this location all year round. The site is considered significant as one of the few Archaic period sites from this time period. <p> Image from Harrison (1966), page 59.",
 "startdate": "-6900",
 "enddate": "-5200",
 "high_threshold":45,
 "importance":"60",
+"image": "img/schmidt.jpg",
 "modal_type":"full",
 "link":[{"url":"glossary.html#midden", "label":"What's a midden?"}, {"url":"glossary.html#feature", "label": "What's a feature?"}, {"url":"glossary.html#middlearchaic", "label":"What's Middle Archaic mean?"}],
 "icon": "campfire.png"
