@@ -46,7 +46,7 @@
 {
 "id":"jshist-collossus",
 "title": "Hacklander",
-"description":"The Hacklander site consists of a small Archaic component (radiocarbon dated to 4860-4680 BP), Middle Woodland component, along with a larger Late Woodland component. Radiocarbon dates from this later component place the site at AD 1020 +/- 110 and AD 1070 +/-100.  This site is unique in that it had not been disturbed by historic farming prior to being excavated, and can tell us much more about the people who lived here.",
+"description":"The Hacklander site consists of a small Archaic component (radiocarbon dated to 4860-4680 BP), Middle Woodland component, along with a larger Late Woodland component. Radiocarbon dates from this later component place the site at AD 1020 +/- 110 and AD 1070 +/-100.  This site is unique in that it had not been disturbed by historic farming prior to being excavated, and can tell us much more about the people who lived here.<p> Image courtesy of the Michigan State Historic Preservation Office.",
 "startdate": "-4860",
 "enddate": "4680",
 "high_threshold":50,
@@ -788,7 +788,7 @@
 {
 "id":"jshist-ecma1",
 "title": "Pine River Park",
-"description": "This site is sometimes also referred to as Conservation Park.  Excavations at this site have located several features, including two hearths.  These provided radiocarbon dates for this site of 2515 +/- 145 years before present and 2750+/- 150 years before present. This site marks the transition to new ways of life as agriculture was introduced into Michigan. Both organic remains and features at the site have the potential to offer more information on this time period.",
+"description": "This site is sometimes also referred to as Conservation Park.  Excavations at this site have located several features, including two hearths.  These provided radiocarbon dates for this site of 2515 +/- 145 years before present and 2750+/- 150 years before present. This site marks the transition to new ways of life as agriculture was introduced into Michigan. Both organic remains and features at the site have the potential to offer more information on this time period. <p> Image courtesy of the Michigan State Historic Preservation Office.",
 "startdate": "-2900",
 "enddate": "-2370",
 "high_threshold":50,
