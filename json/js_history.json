@@ -324,21 +324,6 @@
 
 
 
-{
-"id":"jshist-java",
-"title": "O'Neill",
-"description":"Three distinct occupations have been found archaeologically. The site seems to have been used for spring fishing and visiting the nearby quarry.",
-"startdate": "1200",
-"enddate": "1700",
-"high_threshold":50,
-"importance":"50",
-"modal_type":"full",
-"date_display":"ye",
-"icon":"campfire.png"
-},
-
-
-
 
 {
 "id":"jshist-nexus",
@@ -481,18 +466,31 @@
 {
 "id":"jshist-dhtml",
 "title": "Inwood Creek I & II",
-"description":"This Late Archaic sites both have distinct soil layers and have been tested. They are located on what was probably a dune near the beach during the Late Archaic period.",
+"description":"Inwood Creek I & II are Late Archaic sites with distinct soil layers and have been tested. They are located on what was probably a dune near the beach during the Late Archaic period.  Artifacts from these deposits include finely-flaked Archaic points and chert debitage.<p> Image courtesy of the Michigan State Historic Preservation Office. ",
 "startdate": "-2500",
 "enddate": "-1000",
 "high_threshold":50,
 "importance":"50",
+"image":"img/inwood.jpg",
 "modal_type": "full",
 "date_display":"ye",
 "icon":"campfire.png"
 },
 
 
-
+{
+"id":"jshist-java",
+"title": "O'Neill",
+"description":"The site seems to have been used for spring fishing and visiting the nearby quarry. The O'Neill portion of the site is later, with a very distincitve type of ceramics.  Two nearly complete vessels, and the post-mold outline of an oval house were both found her.  A large hearth near the dwelling yielded a radiocarbon date of 1455 +/-100. <p> Image courtesy of the Michigan State Historic Preservation Office. ",
+"startdate": "1200",
+"enddate": "1700",
+"high_threshold":50,
+"importance":"50",
+"modal_type":"full",
+"image":"img/oneill.jpg",
+"date_display":"ye",
+"icon":"campfire.png"
+},
 
 
 
