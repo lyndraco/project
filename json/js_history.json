@@ -1040,6 +1040,7 @@
 "high_threshold":50,
 "modal_type": "full",
 "image": "img/rs_3.jpg",
+"link": [{"url":"glossary.html#radiographic", "label":"What's a radiographic analysis?"}, {"url":"glossary.html#metallurgic", "label": "What's a metallurgic analysis?"}],
 "importance":"55",
 "icon":"cemetery.png"
 },
