@@ -919,7 +919,7 @@
 {
 "id":"jshist-node",
 "title": "Younge",
-"description": "This site includes the remains of longhouses with pits and hearths.  Pottery, projectile points, and elbow pipes were all recovered.  A large cemetery was also found at the site.",
+"description": "This site includes the remains of longhouses with pits and hearths.  Pottery, projectile points, and elbow pipes were all recovered.  A large cemetery was also found at the site.  This is the type site for the Younge Phase and Younge Tradition.",
 "startdate": "1100",
 "link":[{"url":"https://en.wikipedia.org/wiki/Younge_Site","label": "Wikipedia"}],
 "high_threshold":50,
@@ -946,7 +946,7 @@
 {
 "id":"jshist-18",
 "title": "Aetna Earthworks",
-"description": "These circular earthworks consist of a bank and ditch. Numerous ceramic vessels have been recovered from around the enclosures.",
+"description": "These circular earthworks consist of a bank and ditch. Numerous ceramic vessels have been recovered from around the enclosures. <p> Image from Wikipedia commons, Aetna Earthworks, Missaukee County MI c1923. Prof. Hinsdale standing on tree crossing the moat portion of the earthwork, Prof Ruthven standing below.",
 "startdate": "1200",
 "high_threshold":50,
 "modal_type":"full",
