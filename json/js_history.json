@@ -25,23 +25,6 @@
 },         
  
 
-{
-"id":"jshist-z3",
-"title": "Sturgeon Point Lighthouse",
-"description":"This lighthouse was constructed in 1869, and was in operation until 1941.",
-"startdate": "1869",
-"enddate": "1941",
-"high_threshold":50,
-"importance":"40",
-"image": "http://www.alconahistoricalsociety.com/pics/sm-lh.jpg", 
-"link":"http://www.michigan.org/property/sturgeon-point-lighthouse",
-"modal_type": "full",
-"date_display":"ye",
-"icon":"lighthouse2.png"
-},
-
-
-
 
 {
 "id":"jshist-collossus",
