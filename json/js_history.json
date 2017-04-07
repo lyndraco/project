@@ -223,26 +223,6 @@
 
 
 
-
-
-{
-"id":"jshist-fortran",
-"title": "Point Betsie Lighthouse",
-"description":"Construction on the light began in 1854, though it was not in use until 1858.  The complex includes the lighthouse, keeper's house, and several outbuildings.",
-"startdate": "1854",
-"enddate": "1983",
-"importance":"40",
-"date_display":"ye",
-"modal_type":"full",
-"link": "http://www.pointbetsie.org/",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Point_Betsie_Lighthouse_2.jpg/800px-Point_Betsie_Lighthouse_2.jpg",
-"high_threshold":50,
-"icon":"lighthouse2.png"
-},
-
-
-
-
 {
 "id":"jshist-algol",
 "title": "Naomikong Point",
