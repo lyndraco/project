@@ -1281,9 +1281,9 @@
 {
 "id": "jshist-battle",
 "title": "Battle Point",
-"description": "A 19th century Ottawa cemetery that was identified from erosion.  Efforts have been made to stabilize the site and identify its boundaries so that it can be protected.",
+"description": "A 19th century Ottawa cemetery that was identified from erosion.  Efforts have been made to stabilize the site and identify its boundaries so that it can be protected.  This site has yielded one of the largest assemblages for this time period, and provides significant information about cultural change among Native American groups.",
 "startdate": "1760",
-"enddate": "1820",
+"enddate": "1835",
 "link": [{"url":"https://www.jstor.org/stable/40316093","label":"Artic Anthropology article"}],
 "modal_type":"full",
 "high_threshold":45,
