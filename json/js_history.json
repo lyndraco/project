@@ -675,6 +675,7 @@
 "startdate": "599",
 "enddate": "1700",
 "high_threshold":50,
+	"modal_type":"full",
 "importance":"35",
 "icon":"campfire.png"
 },
