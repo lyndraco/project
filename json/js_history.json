@@ -818,10 +818,10 @@
 {
 "id":"jshist-ecma4",
 "title": "Pointe Aux Barques Lighthouse",
-"description": "This is one of the ten oldest lighthouses in Michigan.  The tower assisted navigation into Saginaw Bay. Archaeological features include the remains of a wooden dock, as well as artifacts from the lighthouse keeper's residence.",
+"description": "This is one of the ten oldest lighthouses in Michigan.  The tower assisted navigation into Saginaw Bay. Archaeological features include the remains of a wooden dock, as well as artifacts from the lighthouse keeper's residence.<p> Image from http://www.pointeauxbarqueslighthouse.org.",
 "startdate": "1847",
 "enddate": "1908",
-"link":"http://www.pointeauxbarqueslighthouse.org/",
+"link":[{"url":"http://www.pointeauxbarqueslighthouse.org/","label":"Pointe Aux Barques Webpage"}],
 "image": "http://www.pointeauxbarqueslighthouse.org/files/homepage/visual2a.jpg",
 "modal_type":"full",
 "high_threshold":50,
