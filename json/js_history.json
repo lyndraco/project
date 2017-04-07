@@ -146,7 +146,7 @@
 {
 "id":"jshist-smalltalk",
 "title": "Fort St. Joseph",
-"description":"Initially the site of a French mission, a fort and trading post grew up in the location during the early part of the eighteenth century.  In 1761, the Briitsh took ove the fort. The fort was looted in a raid by the Spanish in 1781, who held it for a day.  Archaeological work at the site has been ongoing since 1998, through field schools conducted by Western Michigan University.",
+"description":"Initially the site of a French mission, a fort and trading post grew up in the location during the early part of the eighteenth century.  In 1761, the Briitsh took ove the fort. The fort was looted in a raid by the Spanish in 1781, who held it for a day.  Archaeological work at the site has been ongoing since 1998, through field schools conducted by Western Michigan University. <p> Image from www.wmich.edu.",
 "startdate": "1691",
 "enddate": "1781",
 "importance":"40",
@@ -723,7 +723,7 @@
 {
 "id":"jshist-browserwars",
 "title": "Fort Michilimackinac",
-"description": "The fort was initially established by the French around 1715 by the French to protect and facilitate trade with the various Native groups in the region. The French surrendered the fort to the British in 1760. The British moved the fort to Mackinac Island in 1780.",
+"description": "The fort was initially established by the French around 1715 by the French to protect and facilitate trade with the various Native groups in the region. The French surrendered the fort to the British in 1760. The British moved the fort to Mackinac Island in 1780. The fort played a significant role in the history of the region during the 17th and 18th centuries.<p> Image from Wikipedia Commons.",
 "startdate": "1715",
 "enddate": "1780",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fort_Michilimackinac_backyards.jpg/220px-Fort_Michilimackinac_backyards.jpg",
@@ -1105,7 +1105,7 @@
 {
 "id":"_now",
 "title": "Marquette Street Archaeological District",
-"description": "The Marquette Street Archaeological District includes the village of Te Oskonchiae and the Marquette Mission site.  The village includes the archaeological remains of long houses and a palisade for a 17th/18th century Native American village. The mission is generally associated to Father Marquette and French missionaries. Numerous artifacts have been found that demonstrate Native American groups were incorporating European trade goods into their culture.",
+"description": "The Marquette Street Archaeological District includes the village of Te Oskonchiae and the Marquette Mission site.  The village includes the archaeological remains of long houses and a palisade for a 17th/18th century Native American village. The mission is generally associated to Father Marquette and French missionaries. Numerous artifacts have been found that demonstrate Native American groups were incorporating European trade goods into their culture.<p> Image from http://www.stignace.com/backend/uploads/cms/images/Museum-of-Ojibay-Culture-St-Ignace.jpg.",
 "startdate": "1671",
 "enddate": "1704",
 "modal_type":"full",
