@@ -510,23 +510,6 @@
 
 
 
-
-
-{
-"id":"jshist-underscore",
-"title": "Wood",
-"description":"This is a Late Woodland fishing camp that has been excavated.",
-"startdate": "600",
-"enddate": "1600",
-"high_threshold":50,
-"date_display":"ye",
-"importance":"40",
-"icon":"campfire.png"
-},
-
-
-
-
 {
 "id":"jshist-backbone",
 "title": "Greensky Hill Mission",
@@ -649,8 +632,8 @@
 {
 "id":"jshist-js-era",
 "title": "River Park",
-"description": "This small Woodland camp contains a basalt cobble with faint decorative markings that may depict a stylized animal.",
-"startdate": "600",
+"description": "This small Woodland camp contains a basalt cobble with faint decorative markings that may depict a stylized animal. A single potsherd was also found at the site in one of the severla basin-shaped features.",
+"startdate": "601",
 "enddate": "1600",
 "low_threshold":41,
 "high_threshold":52,
@@ -688,8 +671,8 @@
 {
 "id":"deathofflash",
 "title": "Bike Trail",
-"description": "This small Woodland camp contains several features and a variety of lithic artifacts.",
-"startdate": "600",
+"description": "This small Woodland camp contains several features and a variety of lithic artifacts. A single tiny potsherd was found.  This site is significant for its location in the Western Upper Peninsula.",
+"startdate": "599",
 "enddate": "1700",
 "high_threshold":50,
 "importance":"35",
@@ -772,8 +755,8 @@
 {
 "id":"jshist-flan",
 "title": "Brown",
-"description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics.",
-"startdate": "600",
+"description": "Excavations by Alma College revealed a small Late Woodland site, containing triangular points and fabric-impressed ceramics. Fragments from at least seven undecorated elbow pipes were also found, along with bifaces and scrapers. Features at the site contained charcoal, some of which was used to obtain radiocarbon dates.",
+"startdate": "602",
 "enddate": "1500",
 "high_threshold":50,
 "importance":"40",
