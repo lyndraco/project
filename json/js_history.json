@@ -642,7 +642,7 @@
 {
 "id":"jshist-squirrelfish",
 "title": "Up Stream Put-In Site",
-"description": "This Woodland camp contains several intact features including hearths with the posssibility of other deeply buried features.",
+"description": "This Woodland camp contains several intact features including hearths with the possibility of other deeply buried features. Artifacts included flakes, a triangular projectile point, charcoal, and fire-cracked rock.",
 "startdate": "900",
 "enddate": "1600",
 "high_threshold":50,
@@ -1079,7 +1079,7 @@
 {
 "id":"jsconf2011",
 "title": "Scott Point",
-"description": "This camp/village site includes numerous hearth and storage pits, a large variety of ceramics, bone tools, and copper implements.  Three radiocarbon dates have been done on the site, 860 +/-40, 870+/-40, and 1240+/-40.",
+"description": "This camp/village site includes numerous hearth and storage pits, a large variety of ceramics, bone tools, and copper implements.  Three radiocarbon dates have been done on the site, 860 +/-40, 870+/-40, and 1240+/-40. ",
 "startdate": "820",
 "enddate": "1280",
 "link":[{"url":"https://en.wikipedia.org/wiki/Scott_Point_Site", "label":"Wikipedia"}],
