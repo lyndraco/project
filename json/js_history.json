@@ -800,7 +800,7 @@
 {
 "id":"jshist-ecma3",
 "title": "Quincy Mining Company",
-"description": "Covering approximately 80 acres, the Quincy Mine complex includes many of the original buildings, including the water tower, engine house, and several boilerhouses.  Arhaeological work at the site has located a variety of artifacts indicative of life at the mine, including clay marbles, clay pipe stems, and a pocket knife.",
+"description": "Covering approximately 80 acres, the Quincy Mine complex includes many of the original buildings, including the water tower, engine house, and several boilerhouses.  Archaeological work at the site has located a variety of artifacts indicative of life at the mine, including clay marbles, clay pipe stems, and a pocket knife.<p> Image from www.mtu.edu.",
 "startdate": "1846",
 "enddate": "1945",
 "modal_type":"full",
@@ -873,7 +873,7 @@
 {
 "id":"jshist-as2",
 "title": "Fort Wilkins",
-"description": "Fort Wilkins was constructed to police and protect the copper miners and prospectors in the Keweenaw.The army abandoned the fort in 1870.",
+"description": "Fort Wilkins was constructed to police and protect the copper miners and prospectors in the Keweenaw. The army abandoned the fort in 1870. Archaeological excavations have been undertaken at the site since 1976. These artifacts have helped illuminate life at the fort during its operation, as well as aid in public interpretation of the site. A number of the original structures have also been restored. <p> Image from www.michigan.org.",
 "startdate": "1844",
 "enddate": "1870",
 "link":[{"url":"http://www.michigan.gov/mhc/0,4726,7-282-61080_62655---,00.html","label":"Fort Wilkins State Park"}],
@@ -904,7 +904,7 @@
 {
 "id":"jshist-infscroll",
 "title": "Walker Tavern",
-"description": "Walker Tavern was built in 1843 where it served as a stop for the statecoach route from Chicago to Detroit. After it closed in 1865, it was privately run as a tourist attraction. The site was acquired by DNR in the 1960s.  Archaeological work at the site has illuminated the lifestyle of the Walkers as well as the Hewitt family.",
+"description": "Walker Tavern was built in 1843 where it served as a stop for the stagecoach route from Chicago to Detroit. After it closed in 1865, it was privately run as a tourist attraction. The site was acquired by DNR in the 1960s.  Archaeological work at the site has illuminated the lifestyle of the Walkers as well as the Hewitt family.<p> Image from Wikipedia Commons.",
 "startdate": "1843",
 "enddate": "1865",
 "link":[{"url":"http://www.michigan.gov/mhc/0,4726,7-282-61080_61873---,00.html","label":"Cambridge Junction State Park"}],
@@ -1121,7 +1121,7 @@
 {
 "id":"jshist-carp",
 "title": "Carp River Forge",
-"description": "The Jackson Mining Company began construction of a forge complex in 1846, soon after the discovery of iron in the Upper Peninsula.  It first produced in 1848, but was never financially successful and was abandoned in 1855. The complex consists of a dam and waterwheel, forge, two cold-blast bloomeries, four hot blast furnaces, sawmill, store, and houses.",
+"description": "The Jackson Mining Company began construction of a forge complex in 1846, soon after the discovery of iron in the Upper Peninsula.  It first produced in 1848, but was never financially successful and was abandoned in 1855. The complex consists of a dam and waterwheel, forge, two cold-blast bloomeries, four hot blast furnaces, sawmill, store, and houses.<p> Image from Wikipedia commons.",
 "startdate": "1846",
 "enddate": "1855",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jackson_Iron_Company_SiteNegaunee_MI_A.jpg/1024px-Jackson_Iron_Company_SiteNegaunee_MI_A.jpg",
