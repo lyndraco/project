@@ -1336,7 +1336,7 @@
 "title": "Schultz",
 "description": "This is the type site for Early and Middle Woodland sites in the Saginaw region. It contains distinct strata from different time periods. The site contains evidence for squash. It is significant in that it is the site against which all other sites from this time/region are compared to.",
 "startdate": "-499",
-"enddate": "1700",
+"enddate": "600",
 "link": [{"url":"glossary.html#Strata", "label":"What are strata?"}],
 "high_threshold":45,
 "modal_type": "full",
@@ -1344,18 +1344,6 @@
 "icon": "campfire.png"
 },	
 	
-
-{
-"id": "jshist-fosters",
-"title": "Fosters",
-"description": "Hearths and storage pits were found at this seasonal camp site, along with deer bone and nutshell.",
-"startdate": "600",
-"enddate": "1600",
-"high_threshold":45,
-"importance":"40",
-"icon": "campfire.png"
-},	
-
 {
 "id": "jshist-schmidt",
 "title": "Schmidt",
@@ -1386,10 +1374,11 @@
 {
 "id": "jshist-bugai",
 "title": "Bugai",
-"description": "Salvage excavations were conducted here, revealing a Wayne Mortuary Tradition site.",
+"description": "Salvage excavations were conducted here, revealing a Wayne Mortuary Tradition site. This site is the most important Wayne Mortuary Tradition site in the Saginaw Valley.",
 "startdate": "600",
 "enddate": "1000",
 "high_threshold":45,
+"modal_type": "full",
 "importance":"40",
 "icon": "cemetery.png"
 },
@@ -1422,8 +1411,8 @@
 {
 "id": "jshist-sanilac",
 "title": "Sanilac Petroglyphs",
-"description": "This sandstone outcrop is covered in carved petroglyphs in a variety of images.  Archaeological work around the rock has located flakes, pottery, and fire-cracked rock.",
-"startdate": "600",
+"description": "This sandstone outcrop is covered in carved petroglyphs in a variety of images.  Archaeological work around the rock has located flakes, pottery, and fire-cracked rock. <p> Image from www.michigan.gov.",
+"startdate": "580",
 "enddate": "1600",
 "link": [{"url":"http://www.michigan.gov/mhc/0,4726,7-282-61080_62660---,00.html", "label":"Sanilac State Park"}],
 "image": "http://www.michigan.gov/images/mhc/sanilac-petroglyphs_534574_7.jpg",
@@ -1437,8 +1426,8 @@
 "id": "jshist-seulchoix",
 "title": "Seul Choix",
 "description": "This site has been excavated, and OSL dates have been done on the ceramics.",
-"startdate": "600",
-"enddate": "1000",
+"startdate": "580",
+"enddate": "1250",
 "high_threshold":45,
 "modal_type": "full",
 "importance":"50",
