@@ -497,13 +497,14 @@
 {
 "id":"jshist-backbone",
 "title": "Greensky Hill Mission",
-"description":"A small mission was built here in 1839 by Peter Greensky. A log building was constructed in 1861. The church has been preserved with all of the original woodwork and can only seat about 50 people.",
+"description":"A small mission was built here in 1839 by Peter Greensky. A log building was constructed in 1861. The church has been preserved with all of the original woodwork and can only seat about 50 people.<p> Image courtesy of By rossograph - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40682104",
 "startdate": "1839",
 "enddate": "1851",
 "high_threshold":50,
 "modal_type":"full",
 "date_display":"ye",
 "link":[{"url":"https://en.wikipedia.org/wiki/Greensky_Hill_church", "label":"Wikipedia"}],
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Greensky_Hill_Mission_Church.jpg/1024px-Greensky_Hill_Mission_Church.jpg",
 "importance":"42",
 "icon":"mission.png"
 },
