@@ -113,7 +113,7 @@
 {
 "id":"jshist-scheme",
 "title": "Au Sable Point Lightstation",
-"description":"The lightstation was completed in 1874 and automated in 1958. The original site features include a light-tower connected to a two-story keeper's house, and oil house, and a privy.  By 1909, another two-story dwelling, fog signal building, boat house, and metal storage building were added.",
+"description":"The lightstation was completed in 1874 and automated in 1958. The original site features include a light-tower connected to a two-story keeper's house, and oil house, and a privy.  By 1909, another two-story dwelling, fog signal building, boat house, and metal storage building were added.<p> Surface survey and excavations at the site located two possible root cellars and trash dumps associated with the complex. Artifacts found include glass, brick, ceramics, and a glass marble.<p> Image from www.nps.gov.",
 "startdate": "1873",
 "enddate": "1958",
 "importance":"40",
@@ -1203,20 +1203,6 @@
 "importance":"70",
 "modal_type": "full",
 "icon": "quarry.png"
-},
-	
-{
-"id": "jshist-sable",
-"title": "Little Point Sable Lighthouse",
-"description": "This lighthouse contains several features and a surface scatter of artifacts.",
-"startdate": "1874",
-"enddate": "1950",
-"link": [{"url":"https://en.wikipedia.org/wiki/Little_Sable_Point_Light","label":"Wikipedia"}],
-"modal_type":"full",
-"image": "https://s-media-cache-ak0.pinimg.com/originals/ec/f1/43/ecf1433a4c9f5386a6526568f73011b0.jpg",
-"high_threshold":45,
-"importance":"40",
-"icon": "lighthouse2.png"
 },
 
 {
