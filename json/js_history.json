@@ -1216,12 +1216,12 @@
 {
 "id": "jshist-croton",
 "title": "Croton Dam Mound Group",
-"description": "This Early Woodland mound group provides some of the earliest evidence for mounds in Michigan. Features found during excavations near the mounds include a hearth containing over 100 stemmed points and bifaces.",
+"description": "This Early Woodland mound group provides some of the earliest evidence for mounds in Michigan. Features found during excavations near the mounds include a hearth containing over 100 stemmed points and bifaces. Another mound contained animal bones, a rolled copper bead, and a red ochre deposit.  <p> These mounds are significant because they are some of the earliest mounds known in the state.",
 "startdate": "-1000",
 "enddate": "-200",
 "modal_type": "full",
 "high_threshold":45,
-"link": "https://en.wikipedia.org/wiki/Croton_Dam_Mound_Group",
+"link": [{"url":"https://en.wikipedia.org/wiki/Croton_Dam_Mound_Group", "label":"Wikipedia"}],
 "image": "img/croton.jpg",
 "importance":"50",
 "icon": "mound2.png"
