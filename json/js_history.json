@@ -1161,11 +1161,11 @@
 {
 "id": "jshist-navarre",
 "title": "Navarre-Anderson Trading Post",
-"description": "The original cabin was moved in 1894, but had served as a trading post for many years. Seed beads from trade were found when the structure was moved, and lead from the bullet holes form the War of 1812.",
+"description": "The original cabin was moved in 1894, but had served as a trading post for many years. Seed beads from trade were found when the structure was moved, and lead from the bullet holes form the War of 1812. Excavations at the site have revealed a variety of ceramics.<p> Image from Wikipedia commons.",
 "startdate": "1796",
 "enddate": "1894",
 "modal_type":"full",
-"image": "http://res.cloudinary.com/miles-extranet-dev/image/upload/ar_16:9,c_fill,w_1000,g_face,q_50/Michigan/migration_photos/B4894/B4894-natpbesta.jpg",
+"image": "https://en.wikipedia.org/wiki/Navarre%E2%80%93Anderson_Trading_Post#/media/File:NATradingPost.jpg",
 "link": "http://www.michigan.org/property/navarre-anderson-trading-post",
 "high_threshold":45,
 "importance":"50",
