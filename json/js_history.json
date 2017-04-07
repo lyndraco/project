@@ -779,7 +779,7 @@
 {
 "id":"jshist-05",
 "title": "Camp Gibbs",
-"description": "Camb Gibbs is a former Civilian Conservation Corps Camp.  Many of the original buildings are still standing..",
+"description": "Camb Gibbs is a former Civilian Conservation Corps Camp.  Many of the original buildings are still standing. Contributing elements include the Mess Hall, Shower House, Pumphouse, four Barracks, Recreation Hall site, Headquarters/laundry, Barracks site, Quarters, Infirmary, Pole Shed, New Kitchen, Hiawatha Club, Carpenter's Shop, Playhouse, foundation remains, trash dock, and dump.  A dump is nearby where supplies and equipment were buried when the camp was abandoned in 1941.",
 "startdate": "1935",
 "enddate": "1941",
 "modal_type":"full",
@@ -1227,19 +1227,6 @@
 "icon": "cemetery.png"
 },
 
-{
-"id": "jshist-forty",
-"title": "Forty Mile Point Lighthouse",
-"description": "This lighthouse complex consists of a double Keeper's Dwelling with a brick light tower. There are also two brick privies, a brick oil house, and fog signal building.",
-"startdate": "1894",
-"enddate": "1944",
-"modal_type":"full",
-"link": "http://www.40milepointlighthouse.org/",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Forty_Mile_Point_Light_Station_-_Michigan.jpg/220px-Forty_Mile_Point_Light_Station_-_Michigan.jpg",
-"high_threshold":45,
-"importance":"40",
-"icon": "lighthouse2.png"
-},	
 
 {
 "id": "jshist-greenpoint",
@@ -1392,7 +1379,7 @@
 {
 "id": "jshist-mtpleasant",
 "title": "Mount Pleasant Indian Industrial Boarding School",
-"description": "This boarding school was built to educate Native American children, many of who were taken forcibly from their homes.  Several buildings are extant, and archaeological work around them has helped provide more information on the life of the students.",
+"description": "This boarding school was built to educate Native American children, many of who were taken forcibly from their homes.  Several buildings are extant, and archaeological work around them has helped provide more information on the life of the students. <p> Image from www.sagchip.org.",
 "startdate": "1893",
 "enddate": "1934",
 "link": "http://www.cm-life.com/article/2014/01/under-the-shadow-of-history-abandoned-native-american-boarding-school-brings-to-light-one-tribes-str",
