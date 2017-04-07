@@ -621,7 +621,7 @@
 {
 "id":"jshist-02",
 "title": "Spider Cave",
-"description": "This series of wave cut niches contain the only known pictographs in the state of Michigan, or painted images. Image copyright Jessica Yann.",
+"description": "This series of wave cut niches contain the only known pictographs in the state of Michigan, or painted images. Most of the information on the site comes from the 1960s, when the site was owned privately.  The site was purchased by the State of Michigan, and in 1963 limited excavations were conducted.  The cave was found to contain over 90 projectile points of stone and antler, along with the rock paintings of colors ranging from red through blue.  <p> Image copyright Jessica Yann.",
 "startdate": "-600",
 "enddate": "600",
 "modal_type": "full",
@@ -1022,11 +1022,12 @@
 {
 "id":"jshist-oxbow",
 "title": "Oxbow Archaeological District",
-"description": "This district contains many acrhaeological sites found in a small area, which indicates a large population in this location prehistorically. Sites include camps, earthworks, and surface scatters of artifacts. While individual sites may not provide a significant amount of information on the past, taken together they demonstrate... ",
+"description": "This district contains many archaeological sites found in a small area, which indicates a large population in this location prehistorically. Sites include camps, earthworks, and surface scatters of artifacts. While individual sites may not provide a significant amount of information on the past, taken together they demonstrate... ",
 "startdate": "-600",
 "enddate": "1200",
 "high_threshold":50,
 "importance":"40",
+"modal_type": "full",
 "icon":"mound2.png"
 },
 
