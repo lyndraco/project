@@ -1214,11 +1214,12 @@
 {
 "id": "jshist-dumaw",
 "title": "Dumaw Creek",
-"description": "This village and cemetery site is unique in that it dates to the cusp of contact with Europeans. Many unique copper items have been found at the site, including copper hair pipes and beads.",
+"description": "This village and cemetery site is unique in that it dates to the cusp of contact with Europeans, dating to the mid-seventeenth century. Many unique copper items have been found at the site, including copper hair pipes and beads.<p> Image from Quimby (1966):38.",
 "startdate": "1600",
 "enddate": "1620",
 "link": [{"url":"https://en.wikipedia.org/wiki/Dumaw_Creek_Site","label":"Wikipedia"}],
 "modal_type":"full",
+"image":"img/dumaw.jpg",
 "high_threshold":45,
 "importance":"40",
 "icon": "village.png"
