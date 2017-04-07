@@ -918,7 +918,7 @@
 {
 "id":"jshist-16",
 "title": "Norton Mounds",
-"description": "The Norton Mound Group is a National Historic Landmark, and is one of the best preserved Hopewellian burial centers in the country. Once a part of an extensive system of over 30 mounds, 11 still retain their basic form.  The University of Michigan undertook excavations in the 1960s. The information gathered demonstrated these people had a massive trade network, with artifacts like pearls, copper beads, and marine shells.",
+"description": "The Norton Mound Group is a National Historic Landmark, and is one of the best preserved Hopewellian burial centers in the country. Once a part of an extensive system of over 30 mounds, 11 still retain their basic form.  The University of Michigan undertook excavations in the 1960s. The information gathered demonstrated these people had a massive trade network, with artifacts like pearls, copper beads, and marine shells. <p> Image from Wikipedia Commons, Robert Smith (February 1966), “Excavating the Hopewell Burial Mounds at Grand Rapids”, in Research News[1], volume 16.",
 "startdate": "-500",
 "enddate": "-200",
 "modal_type": "full",
@@ -1337,7 +1337,7 @@
 {
 "id": "jshist-greenpoint",
 "title": "Green Point",
-"description": "This Early Woodland period site contains evidence for early domesticate use (squash).",
+"description": "Excavations at Green Point have been done by the University of Michigan and Michigan State University.  Buried layers of human activity have been found. However, the site is most significant for providing evidence for early domesticate use (squash). Three seeds found here may date to the Terminal Archaic/Early Woodland period. <p> Image is a stock image of squash seeds.",
 "startdate": "-501",
 "enddate": "600",
 "high_threshold":45,
@@ -1350,7 +1350,7 @@
 {
 "id": "jshist-schultz",
 "title": "Schultz",
-"description": "This is the type site for Early and Middle Woodland sites in the Saginaw region. It contains distinct strata from different time periods. The site contains evidence for squash.",
+"description": "This is the type site for Early and Middle Woodland sites in the Saginaw region. It contains distinct strata from different time periods. The site contains evidence for squash. It is significant in that it is the site against which all other sites from this time/region are compared to.",
 "startdate": "-499",
 "enddate": "1700",
 "link": [{"url":"glossary.html#Strata", "label":"What are strata?"}],
