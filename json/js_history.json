@@ -262,7 +262,7 @@
 {
 "id":"jshist-unix",
 "title": "Old Fort Brady",
-"description":"Old Fort Brady was constructed in 1822 near the site of the previous French Fort Repentigny.  The fort was a military outpost to protect the straits.  Artifacts have been recovered from the fort.",
+"description":"Old Fort Brady was constructed in 1822 near the site of the previous French Fort Repentigny.  The fort was a military outpost to protect the straits.  Artifacts have been recovered from the fort, from a series of excavations by both Michigan State University and Lake Superior State University.<p> Image from www.lssu.edu.",
 "startdate": "1822",
 "enddate": "1892",
 "importance":"45",
@@ -1255,12 +1255,12 @@
 {
 "id": "jshist-vanhoosen",
 "title": "Van Hoosen Farm",
-"description": "This nineteenth century farm complex started as a double log cabin in 1823.  A Greek Revival style frame house was constructed in 1840.  Archaeology on the site has revealed numerous kinds of artifacts.",
+"description": "This nineteenth century farm complex started as a double log cabin in 1823.  A Greek Revival style frame house was constructed in 1840.  Archaeology on the site has revealed numerous kinds of artifacts, which have aided in the public interpretation of the site. <p> Image from http://www.rochesterhills.org.",
 "startdate": "1823",
 "enddate": "1952",
 "link": "http://www.rochesterhills.org/museum",
 "modal_type":"full",
-"image": "https://s-media-cache-ak0.pinimg.com/originals/f6/b6/d3/f6b6d370b5c01f2d16958c8813e0e723.jpg",
+"image": "http://www.rochesterhills.org/images/pages/N784/Farmhouse%20VHP%202053%20a%20(Custom).jpg",
 "high_threshold":45,
 "importance":"40",
 "icon": "house.png"
