@@ -403,22 +403,6 @@
 
 
 
-
-{
-"id":"jshist-nnavigator",
-"title": "Pine River Channel",
-"description":"This small camp contains a Late Woodland assemblage of triangular points, stemmed and side-notched points, drills, knives, bifaces, end scrapers, and gravers.",
-"startdate": "800",
-"enddate": "1000",
-"high_threshold":50,
-"modal_type": "full",
-"importance":"40",
-"date_display":"ye",
-"icon":"campfire.png"
-},
-
-
-
 {
 "id":"jshist-jvms",
 "title": "Pi-wan-go-ning Quarry",
@@ -787,7 +771,7 @@
 {
 "id":"jshist-04",
 "title": "Skegemog Point",
-"description": "This large site includes several distinct Late Woodland occupations.  Artifacts include ceramics, triangular points, end scrapers, bifaces, and debitage.",
+"description": "This large site includes several distinct Late Woodland occupations.  Artifacts include ceramics, triangular points, end scrapers, bifaces, and debitage. Features have also been found at the site. A very large ceramic assemblage has been found at the site.",
 "startdate": "780",
 "enddate": "1420",
 "high_threshold":50,
