@@ -1124,10 +1124,11 @@
 {
 "id":"jsconf2012",
 "title": "Gyftakis",
-"description": "Excavations at this camp have revealed a variety of pottery, some with food residue.",
+"description": "Excavations at this camp have revealed a variety of pottery, some with food residue. Numerous ceramic vessels have been recovered here.",
 "startdate": "-75",
 "enddate": "145",
 "high_threshold":50,
+"modal_type":"full",
 "importance":"40",
 "icon":"campfire.png"
 },
