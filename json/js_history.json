@@ -252,6 +252,7 @@
 "importance":"40",
 "link": [{"url":"https://en.wikipedia.org/wiki/Naomikong_Point_Site", "label":"Wikipedia"}, {"url":"glossary.html#postmold", "label": "What's a post mold?"}],
 "date_display":"ye",
+"modal_type":"full",
 "high_threshold":50,
 "icon":"campfire.png"
 },
