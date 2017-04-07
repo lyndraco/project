@@ -537,7 +537,7 @@
 {
 "id":"jshist-06",
 "title": "Fayette",
-"description":"This iron smelting complex and town is now a state park, with many of the original structures still standing.  Industrial buildings include the charcoal and limestone kilns and the smelters, while residential buildings include laborers' cabins, doctor's house, supervisor's house, boarding house, school, hotel, and company store.  Excavations at the site have provided evidence for differences in class and health across the site, as well as revealing a prehistoric component.",
+"description":"This iron smelting complex and town is now a state park, with many of the original structures still standing.  Industrial buildings include the charcoal and limestone kilns and the smelters, while residential buildings include laborers' cabins, doctor's house, supervisor's house, boarding house, school, hotel, and company store.  Excavations at the site have provided evidence for differences in class and health across the site, as well as revealing a prehistoric component. <p> Image from www.michigan.gov.",
 "startdate": "1867",
 "enddate": "1891",
 "image": "http://www.michigan.gov/images/mhc/fayette-historic-townsite_534355_7.jpg",
@@ -549,22 +549,6 @@
 "icon":"industrial.png"
 },
 
-
-	
-{
-"id":"jshist-nnav2",
-"title": "Pt Peninsula Light",
-"description": "This lighthouse has been excavated.",
-"startdate": "1865",
-"enddate": "1931",
-"date_display":"ye",
-"modal_type":"full",
-"link":[{"url":"https://en.wikipedia.org/wiki/Peninsula_Point_Light","label": "Wikipedia"}],
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PeninsulaPointLight.jpg/220px-PeninsulaPointLight.jpg",
-"high_threshold":50,
-"importance":"40",
-"icon":"lighthouse2.png"
-},
 
 
 {
@@ -919,6 +903,7 @@
 "startdate": "1864",
 "enddate": "1920",
 "high_threshold":50,
+"modal_type":"full",
 "importance":"20",
 "icon":"industrial.png"
 },
@@ -1407,7 +1392,7 @@
 {
 "id": "jshist-detroit",
 "title": "Detroit Dry Dock Co. complex",
-"description": "The Detroit Dry Dock Company complex once included two dry docks, a shipyard, associated support structures, sawmill, loft and office.  THe first dry dock was built to service schooners, while the second to service larger steam vessels.",
+"description": "The Detroit Dry Dock Company complex once included two dry docks, a shipyard, associated support structures, sawmill, loft and office.  THe first dry dock was built to service schooners, while the second to service larger steam vessels. Dock #1 may be the only intact 19th century dry dock in the Great Lakes region.<p> Image from Wikipedia Commons.",
 "startdate": "1860",
 "enddate": "1915",
 "modal_type":"full",
