@@ -559,6 +559,7 @@
 "startdate": "-1000",
 "high_threshold":45,
 "modal_type": "full",
+"image": "img/20DK23.jpg",
 "importance":"50",
 "icon":"rock art.png"
 },
@@ -813,6 +814,7 @@
 "startdate": "1911",
 "modal_type":"full",
 "enddate": "1960",
+"image":"img/five channels 2.jpg",
 "high_threshold":50,
 "importance":"45",
 "icon":"industrial.png"
@@ -1132,6 +1134,7 @@
 "startdate": "885",
 "enddate": "1035",
 "high_threshold":45,
+"image":"img/20MU3.jpg",
 "modal_type":"full",
 "importance":"50",
 "icon": "campfire.png"
