@@ -167,7 +167,7 @@
 "importance":"48",
 "link":[{"url":"https://en.wikipedia.org/wiki/Sand_Point_Site", "label":"Wikipedia"}],
 "modal_type": "full",
-"image": "img/Sand point vessel_3.jpg",
+"image": "img/Sand Point vessel_3.jpg",
 "high_threshold":50,
 "icon":"village.png"
 },
@@ -512,7 +512,7 @@
 "enddate": "130",
 "high_threshold":50,
 "modal_type": "full",
-"image": "img/Lovis_wintersite.jpg",
+"image": "img/Lovis_wintersite.JPG",
 "importance":"40",
 "icon":"village.png"
 },
