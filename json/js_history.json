@@ -167,6 +167,7 @@
 "importance":"48",
 "link":[{"url":"https://en.wikipedia.org/wiki/Sand_Point_Site", "label":"Wikipedia"}],
 "modal_type": "full",
+"image": "Sand point vessel_3.jpg",
 "high_threshold":50,
 "icon":"village.png"
 },
@@ -216,6 +217,7 @@
 "link": [{"url":"https://en.wikipedia.org/wiki/Naomikong_Point_Site", "label":"Wikipedia"}, {"url":"glossary.html#postmold", "label": "What's a post mold?"}],
 "date_display":"ye",
 "modal_type":"full",
+"image":"Naomikong vessel.jpg",
 "high_threshold":50,
 "icon":"campfire.png"
 },
@@ -510,6 +512,7 @@
 "enddate": "130",
 "high_threshold":50,
 "modal_type": "full",
+"image": "Lovis_wintersite.jpg",
 "importance":"40",
 "icon":"village.png"
 },
