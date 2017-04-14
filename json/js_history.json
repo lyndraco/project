@@ -310,11 +310,12 @@
 {
 "id":"Schoolcraft House",
 "title": "Schoolcraft House",
-"description":"This was once the home of Henry Schoolcraft (Indian agent and author). Archaeological work located many atifacts related to this early occupation, as well as evidence for prehistoric occupation.",
+"description":"This was once the home of Henry Schoolcraft (Indian agent and author). He was appointed U.S. Indian Agent in Sault Ste. Marie in 1822. He operated out of this house until 1833.  The American Fur Company used the building for a year after that. The building has had subsequent uses and modifications, but is largely intact.  Archaeological work located many atifacts related to this early occupation, as well as evidence for prehistoric occupation.",
 "startdate": "1827",
 "enddate": "1850",
 "high_threshold":50,
 "modal_type":"full",
+"image":"img/schoolcraft.jpg",
 "importance":"40",
 "date_display":"ye",
 "icon":"house.png"
@@ -465,7 +466,7 @@
 {
 "id":"jshist-backbone",
 "title": "Greensky Hill Mission",
-"description":"A small mission was built here in 1839 by Peter Greensky. A log building was constructed in 1861. The church has been preserved with all of the original woodwork and can only seat about 50 people.<p> Image courtesy of By rossograph - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40682104",
+"description":"A small mission was built here in 1839 by Peter Greensky, an Ottawa. He endeavored to convert people to protestant christianity.  A log building was constructed in 1861. The church has been preserved with all of the original woodwork and can only seat about 50 people.<p> Image courtesy of By rossograph - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40682104",
 "startdate": "1839",
 "enddate": "1851",
 "high_threshold":50,
