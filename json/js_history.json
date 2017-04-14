@@ -495,11 +495,12 @@
 {
 "id":"jshist-summer",
 "title": "Summer Island",
-"description":"This warm season camp contained at least four oval houses approximately 8 meters long and 5 meters wide.  Hearths, drying racks, storage pits, and refuse areas were also present.  Archaeologists have found a variety of tools for fishing and netmaking, as well as a variety of copper tools.  Radiocarbon dates place occupation at the site from the Early Woodland through the Late Woodland (320 BC to AD 1500).",
+"description":"This warm season camp contained at least four oval houses approximately 8 meters long and 5 meters wide.  Hearths, drying racks, storage pits, and refuse areas were also present.  Archaeologists have found a variety of tools for fishing and netmaking, as well as a variety of copper tools.  Radiocarbon dates place occupation at the site from the Early Woodland through the Late Woodland (320 BC to AD 1500), with another occupation around 1620 with evidence for European goods. This site is significant in that the successive occupations here show different adaptations to the same environment.",
 "startdate": "-320",
 "enddate": "1500",
 "high_threshold":50,
 "modal_type": "full",
+"image":"img/20DE4.jpg",
 "link": [{"url": "https://en.wikipedia.org/wiki/Summer_Island_Site", "label":"Wikipedia"}],
 "importance":"40",
 "icon":"campfire.png"
