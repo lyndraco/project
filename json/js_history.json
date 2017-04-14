@@ -895,10 +895,11 @@
 {
 "id":"jshist-googclosure",
 "title": "Boven Earthworks",
-"description": "This circular enclosure with a ditch also contains evidence for a stockade around the site.",
+"description": "This circular enclosure with a ditch also contains evidence for a stockade around the site.  There is minimal evidence for occupation around the enclosure though there is some charcoal and pottery. Post molds have been identified, representing the palisade, that surrounded the outer perimeter of the mound.  There are not many known surviving earthworks site in Michigan, making this site unique.",
 "startdate": "1370",
 "enddate": "1570",
 "modal_type": "full",
+"image":"img/20MA19.jpg",
 "link":[{"url":"https://en.wikipedia.org/wiki/Boven_Earthwork", "label":"Wikipedia"}],
 "high_threshold":50,
 "importance":"40",
