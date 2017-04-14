@@ -278,7 +278,7 @@
 {
 "id":"jshist-mosaic",
 "title": "Garden Island Cemetery",
-"description":"Odawa cemetery site, listed on the National Register in 1978.",
+"description":"Odawa cemetery site, listed on the National Register in 1978. At least 30 of the graves are marked by spirit houses.  This cemetery, with this type of grave monument, is one of the few remaining in the country.",
 "startdate": "1851",
 "enddate": "1935",
 "high_threshold":50,
@@ -858,8 +858,8 @@
 {
 "id":"jshist-18",
 "title": "Aetna Earthworks",
-"description": "These circular earthworks consist of a bank and ditch. Numerous ceramic vessels have been recovered from around the enclosures. <p> Image from Wikipedia commons, Aetna Earthworks, Missaukee County MI c1923. Prof. Hinsdale standing on tree crossing the moat portion of the earthwork, Prof Ruthven standing below.",
-"startdate": "1200",
+"description": "These circular earthworks consist of a bank and ditch. Numerous ceramic vessels have been recovered from around the enclosures. These earthworks are significant in that there are few remaining in Michigan.<p> Image from Wikipedia commons, Aetna Earthworks, Missaukee County MI c1923. Prof. Hinsdale standing on tree crossing the moat portion of the earthwork, Prof Ruthven standing below.",
+"startdate": "1400",
 "high_threshold":50,
 "modal_type":"full",
 "link": [{"url":"https://en.wikipedia.org/wiki/Aetna_Earthworks","label":"Wikipedia"}],
