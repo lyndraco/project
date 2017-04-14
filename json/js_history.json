@@ -402,11 +402,13 @@
 {
 "id":"jshist-jscript",
 "title": "Mt. McSauba",
-"description":"This seasonal Late Woodland camp has had a series of excavations. An OSL date from the site came to 740 +/-70. Michigan State University first discovered the site in 1969, then excavated it in 1972. The site is located on an eroding beach and dune area, and consists of many buried living surfaces. Despite being located on the Lake Michigan shoreline, no fish remains were recovered.",
+"description":"This seasonal Late Woodland camp has had a series of excavations. An OSL date from the site came to 740 +/-70. Michigan State University first discovered the site in 1969, then excavated it in 1972. The site is located on an eroding beach and dune area, and consists of many buried living surfaces, many with cultural material (artifacts) still in their original location. Despite being located on the Lake Michigan shoreline, no fish remains were recovered. ",
 "startdate": "670",
 "enddate": "710",
 "date_display":"ye",
 "high_threshold":50,
+"image":"img/20CX23.jpg",
+"link":[{"url":"glossary.html#OSL","label":"What is OSL dating?"}],
 "modal_type": "full",
 "importance":"40",
 "icon":"campfire.png"
