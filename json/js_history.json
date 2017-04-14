@@ -571,24 +571,11 @@
 
 
 
-{
-"id":"jshist-js-era",
-"title": "River Park",
-"description": "This small Woodland camp contains a basalt cobble with faint decorative markings that may depict a stylized animal. A single potsherd was also found at the site in one of the severla basin-shaped features.",
-"startdate": "601",
-"enddate": "1600",
-"low_threshold":41,
-"high_threshold":52,
-"importance":"50",
-"date_display":"ye",
-"icon":"campfire.png"
-},
-
 
 {
 "id":"jshist-14rhino",
 "title": "Sliding Stump",
-"description": "This Woodland camp contains several hearth features and a vareity of lithic and ceramic artifacts.",
+"description": "This Woodland camp contains several hearth features and a vareity of lithic and ceramic artifacts. This small site has very deep features present, which is unusual for the western Upper Peninsula. This also means the site is likely to provide additional information on the people who lived here during this little known time.",
 "startdate": "900",
 "enddate": "1600",
 "high_threshold":50,
@@ -609,18 +596,6 @@
 "icon":"campfire.png"
 },
 
-
-{
-"id":"deathofflash",
-"title": "Bike Trail",
-"description": "This small Woodland camp contains several features and a variety of lithic artifacts. A single tiny potsherd was found.  This site is significant for its location in the Western Upper Peninsula.",
-"startdate": "599",
-"enddate": "1700",
-"high_threshold":50,
-	"modal_type":"full",
-"importance":"35",
-"icon":"campfire.png"
-},
 
 
 
