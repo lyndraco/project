@@ -703,11 +703,12 @@
 {
 "id":"jshist-04",
 "title": "Skegemog Point",
-"description": "This large site includes several distinct Late Woodland occupations.  Artifacts include ceramics, triangular points, end scrapers, bifaces, and debitage. Features have also been found at the site. A very large ceramic assemblage has been found at the site.",
+"description": "This large site includes several distinct Late Woodland occupations.  Over 50 features were documented by Michigan State University during excavations, including 26 hearths.  The most interesting of the features is the many postmolds, outlining cirular structures (see image here). Artifacts include ceramics, triangular points, end scrapers, bifaces, and debitage. The ceramic assemblage is large and quite varied, providing evidence for some sort of interaction between various groups.",
 "startdate": "780",
 "enddate": "1420",
 "high_threshold":50,
 "modal_type": "full",
+"image":"img/20GT2.jpg",
 "link": [{"url":"img/madison.jpg", "label": "What is a triangular point?"}],
 "importance":"50",
 "icon":"village.png"
