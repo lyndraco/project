@@ -227,7 +227,7 @@
 {
 "id":"jshist-unix",
 "title": "Old Fort Brady",
-"description":"Old Fort Brady was constructed in 1822 near the site of the previous French Fort Repentigny.  The fort was a military outpost to protect the straits.  Artifacts have been recovered from the fort, from a series of excavations by both Michigan State University and Lake Superior State University.<p> Image from www.lssu.edu.",
+"description":"Old Fort Brady was constructed in 1822 near the site of the previous French Fort Repentigny.  The fort was a military outpost to protect the straits.  Artifacts have been recovered from the fort, from a series of excavations by both Michigan State University and Lake Superior State University. Excavations have also revealed three of the original walls of the fort. The fort also served to guard the Soo Locks.<p> Image from www.lssu.edu.",
 "startdate": "1822",
 "enddate": "1892",
 "importance":"45",
@@ -298,6 +298,7 @@
 "startdate": "1893",
 "enddate": "1944",
 "high_threshold":50,
+"image":"img/newfortbrady.jpg",
 "importance":"40",
 "date_display":"ye",
 "link":[{"url":"http://www.fortwiki.com/New_Fort_Brady","label":"Wikipedia"}],
@@ -1140,7 +1141,7 @@
 {
 "id": "jshist-toft",
 "title": "Toft Lake Village",
-"description": "This Middle Woodland village is unique in that it provides evidence on a single component of life.",
+"description": "This Middle Woodland village is unique in that it provides evidence on a single component of life. Excavations have revealed stone tools (both chipped and ground), scrapers, gorgets, and pottery. The pottery shows similarities to pottery used by people much further south, suggesting some sort of interaction.",
 "startdate": "-200",
 "enddate": "600",
 "high_threshold":45,
