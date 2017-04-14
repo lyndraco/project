@@ -1005,18 +1005,6 @@
 
 
 {
-"id":"jsconf2012",
-"title": "Gyftakis",
-"description": "Excavations at this camp have revealed a variety of pottery, some with food residue. Numerous ceramic vessels have been recovered here.",
-"startdate": "-75",
-"enddate": "145",
-"high_threshold":50,
-"modal_type":"full",
-"importance":"40",
-"icon":"campfire.png"
-},
-
-{
 "id":"_now",
 "title": "Marquette Street Archaeological District",
 "description": "The Marquette Street Archaeological District includes the village of Te Oskonchiae and the Marquette Mission site.  The village includes the archaeological remains of long houses and a palisade for a 17th/18th century Native American village. The mission is generally associated to Father Marquette and French missionaries. Numerous artifacts have been found that demonstrate Native American groups were incorporating European trade goods into their culture.<p> Image from http://www.stignace.com/backend/uploads/cms/images/Museum-of-Ojibay-Culture-St-Ignace.jpg.",
