@@ -625,40 +625,16 @@
 {
 "id":"jshist-tracemonkey",
 "title": "Wycamp Creek",
-"description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component.",
+"description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component. The site is unusual in that there is a wide range in the types of artifacts present, both in the pottery and the stone tools. One idea for why this occurs is that this region served as a cultural connection between several different areas of the Great Lakes.  There is also considerable evidence at the site for stone tool manufacture, showing a wide range of techniques, and a great degree of skill.",
 "startdate": "510",
 "enddate": "750",
 "high_threshold":50,
 "importance":"50",
+"image":"img/20EM4.jpg",
 "modal_type": "full",
 "icon":"campfire.png"
 },
 
-
-
-{
-"id":"jshist-resig-post",
-"title": "Wycamp Creek",
-"description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component.",
-"startdate": "1110",
-"enddate": "1330",
-"high_threshold":50,
-"modal_type": "full",
-"importance":"50",
-"icon":"campfire.png"
-},
-
-{
-"id":"jshist-jj-garrett",
-"title": "Wycamp Creek",
-"description": "This multi-component site has a Middle Woodland component, Late Woodland component, and Seventeenth century component.",
-"startdate": "1550",
-"enddate": "1750",
-"high_threshold":50,
-"modal_type": "full",
-"importance":"50",
-"icon":"campfire.png"
-},
 
 
 {
@@ -741,9 +717,9 @@
 {
 "id":"jshist-ecma2",
 "title": "Holiday Park",
-"description": "Excavations here located undisturbed features, along with a large pottery assemblage. Radiocarbon dates were done from the pottery, providing a date much later than expected.",
-"startdate": "570",
-"enddate": "650",
+"description": "Excavations here located 15 undisturbed features (hearths and pits), along with a large pottery assemblage.  The site had not been plowed at all, so none of the deposits were disturbed. Radiocarbon dates were done from the pottery, providing a date much later than expected (1230-1470).  This site is unique in that it shows the type of information lost due to plowing. It also contains a large and varied ceramic assemblage, which can be used to study how people interacted in this region during this time.",
+"startdate": "1230",
+"enddate": "1470",
 "high_threshold":50,
 "importance":"40",
 "modal_type": "full",
