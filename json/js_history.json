@@ -481,11 +481,12 @@
 {
 "id":"jshist-require",
 "title": "Feodar Protar House",
-"description":"Feodar Protar was a healer from Russia on Beaver Island.",
+"description":"Feodar Protar moved to Beaver Island in 1893. It became apparent that the residents needed medical help, and he began to study the field, becoming a capable, if unlicensed, physician.  He provided free medical services and supplies to the residents. His original log cabin still stands, and is one of the best preserved on Beaver Island.",
 "startdate": "1880",
 "enddate": "1925",
 "high_threshold":50,
 "modal_type":"full",
+"image":"img/feodar.jpg",
 "date_display":"ye",
 "importance":"35",
 "icon":"house.png"
