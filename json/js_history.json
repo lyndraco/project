@@ -1322,8 +1322,8 @@
 {
 "id": "jshist-seulchoix",
 "title": "Seul Choix",
-"description": "This site has been excavated, and OSL dates have been done on the ceramics.",
-"startdate": "580",
+"description": "Excavations conducted at this site have revealed hearth features, as well as a variety of stone tools and ceramics.  Bone preservation at the site is bad, so there is little evidence for what people ate. However, end scrapers, used for processing hides, are found in very high frequency, suggesting people were doing that.  The dates for the site come from the ceramics, which were dated using OSL.  There are a variety of ceramic types from the site, from the Middle Woodland Laurel type, to later collared and castellated vessels with cord marked designs.",
+"startdate": "660",
 "enddate": "1250",
 "high_threshold":45,
 "modal_type": "full",
