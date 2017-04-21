@@ -966,7 +966,7 @@
 "description": "Fort Mackinac was constructed when the British decided to move their base of operations from the straits to Mackinac Island. Fort Michilimackinac was disassembled and reassembled at the new location. The fort was turned over to the United States in 1796, but retaken by the British in 1812.  It was reoccupied by the US in 1815, where it operated as a military post until 1895. Excavations at the fort have revealed information about daily life, as well as infomation on early trash disposal and drainage systems at the fort.<p> Image from Wikipedia Commons.",
 "startdate": "1780",
 "enddate": "1895",
-"link":[{"url":"www.mackinacparks.com/parks-and-attractions/fort-mackinac/","label":"Mackinac State Historic Parks"}],
+"link":[{"url":"http://www.mackinacparks.com/parks-and-attractions/fort-mackinac/","label":"Mackinac State Historic Parks"}],
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fort_Mackinack_I.jpg/1024px-Fort_Mackinack_I.jpg",
 "high_threshold":50,
 "modal_type":"full",
