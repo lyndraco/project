@@ -1055,7 +1055,7 @@
 "enddate": "1813",
 "modal_type":"full",
 "image": "https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/265D7DE7-1DD8-B71B-0B22CE9194EA9885.jpg",
-"link": [{"url":"https://www.nps.gov/rira/index.html","label":"National Park Service page"}],
+"link": [{"url":"https://www.nps.gov/rira/index.htm","label":"National Park Service page"}],
 "high_threshold":45,
 "importance":"50",
 "icon":"village.png"
