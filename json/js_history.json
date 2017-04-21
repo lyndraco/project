@@ -713,7 +713,7 @@
 "startdate": "1846",
 "enddate": "1945",
 "modal_type":"full",
-"link":{["url":"http://www.quincymine.com/", "label":"Quincy Mine"}],
+"link":[{"url":"http://www.quincymine.com/", "label":"Quincy Mine"}],
 "image": "http://www.mg.mtu.edu/MINE_SHAFTS/qshaft4.jpg",
 "image_height": "20",
 "image_width": "20",
