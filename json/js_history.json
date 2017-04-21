@@ -1333,10 +1333,10 @@
 {
 "id": "jshist-mtpleasant",
 "title": "Mount Pleasant Indian Industrial Boarding School",
-"description": "This boarding school was built to educate Native American children, many of who were taken forcibly from their homes.  Several buildings are extant, and archaeological work around them has helped provide more information on the life of the students. <p> Image from www.sagchip.org.",
+"description": "This boarding school was built to educate Native American children, many of whom were taken forcibly from their homes.  Several buildings are extant, and archaeological work around them has helped provide more information on the life of the students. <p> Image from www.sagchip.org.",
 "startdate": "1893",
 "enddate": "1934",
-"link": "http://www.cm-life.com/article/2014/01/under-the-shadow-of-history-abandoned-native-american-boarding-school-brings-to-light-one-tribes-str",
+"link": [{"url":"http://www.cm-life.com/article/2014/01/under-the-shadow-of-history-abandoned-native-american-boarding-school-brings-to-light-one-tribes-str","label":"Article on school history"}],
 "image": "http://www.sagchip.org/news/images/Saginaw_Chippewa_Tribe_honors__2014-07-09_0_carousel.jpg",
 "high_threshold":45,
 "modal_type":"full",
