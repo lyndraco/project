@@ -16,7 +16,7 @@
 "startdate": "-13000",
 "enddate": "-11000",
 "high_threshold":50,
-"importance":"80",
+"importance":"40",
 "modal_type": "full",
 "video": "https://www.youtube.com/embed/BteVBLfQCEs",
 "image": "img/skull3.jpg",
@@ -34,7 +34,7 @@
 "enddate": "4680",
 "high_threshold":50,
 "modal_type": "full",
-"importance":"60",
+"importance":"40",
 "image": "img/hacklander.jpg",
 "link":[{"url":"glossary.html#middlewoodland", "label":"What does Middle Woodland mean?"}, {"url":"glossary.html#latewoodland", "label":"What does Late Woodland mean?"}],	
 "date_display":"ye",
@@ -51,7 +51,7 @@
 "startdate": "-599",
 "enddate": "600",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "link":[{"url":"https://en.wikipedia.org/wiki/Holtz_Site","label":"Wikipedia"}, {"url":"glossary.html#sherd", "label":"What's a sherd?"}],
 "modal_type": "full",
 "image": "img/holtz.jpg",
@@ -67,7 +67,7 @@
 "startdate": "1869",
 "enddate": "1877",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "link":[{"url":"https://www.fs.usda.gov/recarea/hiawatha/recarea/?recid=13325","label":"Bay Furnace"}],
 "date_display":"ye",
 "modal_type":"full",
@@ -85,7 +85,7 @@
 "low_threshold":51,
 "high_threshold":52,
 "link":"https://www.nps.gov/piro/learn/historyculture/upload/schoolcraftblastfurnace.pdf",
-"importance":"50",
+"importance":"40",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchoolcraftFurnace-MunisingMI3.jpg/1024px-SchoolcraftFurnace-MunisingMI3.jpg",
 "date_display":"ye",
 "y_position":200,
@@ -116,7 +116,7 @@
 "description":"This multicomponent site has been occupied for many thousands of years.  The site includes camps, earthworks, and one of the most significant Upper Mississippian sites in Michigan.  The site was first excavated in 1948, but people have known about it since before then.  These early excavations revealed a very early occupation, approximately 6300 B.C., as well as small later occupations.  The most substantial occupation at the site, however, starts about A.D. 1060 and lasts to 1640, based on radiocarbon dates. A vareity of features have been identified, including smudge pits (for tanning hides), storage pits, hearths, and fire pits for baking. This site is significant because it provided information on the transition from the Late Archaic period through the Late Woodland period.<p> Image courtesy of the Michigan State Historic Preservation Office, of excavations conducted in 1948.",
 "startdate": "1060",
 "enddate": "1600",
-"importance":"50",
+"importance":"40",
 "high_threshold":50,
 "date_display":"ye",
 "image":"img/bluff.jpg",
@@ -148,7 +148,7 @@
 "description":"This is the site of a mission, orphanage, and Native American settlement founded by Frederic Baraga.  Originally, the complex covered 497 acres and included over 15 log houses. <p> Assinins is one of Father Frederic Baraga's earliest Upper Peninsula Catholic missions, and includes some of the oldest structures in the region. The mission was founded in 1843, and destroyed in 1873. Father Baraga wrote his best-known work here, a book on Chippewa grammar and a Chippewa dictionary. The Old St. Joseph Orphanage and school were built on the site in 1860. A larger orphanage was built in 1929. The buildings were used for the Capuchin Fathers as a friary in the 1950s and 1960s. The grounds now house the Keweenaw Bay Indian Tribal Center. <p> Image from www.baragacountyhistoricalmuseum.com.",
 "startdate": "1843",
 "enddate": "1873",
-"importance":"45",
+"importance":"40",
 "high_threshold":50,
 "modal_type":"full",
 "link": [{"url":"https://en.wikipedia.org/wiki/Assinins,_Michigan", "label":"Wikipedia"}],
@@ -164,7 +164,7 @@
 "description":"This site contains a large village and several earthworks. Radiocarbon dates from the site include A.D. 1055, A.D. 1220, and A.D. 330.  Western Michigan University conducted excavations at the site in the 1970s and located a large variety of copper tools, including a crescent, necklace, flat spiral bead, tinkling cone, and 15 rolled beads. Copper tools included awls, barbs, twist drill, hook, harpoon fragment, and projectile points.  Many ceramic vessels have also been found on the site, both grit-tempered and shell-tempered.  <p> This site is significant for the variety of artifacts, the intact features, variety of features and artifactual evidence for how people were living during this time. <p> Image courtesy of Susan Kooiman.",
 "startdate": "300",
 "enddate": "1220",
-"importance":"48",
+"importance":"40",
 "link":[{"url":"https://en.wikipedia.org/wiki/Sand_Point_Site", "label":"Wikipedia"}],
 "modal_type": "full",
 "image": "img/Sand Point vessel_3.jpg",
@@ -179,7 +179,7 @@
 "description":"The site has been continuously occupied since the Late Archaic period, however the most well-known component is from the late eighteenth century, when a cemetery was found. The Late Archaic/Early Woodland component of the site is known from a buried paleosol that contained multiple pit and hearth features. Artifacts found here included Satchell points, bifaces, cores, drills, scrapers, and other chipped stone tools. This period of occupation has been interpreted as a seasonal camp. <p> Image from http://www.archaeowiki.com/images/thumb/e/e5/Genesee.jpg/350px-Genesee.jpg",
 "startdate": "-2000",
 "enddate": "-200",
-"importance":"50",
+"importance":"40",
 "date_display":"ye",
 "modal_type": "full",
 "image": "http://www.archaeowiki.com/images/thumb/e/e5/Genesee.jpg/350px-Genesee.jpg",
@@ -195,7 +195,7 @@
 "description":"The site consists of a hearth, scatter of artifacts and much later homestead foundations.  A radiocarbon date came out to AD 260 +/- 80.  Floral and faunal remains (grape, cranberry, nannyberry, fish, and turtle) indicate that the site was occupied during warm weather.  A smaller Late Woodland camp was also located. <p> Despite some disturbance at the site, it was in relatively good condition with intact features present.  The presence of crushed ceramic vessels here is uncommon in this area of Michigan.  For these reasons, and the fact that the artifacts can be used as a sample to contrast with other regional artifact assemblages, it was listed on the National Register of Historic Places.<p> Image from Wikipedia Commons, from Jeffrey J. Richner, 1991, <i>Archeological Excavations at the Platte River Campground Site (20BZ16), Sleeping Bear Dunes National Lakeshore </i>.",
 "startdate": "180",
 "enddate": "1269",
-"importance":"41",
+"importance":"40",
 "date_display":"ye",
 "high_threshold":50,
 "modal_type": "full",
@@ -230,7 +230,7 @@
 "description":"Old Fort Brady was constructed in 1822 near the site of the previous French Fort Repentigny.  The fort was a military outpost to protect the straits.  Artifacts have been recovered from the fort, from a series of excavations by both Michigan State University and Lake Superior State University. Excavations have also revealed three of the original walls of the fort. The fort also served to guard the Soo Locks.<p> Image from www.lssu.edu.",
 "startdate": "1822",
 "enddate": "1892",
-"importance":"45",
+"importance":"40",
 "LINK": [{"url":"https://en.wikipedia.org/wiki/Fort_Brady","label":"Wikipedia"}],
 "modal_type":"full",
 "image": "http://www.lssu.edu/brady/sec_fort.gif",
@@ -264,7 +264,7 @@
 "startdate": "-10500",
 "enddate": "-7771",
 "high_threshold":50,
-"importance":"80",
+"importance":"40",
 "date_display":"ye",
 "modal_type": "full",
 "image": "img/leavitt bifaces.jpg",
@@ -377,7 +377,7 @@
 "startdate": "800",
 "enddate": "1000",
 "high_threshold":50,
-"importance":"45",
+"importance":"40",
 "modal_type": "full",
 "image":"img/Norwood quarry.jpg",
 "date_display":"ye",
@@ -393,7 +393,7 @@
 "date_display":"ye",
 "high_threshold":50,
 "image": "https://archaeology.uiowa.edu/sites/archaeology.uiowa.edu/files/12MI-CX-01Norwood.jpg",
-"importance":"75",
+"importance":"40",
 "modal_type": "full",
 "link":[{"url":"glossary.html#core", "label":"What's a core?"}, {"url":"glossary.html#chipped", "label":"What are chipped stone tools?"}],
 "icon":"quarry.png"
@@ -424,7 +424,7 @@
 "startdate": "-2500",
 "enddate": "-1000",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "image":"img/inwood.jpg",
 "modal_type": "full",
 "date_display":"ye",
@@ -439,7 +439,7 @@
 "startdate": "1200",
 "enddate": "1700",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "modal_type":"full",
 "image":"img/oneill.jpg",
 "date_display":"ye",
@@ -456,7 +456,7 @@
 "high_threshold":50,
 "date_display":"ye",
 "modal_type": "full",
-"importance":"30",
+"importance":"40",
 "icon":"campfire.png"
 },
 
@@ -474,7 +474,7 @@
 "date_display":"ye",
 "link":[{"url":"https://en.wikipedia.org/wiki/Greensky_Hill_church", "label":"Wikipedia"}],
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Greensky_Hill_Mission_Church.jpg/1024px-Greensky_Hill_Mission_Church.jpg",
-"importance":"42",
+"importance":"40",
 "icon":"mission.png"
 },
 
@@ -490,7 +490,7 @@
 "modal_type":"full",
 "image":"img/feodar.jpg",
 "date_display":"ye",
-"importance":"35",
+"importance":"40",
 "icon":"house.png"
 },
 
@@ -537,7 +537,7 @@
 "modal_type":"full",
 "high_threshold":50,
 "date_display":"ye",
-"importance":"45",
+"importance":"40",
 "icon":"industrial.png"
 },
 
@@ -553,7 +553,7 @@
 "link":[{"url":"https://en.wikipedia.org/wiki/Spider_Cave", "label":"Wikipedia"}, {"url":"glossary.html#pictograph", "label":"What's a pictograph?"}],
 "image":"img/burntbluff.jpg",
 "high_threshold":50,
-"importance":"55",
+"importance":"40",
 "icon":"rock art.png"
 },
 
@@ -566,7 +566,7 @@
 "high_threshold":45,
 "modal_type": "full",
 "image": "img/20DK23.jpg",
-"importance":"50",
+"importance":"40",
 "icon":"rock art.png"
 },
 
@@ -580,7 +580,7 @@
 "startdate": "900",
 "enddate": "1600",
 "high_threshold":50,
-"importance":"35",
+"importance":"40",
 "icon":"campfire.png"
 },
 
@@ -593,7 +593,7 @@
 "enddate": "1600",
 "high_threshold":50,
 "modal_type":"full",
-"importance":"35",
+"importance":"40",
 "icon":"campfire.png"
 },
 
@@ -607,7 +607,7 @@
 "startdate": "510",
 "enddate": "750",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "image":"img/20EM4.jpg",
 "modal_type": "full",
 "icon":"campfire.png"
@@ -641,7 +641,7 @@
 "video": "https://www.youtube.com/embed/iQC-V50dBSk",
 "high_threshold":45,
 "modal_type":"full",
-"importance":"50",
+"importance":"40",
 "icon":"fort.png"
 },
 
@@ -672,7 +672,7 @@
 "modal_type": "full",
 "image": "img/pineriver.jpg",
 "link":[{"url":"glossary.html#hearth", "label":"What's a hearth?"}, {"url":"glossary.html#carbon", "label":"What is radiocarbon dating?"}],
-"importance":"50",
+"importance":"40",
 "icon":"campfire.png"
 },
 
@@ -688,7 +688,7 @@
 "modal_type": "full",
 "image":"img/20GT2.jpg",
 "link": [{"url":"img/madison.jpg", "label": "What is a triangular point?"}],
-"importance":"50",
+"importance":"40",
 "icon":"village.png"
 },
 
@@ -719,7 +719,7 @@
 "image_width": "20",
 "video": "https://www.youtube.com/embed/xbmoZrjkVlc",
 "high_threshold":50,
-"importance":"45",
+"importance":"40",
 "icon":"industrial.png"
 },
 
@@ -734,7 +734,7 @@
 "image": "http://www.pointeauxbarqueslighthouse.org/files/homepage/visual2a.jpg",
 "modal_type":"full",
 "high_threshold":50,
-"importance":"45",
+"importance":"40",
 "icon":"lighthouse2.png"
 },
 
@@ -760,7 +760,7 @@
 "enddate": "1885",
 "high_threshold":50,
 "modal_type":"full",
-"importance":"45",
+"importance":"40",
 "icon":"industrial.png"
 },
 
@@ -774,7 +774,7 @@
 "enddate": "1960",
 "image":"img/five.jpg",
 "high_threshold":50,
-"importance":"45",
+"importance":"40",
 "icon":"industrial.png"
 },
 
@@ -836,7 +836,7 @@
 "link":[{"url":"https://en.wikipedia.org/wiki/Younge_Site","label": "Wikipedia"}],
 "high_threshold":50,
 "modal_type": "full",
-"importance":"45",
+"importance":"40",
 "icon":"village.png"
 },
 
@@ -850,7 +850,7 @@
 "enddate": "1920",
 "high_threshold":50,
 "modal_type":"full",
-"importance":"20",
+"importance":"40",
 "icon":"industrial.png"
 },
 
@@ -896,7 +896,7 @@
 "link":[{"url":"https://en.wikipedia.org/wiki/Holcombe_Site", "label":"Wikipedia"}, {"url": "glossary.html#component", "label":"What's a component?"}],
 "image": "http://www.projectilepoints.net/Points/Pointphotos/Holcombe.jpg",
 "high_threshold":50,
-"importance":"80",
+"importance":"40",
 "modal_type": "full",
 "icon":"campfire.png"
 },
@@ -926,7 +926,7 @@
 "modal_type": "full",
 "image": "img/rs_3.jpg",
 "link": [{"url":"glossary.html#radiographic", "label":"What's a radiographic analysis?"}, {"url":"glossary.html#metallurgic", "label": "What's a metallurgic analysis?"}],
-"importance":"55",
+"importance":"40",
 "icon":"cemetery.png"
 },
 
@@ -953,7 +953,7 @@
 "link":[{"url":"https://en.wikipedia.org/wiki/Gros_Cap_Archaeological_District","label":"Wikipedia"}],
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gros_Cap_Archaeological_District.jpg/1024px-Gros_Cap_Archaeological_District.jpg",
 "high_threshold":50,
-"importance":"50",
+"importance":"40",
 "icon":"village.png"
 },
 
@@ -1029,7 +1029,7 @@
 "link":[{"url":"https://www.michigan.gov/documents/hal_mhc_mhm_carpriverforge_09-11-2002_92637_7.pdf","label":"Carp River Forge"}],
 	"modal_type":"full",
 "high_threshold":45,
-"importance":"50",
+"importance":"40",
 "icon":"industrial.png"
 },
 
@@ -1043,7 +1043,7 @@
 "link": [{"url":"https://en.wikipedia.org/wiki/North_Maumee_Bay_Archeological_District","label":"Wikipedia"}],
 "modal_type": "full",
 "high_threshold":45,
-"importance":"50",
+"importance":"40",
 "icon":"village.png"
 },
 
@@ -1057,7 +1057,7 @@
 "image": "https://www.nps.gov/common/uploads/grid_builder/mwr/crop16_9/265D7DE7-1DD8-B71B-0B22CE9194EA9885.jpg",
 "link": [{"url":"https://www.nps.gov/rira/index.htm","label":"National Park Service page"}],
 "high_threshold":45,
-"importance":"50",
+"importance":"40",
 "icon":"village.png"
 },
 
@@ -1071,7 +1071,7 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NATradingPost.jpg",
 "link": [{"url":"http://www.michigan.org/property/navarre-anderson-trading-post", "label":"Navarre-Anderson Post"}],
 "high_threshold":45,
-"importance":"50",
+"importance":"40",
 "icon": "trade.png"
 },
 
@@ -1084,7 +1084,7 @@
 "high_threshold":45,
 "image":"img/20MU3.jpg",
 "modal_type":"full",
-"importance":"50",
+"importance":"40",
 "icon": "campfire.png"
 },	
 
@@ -1098,7 +1098,7 @@
 "high_threshold":45,
 "link": [{"url":"https://en.wikipedia.org/wiki/Croton_Dam_Mound_Group", "label":"Wikipedia"}],
 "image": "img/croton.jpg",
-"importance":"50",
+"importance":"40",
 "icon": "mound2.png"
 },	
 
@@ -1137,7 +1137,7 @@
 "image": "img/Lambrix.jpg",
 "link":[{"url":"https://en.wikipedia.org/wiki/Green_Quarry_Site", "label":"Wikipedia"}, {"url":"glossary.html#chert", "label":"What's Chert?"}],
 "high_threshold":45,
-"importance":"70",
+"importance":"40",
 "modal_type": "full",
 "icon": "quarry.png"
 },
@@ -1191,7 +1191,7 @@
 "high_threshold":45,
 "modal_type": "full",
 "image": "http://climbers.lsa.umich.edu/wp-content/uploads/2014/05/Cucurbita-maxima-seed-278.jpg",
-"importance":"45",
+"importance":"40",
 "icon": "village.png"
 },	
 
@@ -1204,7 +1204,7 @@
 "link": [{"url":"glossary.html#Strata", "label":"What are strata?"}],
 "high_threshold":45,
 "modal_type": "full",
-"importance":"50",
+"importance":"40",
 "icon": "campfire.png"
 },	
 	
@@ -1215,7 +1215,7 @@
 "startdate": "-6900",
 "enddate": "-5200",
 "high_threshold":45,
-"importance":"60",
+"importance":"40",
 "image": "img/schmidt.jpg",
 "modal_type":"full",
 "link":[{"url":"glossary.html#midden", "label":"What's a midden?"}, {"url":"glossary.html#feature", "label": "What's a feature?"}, {"url":"glossary.html#middlearchaic", "label":"What's Middle Archaic mean?"}],
@@ -1231,7 +1231,7 @@
 "high_threshold":45,
 "modal_type": "full",
 "link": [{"url":"glossary.html#stratified", "label":"What does stratified mean?"}, {"url":"glossary.html#plow", "label": "What is the plow zone?"}],
-"importance":"50",
+"importance":"40",
 "icon": "campfire.png"
 },
 
@@ -1282,7 +1282,7 @@
 "image": "http://www.michigan.gov/images/mhc/sanilac-petroglyphs_534574_7.jpg",
 "high_threshold":45,
 "modal_type": "full",
-"importance":"50",
+"importance":"40",
 "icon": "rock art.png"
 },
 	
@@ -1294,7 +1294,7 @@
 "enddate": "1250",
 "high_threshold":45,
 "modal_type": "full",
-"importance":"50",
+"importance":"40",
 "icon": "campfire.png"
 },	
 	
@@ -1309,7 +1309,7 @@
 "link": [{"url":"https://en.wikipedia.org/wiki/Dry_Dock_Complex_(Detroit,_Michigan)","label":"Wikipedia"}],
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Detroit_Dry_Dock_c_1884.jpg/1024px-Detroit_Dry_Dock_c_1884.jpg",
 "high_threshold":45,
-"importance":"50",
+"importance":"40",
 "icon": "industrial.png"
 },	
 	
@@ -1325,7 +1325,7 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hulls_Trace_Wayne_County_MI_A.JPG/800px-Hulls_Trace_Wayne_County_MI_A.JPG",
 "high_threshold":45,
 "modal_type":"full",
-"importance":"50",
+"importance":"40",
 "icon": "military.png"
 },
 
