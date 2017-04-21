@@ -1069,7 +1069,7 @@
 "enddate": "1894",
 "modal_type":"full",
 "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NATradingPost.jpg",
-"link": "http://www.michigan.org/property/navarre-anderson-trading-post",
+"link": [{"url":"http://www.michigan.org/property/navarre-anderson-trading-post", "label":"Navarre-Anderson Post"}],
 "high_threshold":45,
 "importance":"50",
 "icon": "trade.png"
