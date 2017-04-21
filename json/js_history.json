@@ -1148,7 +1148,7 @@
 "description": "This nineteenth century farm complex started as a double log cabin in 1823.  A Greek Revival style frame house was constructed in 1840.  Archaeology on the site has revealed numerous kinds of artifacts, which have aided in the public interpretation of the site. <p> Image from http://www.rochesterhills.org.",
 "startdate": "1823",
 "enddate": "1952",
-"link": "http://www.rochesterhills.org/museum",
+"link": [{"url":"http://www.rochesterhills.org/museum","label":"Museum page"}],
 "modal_type":"full",
 "image": "http://www.rochesterhills.org/images/pages/N784/Farmhouse%20VHP%202053%20a%20(Custom).jpg",
 "high_threshold":45,
