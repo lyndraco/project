@@ -907,7 +907,6 @@
 "title": "Oxbow Archaeological District",
 "description": "This district contains many archaeological sites found in a small area, which indicates a large population in this location prehistorically. Sites include camps, earthworks, and surface scatters of artifacts. While individual sites may not provide a significant amount of information on the past, taken together they demonstrate the relationship between past people and the environment, as well as life during this time period.",
 "startdate": "-600",
-"enddate": "1200",
 "high_threshold":50,
 "importance":"40",
 "image":"img/oxbow.jpg",
