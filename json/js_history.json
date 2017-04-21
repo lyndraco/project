@@ -31,7 +31,7 @@
 "title": "Hacklander",
 "description":"The Hacklander site consists of a small Archaic component (radiocarbon dated to 4860-4680 BP), Middle Woodland component, along with a larger Late Woodland component. Radiocarbon dates from this later component place the site at AD 1020 +/- 110 and AD 1070 +/-100.  This site is unique in that it had not been disturbed by historic farming prior to being excavated, and can tell us much more about the people who lived here.<p> Image courtesy of the Michigan State Historic Preservation Office.",
 "startdate": "-4860",
-"enddate": "4680",
+"enddate": "-4680",
 "high_threshold":50,
 "modal_type": "full",
 "importance":"40",
