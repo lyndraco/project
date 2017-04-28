@@ -1154,11 +1154,12 @@
 {
 "id": "jshist-battle",
 "title": "Battle Point",
-"description": "A 19th century Ottawa cemetery that was identified from erosion.  Artifacts such as copper tinkling cones, glass beads, brooches, gorgets, iron knives, strike-a-lites, and gun parts were all observed.  Efforts have been made to stabilize the site and identify its boundaries so that it can be protected.  This site has yielded one of the largest assemblages for this time period, and provides significant information about cultural practices among Native American groups.",
+"description": "A 19th century Ottawa cemetery that was identified from erosion.  Artifacts such as copper tinkling cones, glass beads, brooches, gorgets, iron knives, strike-a-lites, and gun parts were all observed.  Efforts have been made to stabilize the site and identify its boundaries so that it can be protected.  This site has yielded one of the largest assemblages for this time period, and provides significant information about cultural practices among Native American groups.<p> Image from Martin & Mainfort 1985.",
 "startdate": "1760",
 "enddate": "1835",
 "link": [{"url":"https://www.jstor.org/stable/40316093","label":"Artic Anthropology article"}],
 "modal_type":"full",
+"image":"img/battlepoint.jpg",
 "high_threshold":45,
 "importance":"40",
 "icon": "cemetery.png"
