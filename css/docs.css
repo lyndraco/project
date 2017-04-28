@@ -21,6 +21,7 @@ p {
 
 h1 {
 	margin:8px 16px;
+	font-family: Georgia, Helvetica, Courier; 
 	font-size:26px;
 	color:#228B22;
 }
