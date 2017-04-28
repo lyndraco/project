@@ -18,8 +18,8 @@
 "high_threshold":50,
 "importance":"40",
 "modal_type": "full",
-"video": "https://www.youtube.com/embed/BteVBLfQCEs",
-"link":[{"url":"Mastodon.pdf", "label":"News Article on Find"}, {"url":"glossary.html#mastodon", "label":"What's a Mastodon"}],
+"image":"img/skull3.jpg",
+"link":[{"url":"Mastodon.pdf", "label":"News Article on Find"}, {"url": "https://www.youtube.com/embed/BteVBLfQCEs", "label": "Youtube Video on Find"}, {"url":"glossary.html#mastodon", "label":"What's a Mastodon"}],
 "icon":"campfire.png"
 },         
  
