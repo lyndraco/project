@@ -101,7 +101,7 @@
 "importance":"40",
 "high_threshold":50,
 "link":[{"url":"https://www.nps.gov/piro/learn/historyculture/ausablelightstation.htm","label":"National Park Service Page"}],
-"image":"https://www.nps.gov/piro/learn/historyculture/images/Au-Sable-fromwater-668x285.jpg",
+"image":"img/ausable.jpg",
 "date_display":"ye",
 "modal_type":"full",
 "icon":"lighthouse2.png"
