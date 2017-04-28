@@ -579,6 +579,7 @@
 "startdate": "900",
 "enddate": "1600",
 "high_threshold":50,
+"modal_type":"full",
 "importance":"40",
 "icon":"campfire.png"
 },
