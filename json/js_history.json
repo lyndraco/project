@@ -1289,7 +1289,7 @@
 "enddate": "1915",
 "modal_type":"full",
 "link": [{"url":"https://en.wikipedia.org/wiki/Dry_Dock_Complex_(Detroit,_Michigan)","label":"Wikipedia"}],
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Detroit_Dry_Dock_c_1884.jpg/1024px-Detroit_Dry_Dock_c_1884.jpg",
+"image": "img/drydock.jpg",
 "high_threshold":45,
 "importance":"40",
 "icon": "industrial.png"
