@@ -1009,9 +1009,9 @@
 "description": "The Jackson Mining Company began construction of a forge complex in 1846, soon after the discovery of iron in the Upper Peninsula.  It first produced in 1848, but was never financially successful and was abandoned in 1855. The complex consists of a dam and waterwheel, forge, two cold-blast bloomeries, four hot blast furnaces, sawmill, store, and houses.<p> Image from Wikipedia commons.",
 "startdate": "1846",
 "enddate": "1855",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jackson_Iron_Company_SiteNegaunee_MI_A.jpg/1024px-Jackson_Iron_Company_SiteNegaunee_MI_A.jpg",
+"image": "img/carpriver.jpg",
 "link":[{"url":"https://www.michigan.gov/documents/hal_mhc_mhm_carpriverforge_09-11-2002_92637_7.pdf","label":"Carp River Forge"}],
-	"modal_type":"full",
+"modal_type":"full",
 "high_threshold":45,
 "importance":"40",
 "icon":"industrial.png"
