@@ -1585,7 +1585,7 @@ background-color:#717171;
 
 .tg-full_modal-vidimg {
 	float: right;
-	width: 100%;
+	width: 50%;
 	margin-right:2%;
 	margin-top:-2%;
 }
@@ -1595,7 +1595,7 @@ background-color:#717171;
 	margin:14px;
 }
 .tg-modal-video, .tg-modal_map {
-	width:100%;
+	width:50%;
 }
 
 .tg-modal_map {
@@ -1607,7 +1607,7 @@ background-color:#717171;
 .tg-modal-video iframe {
 	position:absolute;
 	float:right;
-	width:100%;
+	width:50%;
 }
 
 
