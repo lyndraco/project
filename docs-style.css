@@ -217,7 +217,7 @@ h4 {
 h1 {
 	margin:0 0 0px 0;
 	padding:0;
-	font: monaco, courier; 
+	font-family: Helvetica, Monaco, Courier; 
 	font-size:26px;
 	font-weight:700;
 	color:#228B22;
