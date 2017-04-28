@@ -951,7 +951,7 @@
 "startdate": "1780",
 "enddate": "1895",
 "link":[{"url":"http://www.mackinacparks.com/parks-and-attractions/fort-mackinac/","label":"Mackinac State Historic Parks"}],
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fort_Mackinack_I.jpg/1024px-Fort_Mackinack_I.jpg",
+"image":"img/mackinac.jpg",
 "high_threshold":50,
 "modal_type":"full",
 "importance":"40",
