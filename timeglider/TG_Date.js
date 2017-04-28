@@ -638,7 +638,7 @@ timeglider.TG_Date = {};
 						var  y = parseInt(ye,10);
 					
 						if (y < 0) {
-							return Math.abs(y) + " bce";
+							return Math.abs(y) + " B.C.";
 						} else {
 							return y;
 						}
