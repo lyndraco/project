@@ -803,7 +803,7 @@
 "enddate": "-200",
 "modal_type": "full",
 "link":[{"url":"http://www.michigan.gov/som/0,4669,7-192-29938_68915-54607--,00.html", "label":"More on Norton"}],
-"image": "img/norton.jpg,
+"image": "img/norton.jpg",
 "high_threshold":50,
 "importance":"40",
 "icon":"mound2.png"
