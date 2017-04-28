@@ -1307,7 +1307,7 @@
 "startdate": "1812",
 "enddate": "1828",
 "link": [{"url":"https://en.wikipedia.org/wiki/Hull's_Trace_North_Huron_River_Corduroy_Segment","label":"Wikipedia"}],
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hulls_Trace_Wayne_County_MI_A.JPG/800px-Hulls_Trace_Wayne_County_MI_A.JPG",
+"image": "img/hull.jpg",
 "high_threshold":45,
 "modal_type":"full",
 "importance":"40",
