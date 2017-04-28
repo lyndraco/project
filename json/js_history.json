@@ -447,20 +447,6 @@
 
 
 
-{
-"id":"jshist-qoox",
-"title": "Charlevoix City Park",
-"description":"Michigan State University excavated at this site in 1969.  Surface collections were done of the site in 1968, 1969 and 1976. The ceramics from the collection date the site to approximately A.D. 1350.",
-"startdate": "1350",
-"high_threshold":50,
-"date_display":"ye",
-"modal_type": "full",
-"importance":"40",
-"icon":"campfire.png"
-},
-
-
-
 
 {
 "id":"jshist-backbone",
