@@ -1156,10 +1156,12 @@
 {
 "id": "jshist-spoon",
 "title": "Spoonville",
-"description": "This extensive, multicomponent site represents one of the most intact Hopewell site complexes in Michigan.  The Middle to early Late Woodland mound and habitation site has had many excavations.",
+"description": "This extensive, multicomponent site represents one of the most intact Hopewell site complexes in Michigan.  The Middle to early Late Woodland mound and habitation site has had many excavations. Some of the mounds were opened in the 1870s, revealing burials with copper awls, large plates of mica, shells, pipes, and pottery. This material has been repatriated and reburied now. <p> Image from Wikipedia, of artifacts once housed at the Field Museum.",
 "startdate": "600",
 "enddate": "1000",
-"link": "https://en.wikipedia.org/wiki/Spoonville_site",
+"modal_type":"full",
+"link": [{"url":"https://en.wikipedia.org/wiki/Spoonville_site","label":"Wikipedia"}],
+"image":"img/Spoonville5.jpg",
 "high_threshold":45,
 "importance":"40",
 "icon": "village.png"
