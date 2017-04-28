@@ -151,7 +151,7 @@
 "high_threshold":50,
 "modal_type":"full",
 "link": [{"url":"https://en.wikipedia.org/wiki/Assinins,_Michigan", "label":"Wikipedia"}],
-"image": "http://www.baragacountyhistoricalmuseum.com/photohistory/picture_assinins_1900s_1.JPG",
+"image": "img/assinins.jpg",
 "date_display":"ye",
 "icon":"mission.png"
 },
