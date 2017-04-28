@@ -753,12 +753,13 @@
 	
 {
 "id":"jshist-08",
-"title": "McCargoe Cove",
-"description": "The town of Cove, located in McCargoe Cove, served the Minong Mine.  It is represented by foundations, surface scatter, and underwater remains around the dock.",
+"title": "Minong Mine Historic District",
+"description": "The Minong Mine Historic District encompasses approximately 275 acres from the Minong Ridge to McCargoe Cove on Isle Royale.  The district includes the Village of Cove, an 1875 mining village, an area of open pits, mine shafts, rock tailings, wagon road, dam remains, stamp mill and blacksmith shop, cog railroad, and ore dock, all dating to between 1875 and 1884.  The Village of Cove served the Minong Mine.  It is represented by foundations, surface scatter of artifacts, and underwater remains around the dock. The Minong mine was the largest mining operation on Isle Royale, and is also the site of the most extensive prehistoric copper mines. These prehistoric copper pits were visible to incoming miners in the 1840s. Radiocarbon dating on this prehistoric activity came back 1500 B.C. Some hammerstones have also been found associated with these pits.",
 "startdate": "1875",
 "enddate": "1885",
 "high_threshold":50,
 "modal_type":"full",
+"image":"img/minong.jpg",
 "importance":"40",
 "icon":"industrial.png"
 },
