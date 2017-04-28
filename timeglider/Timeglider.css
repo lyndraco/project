@@ -1585,7 +1585,7 @@ background-color:#717171;
 
 .tg-full_modal-vidimg {
 	width: 50%;
-	float:right;
+	clear:right;
 	margin-right:2%;
 	margin-top:-2%;
 }
