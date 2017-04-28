@@ -827,10 +827,11 @@
 {
 "id":"10things",
 "title": "Glen Haven Sawmill",
-"description": "The Glen Haven sawmill was constructed along with a horse-drawn tramway as part of the village of Glen Haven.  Several features remain including stone features, piers, collapsed brick structures, and metal causeways.",
+"description": "The Glen Haven sawmill was constructed along with a horse-drawn tramway as part of the village of Glen Haven.  Several features remain including stone features, piers, collapsed brick structures, and metal causeways.<p> Image from http://friendsofsleepingbear.org/area-history/glen-haven-2/.",
 "startdate": "1864",
 "enddate": "1920",
 "high_threshold":50,
+"image": "http://friendsofsleepingbear.org/wp-content/uploads/2011/10/Glen-Haven-Sawmill-rails-50.jpg",
 "modal_type":"full",
 "importance":"40",
 "icon":"industrial.png"
