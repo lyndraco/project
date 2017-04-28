@@ -936,7 +936,7 @@
 "enddate": "1700",
 "modal_type": "full",
 "link":[{"url":"https://en.wikipedia.org/wiki/Gros_Cap_Archaeological_District","label":"Wikipedia"}],
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gros_Cap_Archaeological_District.jpg/1024px-Gros_Cap_Archaeological_District.jpg",
+"image": "img/groscap.jpg",
 "high_threshold":50,
 "importance":"40",
 "icon":"village.png"
