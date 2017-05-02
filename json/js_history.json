@@ -903,7 +903,7 @@
 {
 "id":"jshist-14",
 "title": "Riverside",
-"description": "This is a large multicomponent village and cemetery complex. Features include middens, burials, and post molds. Artifacts from the site include bifaces, obsidian, bone tools, and a variety of copper artifacts. Perhaps the most interesting artifact from the site is a piece of copper, that through radiographic and metallurgic analysis, has been found to be of cast copper.",
+"description": "This is a large multicomponent village and cemetery complex. Features include middens, burials, and post molds. Artifacts from the site include bifaces, obsidian, bone tools, and a variety of copper artifacts. Perhaps the most interesting artifact from the site is a piece of copper, that through radiographic and metallurgic analysis, has been found to be of cast copper.<p> Image from http://myplace.frontier.com/~nostberg/archeology/, by Neil Ostberg.",
 "startdate": "-1100",
 "enddate": "600",
 "high_threshold":50,
@@ -917,7 +917,7 @@
 {
 "id":"jshist-10",
 "title": "Juntunen",
-"description": "This Woodland camp site includes hearth features, refuse pits, a long house, animal burials, and human burials. Burials include two ossuaries.  This site was a significant center of activity for people during this time period.",
+"description": "This Woodland camp site includes hearth features, refuse pits, a long house, animal burials, and human burials. Burials include two ossuaries.  This site was a significant center of activity for people during this time period. <p> Image courtesy of the Michigan SHPO.",
 "startdate": "760",
 "enddate": "1400",
 "link":[{"url":"https://en.wikipedia.org/wiki/Juntunen_Site", "label":"Wikipedia"}, {"url":"glossary.html#ossuary", "label": "What is an ossuary?"}],
