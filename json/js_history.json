@@ -922,7 +922,7 @@
 "enddate": "1400",
 "link":[{"url":"https://en.wikipedia.org/wiki/Juntunen_Site", "label":"Wikipedia"}, {"url":"glossary.html#ossuary", "label": "What is an ossuary?"}],
 "high_threshold":50,
-"image":"img/Juntunen.jpg",
+"image":"img/Juntunen.JPG",
 "modal_type": "full",
 "importance":"40",
 "icon":"campfire.png"
