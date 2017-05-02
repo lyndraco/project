@@ -1189,7 +1189,7 @@
 "description": "This is the type site for Early and Middle Woodland sites in the Saginaw region. It contains distinct strata from different time periods. The site contains evidence for squash. It is significant in that it is the site against which all other sites from this time/region are compared to. <p> Image courtesy of the Michigan SHPO.",
 "startdate": "-499",
 "enddate": "600",
-"image":"img/Schultz",
+"image":"img/Schultz.jpg",
 "link": [{"url":"glossary.html#Strata", "label":"What are strata?"}],
 "high_threshold":45,
 "modal_type": "full",
