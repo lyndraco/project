@@ -293,7 +293,7 @@
 {
 "id":"jshist-nexus",
 "title": "New Fort Brady",
-"description":"This fort was constructed to replace Old Fort Brady. It was located on a rise of ground, overlooking the city. Many of the fort's original buildings still stand, and have been incorporated into Lake Superior State University's campus.",
+"description":"This fort was constructed to replace Old Fort Brady. It was located on a rise of ground, overlooking the city. Many of the fort's original buildings still stand, and have been incorporated into Lake Superior State University's campus. <p> Image courtesy of the Michigan SHPO.",
 "startdate": "1893",
 "enddate": "1944",
 "high_threshold":50,
@@ -468,7 +468,7 @@
 {
 "id":"jshist-require",
 "title": "Feodar Protar House",
-"description":"Feodar Protar moved to Beaver Island in 1893. It became apparent that the residents needed medical help, and he began to study the field, becoming a capable, if unlicensed, physician.  He provided free medical services and supplies to the residents. His original log cabin still stands, and is one of the best preserved on Beaver Island.",
+"description":"Feodar Protar moved to Beaver Island in 1893. It became apparent that the residents needed medical help, and he began to study the field, becoming a capable, if unlicensed, physician.  He provided free medical services and supplies to the residents. His original log cabin still stands, and is one of the best preserved on Beaver Island. <p> Image courtesy of the Michigan SHPO.",
 "startdate": "1880",
 "enddate": "1925",
 "high_threshold":50,
@@ -738,7 +738,7 @@
 {
 "id":"jshist-08",
 "title": "Minong Mine Historic District",
-"description": "The Minong Mine Historic District encompasses approximately 275 acres from the Minong Ridge to McCargoe Cove on Isle Royale.  The district includes the Village of Cove, an 1875 mining village, an area of open pits, mine shafts, rock tailings, wagon road, dam remains, stamp mill and blacksmith shop, cog railroad, and ore dock, all dating to between 1875 and 1884.  The Village of Cove served the Minong Mine.  It is represented by foundations, surface scatter of artifacts, and underwater remains around the dock. The Minong mine was the largest mining operation on Isle Royale, and is also the site of the most extensive prehistoric copper mines. These prehistoric copper pits were visible to incoming miners in the 1840s. Radiocarbon dating on this prehistoric activity came back 1500 B.C. Some hammerstones have also been found associated with these pits.",
+"description": "The Minong Mine Historic District encompasses approximately 275 acres from the Minong Ridge to McCargoe Cove on Isle Royale.  The district includes the Village of Cove, an 1875 mining village, an area of open pits, mine shafts, rock tailings, wagon road, dam remains, stamp mill and blacksmith shop, cog railroad, and ore dock, all dating to between 1875 and 1884.  The Village of Cove served the Minong Mine.  It is represented by foundations, surface scatter of artifacts, and underwater remains around the dock. The Minong mine was the largest mining operation on Isle Royale, and is also the site of the most extensive prehistoric copper mines. These prehistoric copper pits were visible to incoming miners in the 1840s. Radiocarbon dating on this prehistoric activity came back 1500 B.C. Some hammerstones have also been found associated with these pits. <p> Image courtesy of the Michigan SHPO.",
 "startdate": "1875",
 "enddate": "1885",
 "high_threshold":50,
